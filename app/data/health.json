@@ -1,1 +1,143 @@
-{"status":"awaiting first live research collection","items":0}
+{
+  "version": "1.3.0",
+  "updated_at": "2026-10-20T06:43:32+00:00",
+  "items": 539,
+  "new_records": 564,
+  "sources": {
+    "OpenAlex": 101,
+    "Crossref": 88,
+    "arXiv": 135,
+    "Europe PMC": 240
+  },
+  "errors": {},
+  "fallback_retained": false,
+  "by_category": {
+    "Technology": 10,
+    "Design": 6,
+    "Medicine": 85,
+    "Environment": 32,
+    "Psychology": 138,
+    "Society": 41,
+    "Biology": 117,
+    "Other": 43,
+    "Neuroscience": 51,
+    "Physics": 16
+  },
+  "diagnostics": {
+    "OpenAlex": {
+      "accepted_before_dedup": 101,
+      "requests": [
+        {
+          "status": 200,
+          "bytes": 631509,
+          "elapsed_ms": 884
+        },
+        {
+          "status": 200,
+          "bytes": 695705,
+          "elapsed_ms": 634
+        },
+        {
+          "status": 200,
+          "bytes": 733059,
+          "elapsed_ms": 693
+        },
+        {
+          "status": 200,
+          "bytes": 567061,
+          "elapsed_ms": 758
+        },
+        {
+          "status": 200,
+          "bytes": 584235,
+          "elapsed_ms": 599
+        },
+        {
+          "status": 200,
+          "bytes": 726566,
+          "elapsed_ms": 579
+        },
+        {
+          "status": 200,
+          "bytes": 609514,
+          "elapsed_ms": 752
+        }
+      ],
+      "error": null
+    },
+    "Crossref": {
+      "accepted_before_dedup": 88,
+      "requests": [
+        {
+          "status": 200,
+          "bytes": 532439,
+          "elapsed_ms": 1616
+        },
+        {
+          "status": 200,
+          "bytes": 789871,
+          "elapsed_ms": 876
+        },
+        {
+          "status": 200,
+          "bytes": 648091,
+          "elapsed_ms": 1302
+        },
+        {
+          "status": 200,
+          "bytes": 205693,
+          "elapsed_ms": 1305
+        }
+      ],
+      "error": null
+    },
+    "arXiv": {
+      "accepted_before_dedup": 135,
+      "requests": [
+        {
+          "status": 200,
+          "bytes": 114186,
+          "elapsed_ms": 577
+        },
+        {
+          "status": 200,
+          "bytes": 115420,
+          "elapsed_ms": 1553
+        },
+        {
+          "status": 200,
+          "bytes": 119076,
+          "elapsed_ms": 290
+        }
+      ],
+      "error": null
+    },
+    "Europe PMC": {
+      "accepted_before_dedup": 240,
+      "requests": [
+        {
+          "status": 200,
+          "bytes": 376162,
+          "elapsed_ms": 2852
+        },
+        {
+          "status": 200,
+          "bytes": 375504,
+          "elapsed_ms": 1179
+        },
+        {
+          "status": 200,
+          "bytes": 393611,
+          "elapsed_ms": 1217
+        },
+        {
+          "status": 200,
+          "bytes": 358554,
+          "elapsed_ms": 1159
+        }
+      ],
+      "error": null
+    }
+  },
+  "note": "Counts are accepted before cross-provider deduplication. Zero without error can reflect query selection or missing abstracts."
+}
