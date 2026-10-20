@@ -1,4 +1,4 @@
-"""Goodscroll 1.3: scholarly metadata collector with source diagnostics and diversity caps.
+"""Goodscroll 1.4: scholarly metadata collector with source diagnostics and diversity caps.
 No AI-invented findings. All summaries are labelled abstract excerpts.
 """
 import json, os, re, time, urllib.request, urllib.parse, xml.etree.ElementTree as ET
@@ -8,7 +8,7 @@ from html import unescape
 from collections import Counter
 ROOT=Path(__file__).resolve().parents[1]
 TODAY=datetime.now(timezone.utc).date()
-UA='Goodscroll/1.3 (noncommercial research discovery; https://github.com/)' 
+UA='Goodscroll/1.4 (noncommercial research discovery; https://github.com/)' 
 FIELDS={
  'Psychology':['psycholog','cogniti','behavio','perception','emotion','memory','attention','mental health'],
  'Neuroscience':['neuron','neural','brain','synap','neuroscien'],
@@ -46,7 +46,7 @@ def record(title,abstract,date,url,authors,venue,provider,doi='',status='Review 
  'venue':clean(venue),'provider':provider,'doi':normaldoi(doi),'publication_type':status,
  'category':discipline(title+' '+abstract[:1400],venue),'open_access':bool(oa),
  'references':list(dict.fromkeys(referenced or []))[:120],'openalex_id':openalex_id,
- 'insight':'Research discovery: this is a description from publication metadata, not an independently verified account of findings.'}
+ 'summary_basis':'abstract_metadata_only','insight':'Research discovery: this is a description from publication metadata, not an independently verified account of findings.'}
 def reconstruct(inv):
  if not isinstance(inv,dict):return ''
  pairs=sorted((p,w) for w,positions in inv.items() for p in positions if isinstance(p,int))
@@ -135,7 +135,16 @@ def main():
    else:
     previous['references']=list(dict.fromkeys(previous.get('references',[])+p.get('references',[])))[:120]
     previous['openalex_id']=previous.get('openalex_id') or p.get('openalex_id','')
+ # Preserve a full unique count and enrich records without asserting review status.
+ unique_before_caps=len(merged)
+ for pp in merged.values():
+  pp['summary_basis']='abstract_metadata_only' if pp.get('abstract') else 'title_metadata_only'
+  pp['evidence_label']=('Preprint / not necessarily peer reviewed' if 'preprint' in pp.get('publication_type','').lower() else 'Publication record / review unverified')
+  pp['has_abstract']=bool(len(pp.get('abstract','').strip())>=100)
+  pp['has_doi']=bool(pp.get('doi'))
+  pp['has_citation_metadata']=bool(pp.get('references'))
  allpapers=sorted(merged.values(),key=lambda x:x.get('date',''),reverse=True)
+
  # Restrict domination from any one category, while preserving reasonable evergreen history.
  seen=Counter();final=[]
  for p in allpapers:
@@ -144,7 +153,25 @@ def main():
   if len(final)>=1600:break
   seen[cat]+=1;final.append(p)
  if final:path.write_text(json.dumps({'items':final},ensure_ascii=False,indent=2),encoding='utf-8')
- health={'version':'1.3.0','updated_at':datetime.now(timezone.utc).isoformat(timespec='seconds'),'items':len(final),'new_records':len(collected),'sources':counts,'errors':errors,'fallback_retained':bool(errors),'by_category':dict(Counter(p.get('category','Other') for p in final)),'diagnostics':diagnostics,'note':'Counts are accepted before cross-provider deduplication. Zero without error can reflect query selection or missing abstracts.'}
+ def age_days(p):
+  try:return (TODAY-datetime.strptime(p['date'],'%Y-%m-%d').date()).days
+  except (ValueError, KeyError, TypeError):return 999999
+ quality={
+  'with_abstract':sum(bool(p.get('has_abstract')) for p in final),
+  'without_abstract':sum(not p.get('has_abstract') for p in final),
+  'with_doi':sum(bool(p.get('has_doi')) for p in final),
+  'with_open_access_indicator':sum(bool(p.get('open_access')) for p in final),
+  'with_citation_metadata':sum(bool(p.get('has_citation_metadata')) for p in final),
+  'preprints':sum('preprint' in p.get('publication_type','').lower() for p in final),
+  'last_7_days':sum(0<=age_days(p)<=7 for p in final),
+  'last_30_days':sum(0<=age_days(p)<=30 for p in final),
+  'last_90_days':sum(0<=age_days(p)<=90 for p in final),
+  'duplicate_or_replaced_candidates':max(0,len(existing)+len(collected)-unique_before_caps),
+  'excluded_by_category_or_total_caps':unique_before_caps-len(final),
+  'note':'Metrics describe metadata quality, not independent verification of scientific findings or peer review.'
+ }
+ previous_keys={key(p) for p in existing if isinstance(p,dict)}
+ health={'version':'1.4.0','updated_at':datetime.now(timezone.utc).isoformat(timespec='seconds'),'items':len(final),'new_records':len(collected),'new_unique_vs_previous':sum(key(p) not in previous_keys for p in final),'sources':counts,'errors':errors,'fallback_retained':bool(errors),'by_category':dict(Counter(p.get('category','Other') for p in final)),'quality':quality,'diagnostics':diagnostics,'note':'Source counts are accepted pre-dedup. Research summaries are metadata-grounded excerpts, not independently verified findings.'}
  (output/'health.json').write_text(json.dumps(health,ensure_ascii=False,indent=2),encoding='utf-8');print(json.dumps({k:v for k,v in health.items() if k!='diagnostics'},indent=2))
  if not final:print('Feed is empty; source errors and diagnostics are in health.json')
 if __name__=='__main__':main()
