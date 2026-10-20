@@ -31,3 +31,13 @@ Collectors use Python standard library. Per-source failures are recorded in `app
 ## Privacy and limitations
 
 Saved papers stay in browser local storage. Paper matching is a simple keyword-overlap heuristic and is sensitive to the quality and breadth of collected abstracts. It does not yet use Semantic Scholar citations or OpenAlex citation graph. Do not treat automated connections as a literature review. Source links remain available for verification.
+
+
+## v1.2.1: Collection-to-deployment fix
+The collection workflow now deploys the newly generated app/data/feed.json itself.
+GitHub Actions pushes made with GITHUB_TOKEN do not trigger the separate push-based deployment workflow.
+After uploading, run **Collect research papers** and check the deployment step at the bottom.
+Open `https://YOUR-USERNAME.github.io/Goodscroll/data/feed.json` (case-sensitive repository path) and verify `items` contains records.
+If the website still appears empty, hard-refresh or clear its service-worker/site data.
+
+Note: the 0-count sources are not necessarily broken; the collector only reports counts of usable records, not HTTP request or filtering diagnostics.
