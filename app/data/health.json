@@ -1,1 +1,12 @@
-{"status":"awaiting first live research collection","items":0}
+{
+  "updated_at": "2026-10-20T06:18:45+00:00",
+  "items": 50,
+  "new_records": 50,
+  "sources": {
+    "OpenAlex": 0,
+    "Crossref": 0,
+    "arXiv": 50
+  },
+  "errors": {},
+  "fallback_retained": false
+}
