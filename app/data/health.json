@@ -1,0 +1,23 @@
+{
+  "updated_at": "2026-10-20T04:52:19.327327+00:00",
+  "published_items": 15,
+  "new_collected": 0,
+  "seed_items": 15,
+  "source_results": {
+    "nasa": {
+      "status": "failed",
+      "items": 0,
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    "met": {
+      "status": "failed",
+      "items": 0,
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    "wikimedia": {
+      "status": "failed",
+      "items": 0,
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    }
+  }
+}
