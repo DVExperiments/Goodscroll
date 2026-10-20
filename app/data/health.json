@@ -1,23 +1,22 @@
 {
-  "updated_at": "2026-10-20T04:52:19.327327+00:00",
-  "published_items": 15,
-  "new_collected": 0,
+  "updated_at": "2026-10-20T05:56:13.970592+00:00",
+  "published_items": 19,
+  "new_collected": 4,
   "seed_items": 15,
   "source_results": {
     "nasa": {
       "status": "failed",
       "items": 0,
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      "error": "HTTP Error 403: Forbidden"
     },
     "met": {
       "status": "failed",
       "items": 0,
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      "error": "HTTP Error 410: Gone"
     },
     "wikimedia": {
-      "status": "failed",
-      "items": 0,
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      "status": "ok",
+      "items": 4
     }
   }
 }

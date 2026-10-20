@@ -1,6 +1,82 @@
 {
-  "updated_at": "2026-10-20T04:52:19.327327+00:00",
+  "updated_at": "2026-10-20T05:56:13.970592+00:00",
   "items": [
+    {
+      "id": "Wikimedia Commons-27718437",
+      "type": "discovery",
+      "pillar": "Joy",
+      "title": "C elegans male",
+      "summary": "A featured animal photograph from Wikimedia Commons. Explore the original file to discover its story and creator.",
+      "source": {
+        "name": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:C_elegans_male.svg"
+      },
+      "quality_score": 82,
+      "read_time": "A quick discovery",
+      "media": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/C_elegans_male.svg/1280px-C_elegans_male.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "alt": "C elegans male",
+        "creator": "KDS444",
+        "license": "CC BY-SA 3.0"
+      }
+    },
+    {
+      "id": "Wikimedia Commons-343056",
+      "type": "discovery",
+      "pillar": "Joy",
+      "title": "Ctenophora edited",
+      "summary": "A featured animal photograph from Wikimedia Commons. Explore the original file to discover its story and creator.",
+      "source": {
+        "name": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ctenophora_edited.jpg"
+      },
+      "quality_score": 82,
+      "read_time": "A quick discovery",
+      "media": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Ctenophora_edited.jpg/1280px-Ctenophora_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "alt": "Ctenophora edited",
+        "creator": "user:uwe kils, edited by Arne Nordmann (norro)",
+        "license": "CC BY-SA 3.0"
+      }
+    },
+    {
+      "id": "Wikimedia Commons-119021826",
+      "type": "discovery",
+      "pillar": "Joy",
+      "title": "Esponja (Scalarispongia scalaris), Ċirkewwa, Malta, Malta, 2021-08-24, DD 31",
+      "summary": "A featured animal photograph from Wikimedia Commons. Explore the original file to discover its story and creator.",
+      "source": {
+        "name": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Esponja_(Scalarispongia_scalaris),_%C4%8Airkewwa,_Malta,_Malta,_2021-08-24,_DD_31.jpg"
+      },
+      "quality_score": 82,
+      "read_time": "A quick discovery",
+      "media": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Esponja_%28Scalarispongia_scalaris%29%2C_%C4%8Airkewwa%2C_Malta%2C_Malta%2C_2021-08-24%2C_DD_31.jpg/1280px-Esponja_%28Scalarispongia_scalaris%29%2C_%C4%8Airkewwa%2C_Malta%2C_Malta%2C_2021-08-24%2C_DD_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "alt": "Esponja (Scalarispongia scalaris), Ċirkewwa, Malta, Malta, 2021-08-24, DD 31",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "Wikimedia Commons-12112879",
+      "type": "discovery",
+      "pillar": "Joy",
+      "title": "Liospiriferina rostrata Noir",
+      "summary": "A featured animal photograph from Wikimedia Commons. Explore the original file to discover its story and creator.",
+      "source": {
+        "name": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Liospiriferina_rostrata_Noir.jpg"
+      },
+      "quality_score": 82,
+      "read_time": "A quick discovery",
+      "media": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Liospiriferina_rostrata_Noir.jpg/1280px-Liospiriferina_rostrata_Noir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "alt": "Liospiriferina rostrata Noir",
+        "creator": "Didier Descouens",
+        "license": "CC BY-SA 4.0"
+      }
+    },
     {
       "id": "seed-otters",
       "type": "discovery",
