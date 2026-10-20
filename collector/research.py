@@ -1,4 +1,4 @@
-"""Goodscroll 1.4: scholarly metadata collector with source diagnostics and diversity caps.
+"""Goodscroll 1.5: scholarly metadata collector with source diagnostics and diversity caps.
 No AI-invented findings. All summaries are labelled abstract excerpts.
 """
 import json, os, re, time, urllib.request, urllib.parse, xml.etree.ElementTree as ET
@@ -8,7 +8,7 @@ from html import unescape
 from collections import Counter
 ROOT=Path(__file__).resolve().parents[1]
 TODAY=datetime.now(timezone.utc).date()
-UA='Goodscroll/1.4 (noncommercial research discovery; https://github.com/)' 
+UA='Goodscroll/1.5 (noncommercial research discovery; https://github.com/)' 
 FIELDS={
  'Psychology':['psycholog','cogniti','behavio','perception','emotion','memory','attention','mental health'],
  'Neuroscience':['neuron','neural','brain','synap','neuroscien'],
@@ -20,6 +20,78 @@ FIELDS={
  'Society':['education','sociolog','econom','culture','policy','inequal','society'],
  'Design':['design','creativ','architect','human-computer interaction','interface']
 }
+
+# Classify using provider-assigned subject metadata first, then title and abstract.
+# Titles carry more weight; generic "model", "learning" and "attention" never signal Psychology.
+TOPICS={
+ 'AI & Computing':[r'\b(?:llm|llms|language model|machine learning|deep learning|neural network|transformer|reinforcement learning|generative ai|artificial intelligence|computer vision|multimodal|agentic|agent actions|fine.tuning|lora|model training|foundation model|software|cybersecurity|algorithm|computer.use|robotic process)\b'],
+ 'Robotics':[r'\b(?:robot|robots|robotic|autonomous navigation|manipulation task)\b'],
+ 'Creative Technology':[r'\b(?:video generation|image generation|3d generation|creative technolog|procedural generat|generative art|digital storytelling|web design|visual design|creative coding)\b'],
+ 'Psychology':[r'\b(?:psycholog|human cognition|human behavior|human behaviour|mental health|emotion regulation|personality|psychotherapy|psychometric|human perception)\b'],
+ 'Neuroscience':[r'\b(?:neuroscien|cerebral|brain|neuron|synap|fMRI|EEG|neural circuit)\b'],
+ 'Medicine':[r'\b(?:patient|clinical trial|hospital|treatment|cancer|vaccine|disease|diagnos|public health|medical|healthcare)\b'],
+ 'Biology':[r'\b(?:protein|genomic|gene expression|bacteri|organism|ecolog|microbiome|evolution|cellular|species|biolog)\b'],
+ 'Environment':[r'\b(?:climate|biodiversity|conservation|ecosystem|pollution|carbon emissions|renewable energy|habitat|environmental)\b'],
+ 'Engineering':[r'\b(?:engineering|semiconductor|battery|materials science|manufacturing|electrical circuit|mechanical design|aerospace)\b'],
+ 'Physics':[r'\b(?:astrophys|quantum|cosmolog|particle physics|astronom|gravitational|condensed matter|optics)\b'],
+ 'Design':[r'\b(?:design thinking|industrial design|user experience|human.computer interaction|architecture|interface design|design research)\b'],
+ 'Business':[r'\b(?:leadership|management|marketing|entrepreneur|organizational|corporate|consumer behavior|business strategy)\b'],
+ 'Society':[r'\b(?:sociolog|education|inequality|social policy|public policy|demograph|community|political science|ethnograph)\b']
+}
+ARXIV_TOPICS={'cs.AI':'AI & Computing','cs.CL':'AI & Computing','cs.LG':'AI & Computing','cs.CV':'AI & Computing','cs.HC':'Design','cs.RO':'Robotics','cs.CR':'AI & Computing','cs.SE':'AI & Computing','q-bio.NC':'Neuroscience','q-bio.MN':'Biology','physics.soc-ph':'Physics','astro-ph.EP':'Physics'}
+OPENALEX_MAP={'computer science':'AI & Computing','artificial intelligence':'AI & Computing','psychology':'Psychology','neuroscience':'Neuroscience','medicine':'Medicine','biology':'Biology','environmental science':'Environment','engineering':'Engineering','physics and astronomy':'Physics','social sciences':'Society','business, management and accounting':'Business','arts and humanities':'Design'}
+
+def classification(title,abstract='',source_topics=None,venue=''):
+ title=str(title or '').lower(); abstract=str(abstract or '').lower(); primary_meta=[str(x).lower() for x in (source_topics or [])]
+ scores={k:0 for k in TOPICS}
+ for name,patterns in TOPICS.items():
+  for pat in patterns:
+   if re.search(pat,title,re.I):scores[name]+=6
+   if re.search(pat,abstract[:2000],re.I):scores[name]+=1
+ for raw in primary_meta:
+  for code,name in ARXIV_TOPICS.items():
+   if raw==code.lower():scores[name]+=12
+  for term,name in OPENALEX_MAP.items():
+   if term==raw or term in raw:scores[name]+=7
+ # Explicit AI/robot terms override ambiguous generic cognitive vocabulary.
+ if re.search(r'\b(?:llm|language model|transformer|agentic|multimodal|deep learning|reinforcement learning|agent actions|lora|fine.tuning)\b',title):scores['AI & Computing']+=12
+ if re.search(r'\b(?:robot|robotics|multi.robot)\b',title):scores['Robotics']+=14
+ ordered=sorted(scores,key=lambda x:(-scores[x],list(TOPICS).index(x)))
+ tags=[x for x in ordered if scores[x]>=4][:4]
+ if not tags:return 'Other',['Other'],0
+ return tags[0],tags,round(min(1,scores[tags[0]]/20),2)
+
+def sentence_list(text):
+ text=clean(text)
+ return [x.strip() for x in re.split(r'(?<=[.!?])\s+(?=[A-Z(])',text) if len(x.strip())>=28]
+
+def evidence_excerpt(sentences,patterns):
+ for sentence in sentences:
+  if any(re.search(p,sentence,re.I) for p in patterns):return sentence[:680]
+ return ''
+
+def explain(p):
+ abstract=p.get('abstract','') or ''; title=p.get('title','') or ''; sentences=sentence_list(abstract)
+ objective=evidence_excerpt(sentences,[r'\b(?:we investigate|we examine|we study|we explore|this study aims|the aim|we ask|our objective|this paper (?:investigates|examines|explores))\b'])
+ method=evidence_excerpt(sentences,[r'\b(?:we (?:conducted|surveyed|evaluated|tested|analysed|analyzed)|participants|patients|dataset|experiment|trial|interview|systematic review|meta.analysis|retrospective|simulation)\b'])
+ findings=evidence_excerpt(sentences,[r'\b(?:we find|we found|results (?:show|indicate|suggest)|our findings|we demonstrate|the results|we observed|was associated|improved by|increased by|decreased by)\b'])
+ limitation=evidence_excerpt(sentences,[r'\b(?:limitation|caution|however|future research|further studies|cannot|small sample|uncertain|not generaliz)\b'])
+ # Extractive evidence: snippets stay traceable to abstract, never supplied as independently validated findings.
+ return {'question':objective,'method':method,'findings':findings,'limitations':limitation,
+ 'why_it_matters':'This paper addresses '+(p.get('category') or 'research').lower()+' questions. Read the abstract and original study to assess its relevance.',
+ 'basis':'extractive_abstract','has_explicit_findings':bool(findings)}
+
+def enrich(p):
+ oldcat=p.get('category','Other')
+ p['category'],p['topics'],p['category_confidence']=classification(p.get('title'),p.get('abstract'),p.get('source_topics'),p.get('venue'))
+ if p['category']=='Other' and oldcat!='Other':
+  p['category']=oldcat if oldcat not in ('Technology',) else 'AI & Computing'
+  p['topics']=[p['category']]
+  p['category_confidence']=.15
+ p['explanation']=explain(p)
+ p['quality_flags']=([ 'abstract_missing' ] if len(p.get('abstract',''))<100 else [])+(['category_uncertain'] if p['category_confidence']<.45 else [])+(['doi_missing'] if not p.get('doi') else [])+(['findings_not_explicit_in_abstract'] if not p['explanation']['has_explicit_findings'] else [])
+ return p
+
 FETCH_STATS={}
 def fetch(url,provider):
  start=time.monotonic()
@@ -44,7 +116,7 @@ def record(title,abstract,date,url,authors,venue,provider,doi='',status='Review 
  key=normaldoi(doi) or url.strip().lower()
  return {'id':key,'title':title,'abstract':abstract[:9000],'date':date,'url':url,'authors':[clean(a) for a in authors if a][:8],
  'venue':clean(venue),'provider':provider,'doi':normaldoi(doi),'publication_type':status,
- 'category':discipline(title+' '+abstract[:1400],venue),'open_access':bool(oa),
+ 'category':discipline(title+' '+abstract[:1400],venue),'source_topics':[],'open_access':bool(oa),
  'references':list(dict.fromkeys(referenced or []))[:120],'openalex_id':openalex_id,
  'summary_basis':'abstract_metadata_only','insight':'Research discovery: this is a description from publication metadata, not an independently verified account of findings.'}
 def reconstruct(inv):
@@ -63,7 +135,13 @@ def openalex():
   for w in data.get('results',[]):
    loc=w.get('primary_location') or {};src=loc.get('source') or {};doi=w.get('doi') or ''
    r=record(w.get('title'),reconstruct(w.get('abstract_inverted_index')),w.get('publication_date'),doi or w.get('id'),[a.get('author',{}).get('display_name','') for a in w.get('authorships',[])],src.get('display_name',''),'OpenAlex',doi,'Journal article / research work — verify review status',bool((w.get('open_access') or {}).get('is_oa')),[ref for ref in w.get('referenced_works',[]) if ref],w.get('id',''))
-   if r:out.append(r)
+   if r:
+    concepts=[t.get('display_name','') for t in (w.get('topics') or [])[:3]]
+    concepts += [x.get('display_name','') for x in (w.get('primary_topic') or {}).get('field',{}).values() if isinstance(x,str)] if False else []
+    primary=(w.get('primary_topic') or {}).get('field') or {}
+    if primary.get('display_name'):concepts.insert(0,primary['display_name'])
+    r['source_topics']=concepts
+    out.append(r)
   time.sleep(.25)
  return out
 
@@ -91,7 +169,9 @@ def arxiv():
    get=lambda tag:(e.findtext('a:'+tag,default='',namespaces=ns) or '').strip()
    authors=[x.findtext('a:name',default='',namespaces=ns) for x in e.findall('a:author',ns)]
    r=record(get('title'),get('summary'),get('published')[:10],get('id'),authors,'arXiv','arXiv',status='Preprint — peer review not established',oa=True)
-   if r:out.append(r)
+   if r:
+    r['source_topics']=[x.attrib.get('term','') for x in e.findall('{http://arxiv.org/schemas/atom}primary_category')+e.findall('{http://arxiv.org/schemas/atom}category')]
+    out.append(r)
   time.sleep(2.5)
  return out
 
@@ -138,6 +218,7 @@ def main():
  # Preserve a full unique count and enrich records without asserting review status.
  unique_before_caps=len(merged)
  for pp in merged.values():
+  enrich(pp)
   pp['summary_basis']='abstract_metadata_only' if pp.get('abstract') else 'title_metadata_only'
   pp['evidence_label']=('Preprint / not necessarily peer reviewed' if 'preprint' in pp.get('publication_type','').lower() else 'Publication record / review unverified')
   pp['has_abstract']=bool(len(pp.get('abstract','').strip())>=100)
@@ -168,10 +249,13 @@ def main():
   'last_90_days':sum(0<=age_days(p)<=90 for p in final),
   'duplicate_or_replaced_candidates':max(0,len(existing)+len(collected)-unique_before_caps),
   'excluded_by_category_or_total_caps':unique_before_caps-len(final),
+  'classification_uncertain':sum('category_uncertain' in p.get('quality_flags',[]) for p in final),
+  'without_explicit_findings':sum(not p.get('explanation',{}).get('has_explicit_findings') for p in final),
+  'by_primary_topic':dict(Counter(p.get('category','Other') for p in final)),
   'note':'Metrics describe metadata quality, not independent verification of scientific findings or peer review.'
  }
  previous_keys={key(p) for p in existing if isinstance(p,dict)}
- health={'version':'1.4.0','updated_at':datetime.now(timezone.utc).isoformat(timespec='seconds'),'items':len(final),'new_records':len(collected),'new_unique_vs_previous':sum(key(p) not in previous_keys for p in final),'sources':counts,'errors':errors,'fallback_retained':bool(errors),'by_category':dict(Counter(p.get('category','Other') for p in final)),'quality':quality,'diagnostics':diagnostics,'note':'Source counts are accepted pre-dedup. Research summaries are metadata-grounded excerpts, not independently verified findings.'}
+ health={'version':'1.5.0','updated_at':datetime.now(timezone.utc).isoformat(timespec='seconds'),'items':len(final),'new_records':len(collected),'new_unique_vs_previous':sum(key(p) not in previous_keys for p in final),'sources':counts,'errors':errors,'fallback_retained':bool(errors),'by_category':dict(Counter(p.get('category','Other') for p in final)),'quality_flags':dict(Counter(flag for p in final for flag in p.get('quality_flags',[]))),'quality':quality,'diagnostics':diagnostics,'note':'Source counts are accepted pre-dedup. Research summaries are metadata-grounded excerpts, not independently verified findings.'}
  (output/'health.json').write_text(json.dumps(health,ensure_ascii=False,indent=2),encoding='utf-8');print(json.dumps({k:v for k,v in health.items() if k!='diagnostics'},indent=2))
  if not final:print('Feed is empty; source errors and diagnostics are in health.json')
 if __name__=='__main__':main()
