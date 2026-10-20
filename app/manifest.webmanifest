@@ -1,1 +1,1 @@
-{"name":"Goodscroll","short_name":"Goodscroll","description":"A better little corner of the internet","start_url":"./","scope":"./","display":"standalone","background_color":"#10191d","theme_color":"#10191d","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"name": "Goodscroll \u2014 Research Discovery", "short_name": "Goodscroll", "start_url": "./index.html", "display": "standalone", "background_color": "#101417", "theme_color": "#101417", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]}

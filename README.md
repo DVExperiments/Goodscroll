@@ -1,63 +1,27 @@
-# ✳ Goodscroll v1.0 — Find your good
+# Goodscroll V1.1 — Research Edition
 
-A mobile-first, installable discovery feed designed around **joy, wonder, creativity, calm, and play**. No accounts, no trackers, no engagement bait.
+An adult-focused research discovery feed for GitHub Pages. This release pivots from cheerful generic cards to actual scholarly metadata.
 
-## What works
-- Mixed feed with responsive card layout and source links
-- Five content pillars and mood filters
-- Save/unsave content in browser localStorage
-- Interest weighting, negative feedback, simple variety-aware feed ranking
-- Three original interactive quiz cards
-- Sharing, browser installability, offline shell and cached feed fallback
-- Python collector with NASA APOD, Wikimedia Commons and Met Open Access adapters
-- Content-health report and scheduled GitHub Actions refresh
+## What's new
+- Editorial dark/light responsive UI
+- Real research collector adapters: OpenAlex, Crossref, arXiv
+- Publication dates, authors, journal/repository, DOI links, abstract previews
+- Explicit preprint and evidence-status labeling; no invented AI summaries
+- Research category filtering, search, reading list (localStorage)
+- Explore Lab: serendipity, catalogue-based concept links, interdisciplinary prompts (no quizzes)
+- API health diagnostics and last-known-good feed retention
 
-## Publish on GitHub Pages
-1. Create a new public repository named `Goodscroll` (or any name).
-2. **Upload the files and folders inside this archive directly into the repository root**, including `.github`. Do not upload the outer `goodscroll-v1` folder as one nested directory.
-3. In **Settings → Pages → Build and deployment**, choose **GitHub Actions**.
-4. In **Actions**, run **Deploy Goodscroll** manually if it does not trigger after uploading.
-5. Open `https://YOUR-USERNAME.github.io/Goodscroll/` (adjust for repo name). On Android, use browser menu → **Add to Home screen** / **Install app**.
-6. In **Actions**, run **Collect Goodscroll content** manually to try fetching live items. It will then run every six hours. Optional: set repository secret `NASA_API_KEY` to improve NASA request quota.
+## Deploy
+1. Upload **the contents** of this ZIP to the root of your existing Goodscroll GitHub repository, replacing existing files. Preserve `.github/workflows`.
+2. Under Settings → Pages, choose **GitHub Actions**.
+3. In Actions, manually run **Collect research papers**. It attempts OpenAlex, Crossref, and arXiv. Check logs and `app/data/health.json` for per-source status.
+4. Run **Deploy Goodscroll** if deployment has not run automatically. Refresh the site. If old styling persists, hard-refresh or clear the site's service-worker cache.
+5. Optional: create an `OPENALEX_API_KEY` repository secret if the OpenAlex endpoint requires a key or imposes stricter anonymous limits.
 
-## Local development
-From the repository root:
-
-```sh
-python -m http.server 8000 --directory app
-```
-
-Open http://localhost:8000/ . To refresh feed data:
-
-```sh
-python collector/build.py
-```
-
-No Node build, pip dependencies or API keys are required to run the starter app.
-
-## Content sources and licensing
-- The initial feed includes 15 authored starter items. These are **not** fetched live.
-- Live collectors require outbound internet access and are **not verified against live endpoints in this release**. Failures are recorded in `app/data/health.json`, and the last valid feed is retained.
-- NASA imagery may have additional restrictions; see NASA's media usage guidelines.
-- Wikimedia Commons items are linked to file descriptions and show reported license/artist; verify requirements before redistributing images.
-- The Met adapter only selects public-domain objects. The Met API may change; failures are nonfatal.
-- The app does **not** scrape social networks, republish copyrighted articles, or run an AI content generator.
-- Media remains linked to its original source; remote availability may vary.
-
-## Limitations / next iteration
-- No accounts, cloud sync, comments, or user submissions.
-- Recommendation weights are simple and local, not machine learning.
-- The feed starts small and relies on online media providers; emoji placeholders are intentional when image rights are unclear.
-- The collector's Wikipedia/Openverse/YouTube integrations, richer interactive experiences, verification queue and human content review are planned but not implemented.
-- Content health is a developer-oriented status panel under About, not a full administrative dashboard.
-- Cached feed is available only after the app has successfully fetched it at least once.
-
-## Privacy
-Saved items, preferences, and reactions remain in the browser's local storage. No analytics SDK or tracking pixels are included. Third-party media and outbound source links may contact those providers.
-
-## Structure
-- `app/`: deployable static PWA
-- `app/data/`: published content catalogue and collection health
-- `collector/build.py`: collection and safe fallback pipeline
-- `content/seed.json`: manually authored starter content
-- `.github/workflows/`: scheduled collection and Pages deployment
+## Important
+- This archive intentionally starts with an **empty catalogue**, not fabricated research papers. Run the collection workflow to populate it.
+- The collector has not been end-to-end verified against live APIs in this build environment. Provider errors are recorded in `health.json`; some providers may require API keys or endpoint changes.
+- OpenAlex and Crossref records do not by themselves confirm peer-review status. arXiv is labeled as preprints.
+- Research titles and abstracts may be copyrighted. Review provider terms and rights before any commercial release.
+- The Explore Lab's interdisciplinary mode generates prompts, not scientifically verified connections; future versions should use citations/semantic links.
+- User saves from the old version may not carry across due to the changed content IDs and storage keys.
