@@ -1,13 +1,1 @@
-{
-  "updated_at": "2026-10-20T06:29:55+00:00",
-  "items": 50,
-  "new_records": 50,
-  "sources": {
-    "OpenAlex": 0,
-    "Crossref": 0,
-    "arXiv": 50,
-    "Europe PMC": 0
-  },
-  "errors": {},
-  "fallback_retained": false
-}
+{"status":"awaiting first live research collection","items":0}

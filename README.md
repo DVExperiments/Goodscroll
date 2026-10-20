@@ -1,43 +1,49 @@
-# Goodscroll v1.2 — Research Trails
+# Goodscroll V1.3 — Research Discovery
 
-An editorial research-discovery web app for GitHub Pages. Research trails link papers by shared concepts from their actual titles and abstracts; **they are not citation relationships, scientific agreement, or AI conclusions**.
+An editorial mobile-friendly research feed hosted entirely on GitHub Pages.
 
-## Deploy
+## Upgrade from V1.2.1
 
-1. Upload all files and folders in this ZIP **to the repository root**, including `.github`.
-2. Settings → Pages → Source: **GitHub Actions**.
-3. Actions → **Collect research papers** → Run workflow. Wait for it to finish and inspect `app/data/health.json` and `app/data/feed.json` in the repository.
-4. Actions → **Deploy Goodscroll** (or wait for deployment) and reload the site.
-5. The feed initially contains no fabricated papers. **Collection is required** to populate it.
+1. Download and extract this ZIP.
+2. Upload all files **inside** the ZIP to the repository root (including `.github`); replace existing files. **Keep** your existing `app/data/feed.json` if it already contains live papers, or let the collector repopulate it.
+3. Commit to the default branch. Under Settings → Pages, set **GitHub Actions** as the source.
+4. Actions → **Collect research papers** → Run workflow. This workflow collects, commits, and deploys directly; no second run is required.
+5. Hard-refresh the browser or clear the PWA cache if you still see the previous version.
 
-## Data providers
+## Changes
 
-- OpenAlex: works metadata, abstracts where supplied. An `OPENALEX_API_KEY` GitHub Actions repository secret may be needed depending on API access policies.
-- Crossref: DOI and publisher metadata; abstracts are not always available.
-- arXiv: preprint Atom API; preprints are **not automatically peer reviewed**.
-- Europe PMC: biomedical papers and abstracts via public REST search.
+- Wider subject queries and three-month collection window for OpenAlex, Crossref, arXiv, and Europe PMC.
+- Explicit source diagnostics in `app/data/health.json`, including HTTP status, response size, accepted records, and exceptions.
+- Deduplication by normalised DOI, preservation of old records, and category caps to limit a single discipline taking over.
+- Date, access and preprint filters; persistent ordering; Serendipity reshuffle.
+- Research Trails use citation metadata where available (OpenAlex `referenced_works`, Crossref DOIs) plus textual similarity. **Neither implies agreement or contradiction.**
+- At-a-glance previews are labelled abstract excerpts, not invented findings or AI interpretations.
+- Metadata-only review status: do not treat “journal article” as proof of peer review.
 
-Collectors use Python standard library. Per-source failures are recorded in `app/data/health.json`. Previously collected papers are retained on failures. The feed refreshes every six hours via GitHub Actions, and can be triggered manually. Sources can impose quotas, rate limits or change their interfaces.
+## Config
 
-## New in v1.2
+`OPENALEX_API_KEY` — optional workflow secret **if your API plan permits anonymous calls**; some OpenAlex API access now requires a key. A key is recommended. `OPENALEX_EMAIL` optional environment variable. Do not put keys in the frontend or repository. For no-access or rate-limit responses, the source error appears in health diagnostics and other sources remain usable.
 
-- **Explore connections** on every paper: start a research trail.
-- Follow papers with overlapping concepts; filter within the same discipline or across disciplines.
-- Click another paper to branch the trail.
-- Explicit research-context warnings; no unsupported claims about consensus or contradiction.
-- Added Europe PMC as a fourth metadata source.
-- Better empty-state instructions for first-time deployment.
+## Known limitations
 
-## Privacy and limitations
+- The development environment cannot verify live responses from every public API; the GitHub Action is the integration test.
+- Crossref may return few abstracts; the pipeline only publishes Crossref records with substantial abstract metadata. This is a deliberate accuracy/quality restriction, not necessarily an outage.
+- Some papers are assigned `Other` or imperfect subject classifications using lightweight keyword tagging.
+- Open-access metadata is not verified full-text permission; check original provider pages.
+- The feed uses the paper abstract as its summary; full methodological reviews require reading the primary source. Some publisher abstracts have reuse restrictions; display only permitted excerpts and review the licensing terms for public use.
+- GitHub Pages keeps preferences in the local browser rather than synced accounts.
 
-Saved papers stay in browser local storage. Paper matching is a simple keyword-overlap heuristic and is sensitive to the quality and breadth of collected abstracts. It does not yet use Semantic Scholar citations or OpenAlex citation graph. Do not treat automated connections as a literature review. Source links remain available for verification.
+## Diagnostics
 
+View `https://YOUR-USERNAME.github.io/Goodscroll/data/health.json` (case-sensitive project path).
+Check `sources`, `errors`, `by_category`, and `diagnostics` to diagnose zero-source contributions.
 
-## v1.2.1: Collection-to-deployment fix
-The collection workflow now deploys the newly generated app/data/feed.json itself.
-GitHub Actions pushes made with GITHUB_TOKEN do not trigger the separate push-based deployment workflow.
-After uploading, run **Collect research papers** and check the deployment step at the bottom.
-Open `https://YOUR-USERNAME.github.io/Goodscroll/data/feed.json` (case-sensitive repository path) and verify `items` contains records.
-If the website still appears empty, hard-refresh or clear its service-worker/site data.
+## Test locally
 
-Note: the 0-count sources are not necessarily broken; the collector only reports counts of usable records, not HTTP request or filtering diagnostics.
+```bash
+python -m py_compile collector/research.py
+node --check app/app.js
+python -m http.server 8080 --directory app
+```
+
+Open http://localhost:8080.
