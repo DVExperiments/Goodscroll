@@ -1,27 +1,33 @@
-# Goodscroll V1.1 — Research Edition
+# Goodscroll v1.2 — Research Trails
 
-An adult-focused research discovery feed for GitHub Pages. This release pivots from cheerful generic cards to actual scholarly metadata.
-
-## What's new
-- Editorial dark/light responsive UI
-- Real research collector adapters: OpenAlex, Crossref, arXiv
-- Publication dates, authors, journal/repository, DOI links, abstract previews
-- Explicit preprint and evidence-status labeling; no invented AI summaries
-- Research category filtering, search, reading list (localStorage)
-- Explore Lab: serendipity, catalogue-based concept links, interdisciplinary prompts (no quizzes)
-- API health diagnostics and last-known-good feed retention
+An editorial research-discovery web app for GitHub Pages. Research trails link papers by shared concepts from their actual titles and abstracts; **they are not citation relationships, scientific agreement, or AI conclusions**.
 
 ## Deploy
-1. Upload **the contents** of this ZIP to the root of your existing Goodscroll GitHub repository, replacing existing files. Preserve `.github/workflows`.
-2. Under Settings → Pages, choose **GitHub Actions**.
-3. In Actions, manually run **Collect research papers**. It attempts OpenAlex, Crossref, and arXiv. Check logs and `app/data/health.json` for per-source status.
-4. Run **Deploy Goodscroll** if deployment has not run automatically. Refresh the site. If old styling persists, hard-refresh or clear the site's service-worker cache.
-5. Optional: create an `OPENALEX_API_KEY` repository secret if the OpenAlex endpoint requires a key or imposes stricter anonymous limits.
 
-## Important
-- This archive intentionally starts with an **empty catalogue**, not fabricated research papers. Run the collection workflow to populate it.
-- The collector has not been end-to-end verified against live APIs in this build environment. Provider errors are recorded in `health.json`; some providers may require API keys or endpoint changes.
-- OpenAlex and Crossref records do not by themselves confirm peer-review status. arXiv is labeled as preprints.
-- Research titles and abstracts may be copyrighted. Review provider terms and rights before any commercial release.
-- The Explore Lab's interdisciplinary mode generates prompts, not scientifically verified connections; future versions should use citations/semantic links.
-- User saves from the old version may not carry across due to the changed content IDs and storage keys.
+1. Upload all files and folders in this ZIP **to the repository root**, including `.github`.
+2. Settings → Pages → Source: **GitHub Actions**.
+3. Actions → **Collect research papers** → Run workflow. Wait for it to finish and inspect `app/data/health.json` and `app/data/feed.json` in the repository.
+4. Actions → **Deploy Goodscroll** (or wait for deployment) and reload the site.
+5. The feed initially contains no fabricated papers. **Collection is required** to populate it.
+
+## Data providers
+
+- OpenAlex: works metadata, abstracts where supplied. An `OPENALEX_API_KEY` GitHub Actions repository secret may be needed depending on API access policies.
+- Crossref: DOI and publisher metadata; abstracts are not always available.
+- arXiv: preprint Atom API; preprints are **not automatically peer reviewed**.
+- Europe PMC: biomedical papers and abstracts via public REST search.
+
+Collectors use Python standard library. Per-source failures are recorded in `app/data/health.json`. Previously collected papers are retained on failures. The feed refreshes every six hours via GitHub Actions, and can be triggered manually. Sources can impose quotas, rate limits or change their interfaces.
+
+## New in v1.2
+
+- **Explore connections** on every paper: start a research trail.
+- Follow papers with overlapping concepts; filter within the same discipline or across disciplines.
+- Click another paper to branch the trail.
+- Explicit research-context warnings; no unsupported claims about consensus or contradiction.
+- Added Europe PMC as a fourth metadata source.
+- Better empty-state instructions for first-time deployment.
+
+## Privacy and limitations
+
+Saved papers stay in browser local storage. Paper matching is a simple keyword-overlap heuristic and is sensitive to the quality and breadth of collected abstracts. It does not yet use Semantic Scholar citations or OpenAlex citation graph. Do not treat automated connections as a literature review. Source links remain available for verification.

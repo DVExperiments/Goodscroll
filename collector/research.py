@@ -45,13 +45,24 @@ def arxiv():
   r=record(get('title'),get('summary'),date,url,authors,'arXiv','arXiv',status='Preprint — peer review not established')
   if r:out.append(r)
  return out
+def europepmc():
+ # Public Europe PMC REST API; records with abstracts and recent first-publication dates.
+ start=(datetime.now(timezone.utc)-timedelta(days=45)).date().isoformat()
+ params={'query':f'FIRST_PDATE:[{start} TO *] AND HAS_ABSTRACT:Y','format':'json','pageSize':'100','sort':'FIRST_PDATE_D desc','resultType':'core'}
+ data=json.loads(fetch('https://www.ebi.ac.uk/europepmc/webservices/rest/search?'+urllib.parse.urlencode(params)));out=[]
+ for w in data.get('resultList',{}).get('result',[]):
+  doi=w.get('doi','');pmid=w.get('id','');url=('https://doi.org/'+doi) if doi else ('https://europepmc.org/article/'+w.get('source','MED')+'/'+pmid)
+  authors=[a.get('fullName','') for a in (w.get('authorList') or {}).get('author',[]) if a.get('fullName')]
+  r=record(w.get('title',''),w.get('abstractText',''),w.get('firstPublicationDate') or w.get('firstIndexDate',''),url,authors,w.get('journalTitle',''),'Europe PMC',doi,'Research record (review status not verified)')
+  if r and r['abstract']:out.append(r)
+ return out
 def main():
  output=ROOT/'app/data';output.mkdir(exist_ok=True,parents=True);old=output/'feed.json';existing=[]
  if old.exists():
   try:existing=json.loads(old.read_text()).get('items',[])
   except Exception:pass
  results=[];stats={};errors={}
- for name,fn in [('OpenAlex',openalex),('Crossref',crossref),('arXiv',arxiv)]:
+ for name,fn in [('OpenAlex',openalex),('Crossref',crossref),('arXiv',arxiv),('Europe PMC',europepmc)]:
   try:
    items=fn();results.extend(items);stats[name]=len(items)
   except Exception as e:errors[name]=str(e)[:250];stats[name]=0
@@ -62,7 +73,7 @@ def main():
   if not item.get('url') or not item.get('title') or not item.get('date'):continue
   key=(item.get('doi') or item['url']).lower().replace('https://doi.org/','').replace('http://doi.org/','')
   if key not in allitems or len(item.get('abstract',''))>len(allitems[key].get('abstract','')):allitems[key]=item
- final=sorted(allitems.values(),key=lambda x:x.get('date',''),reverse=True)[:600]
+ final=sorted(allitems.values(),key=lambda x:x.get('date',''),reverse=True)[:1200]
  if final:old.write_text(json.dumps({'items':final},ensure_ascii=False,indent=2))
  health={'updated_at':datetime.now(timezone.utc).isoformat(timespec='seconds'),'items':len(final),'new_records':len(results),'sources':stats,'errors':errors,'fallback_retained':bool(errors)}
  (output/'health.json').write_text(json.dumps(health,indent=2));print(json.dumps(health,indent=2))
