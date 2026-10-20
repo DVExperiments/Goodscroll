@@ -1,23 +1,26 @@
-# Goodscroll V1.5 — Research Intelligence
+# Goodscroll V1.6 — Research Trails & Intelligence
 
-A complete replacement for V1.4, including **the 538-paper feed provided for this update**, already reclassified and enriched offline. No empty-feed startup.
+Mobile-first research discovery on GitHub Pages. This release builds on V1.5 and retains all four research sources.
 
-## Install
-1. Extract the ZIP; upload all contents (including `.github`) to the repository root.
-2. GitHub Settings → Pages → GitHub Actions (as before).
-3. Run **Collect research papers** under Actions to refresh the live catalogue and publish it automatically.
-4. Hard-refresh the browser if its service worker cached the prior app.
+## New in V1.6
+- Distinctive title + source metadata classification; avoids recycling unrelated legacy categories.
+- Clearly flagged `Unclassified` papers when classification is uncertain.
+- Extractive author-abstract explanations, with revised result-method cues and explicit uncertainty.
+- Research network SVG: click or keyboard-select paper nodes, solid lines for direct identifier references, dashed for overlapping terms.
+- Balanced editorial ordering reduces long same-discipline streaks.
+- Existing catalogue re-enriched and included for immediate nonempty start.
 
-## Changes
-- Multi-label discipline classification using source metadata where available (OpenAlex field names, arXiv categories) and weighted title/abstract patterns.
-- New categories: AI & Computing, Robotics, Creative Technology, Engineering and Business.
-- Paper-specific **extractive** research question, methodology, author-reported findings, and limitations. Missing fields are explicitly marked unavailable. These excerpts are **not verified summaries of full papers**.
-- Citation relationships ahead of keyword matches in Research Trails; citation direction retained.
-- Quality flags, category confidence and category audit diagnostics in feed/health outputs.
-- V1.4 direct-deploy GitHub Actions workflow preserved.
+## GitHub Pages installation
+1. Upload **contents** of this ZIP to the root of the repository, including `.github/workflows`.
+2. GitHub Settings → Pages → source: GitHub Actions.
+3. Run **Collect research papers** from Actions, which automatically deploys fresh data.
+4. Hard-refresh the website if your browser has cached an older version.
 
-## Caveats
-- Topic classification is heuristic and can be inaccurate; especially multi-disciplinary titles.
-- An abstract can omit findings or limitations; no unsupported finding is created to fill gaps.
-- Citation matches only work for references represented in the local catalogue.
-- Live collection was not exercised in the offline build environment.
+## Integrity and caveats
+- Extracted snippets originate only in indexed abstracts. They are not full-paper review, generated interpretation or validation.
+- Relationships: explicit citations only if relevant identifiers match; remaining lines reflect lexical similarity. No claim of support/contradiction.
+- Source topic coverage and indexing vary. Low-confidence work is displayed as Unclassified rather than labelled incorrectly.
+- Automated checks are offline; API integration needs confirmation after deployment.
+
+## QA
+`python -m py_compile collector/research.py`, `node --check app/app.js`, and ZIP integrity.

@@ -8,7 +8,7 @@ from html import unescape
 from collections import Counter
 ROOT=Path(__file__).resolve().parents[1]
 TODAY=datetime.now(timezone.utc).date()
-UA='Goodscroll/1.5 (noncommercial research discovery; https://github.com/)' 
+UA='Goodscroll/1.6 (noncommercial research discovery; https://github.com/)' 
 FIELDS={
  'Psychology':['psycholog','cogniti','behavio','perception','emotion','memory','attention','mental health'],
  'Neuroscience':['neuron','neural','brain','synap','neuroscien'],
@@ -41,55 +41,78 @@ TOPICS={
 ARXIV_TOPICS={'cs.AI':'AI & Computing','cs.CL':'AI & Computing','cs.LG':'AI & Computing','cs.CV':'AI & Computing','cs.HC':'Design','cs.RO':'Robotics','cs.CR':'AI & Computing','cs.SE':'AI & Computing','q-bio.NC':'Neuroscience','q-bio.MN':'Biology','physics.soc-ph':'Physics','astro-ph.EP':'Physics'}
 OPENALEX_MAP={'computer science':'AI & Computing','artificial intelligence':'AI & Computing','psychology':'Psychology','neuroscience':'Neuroscience','medicine':'Medicine','biology':'Biology','environmental science':'Environment','engineering':'Engineering','physics and astronomy':'Physics','social sciences':'Society','business, management and accounting':'Business','arts and humanities':'Design'}
 
+# V1.6: classify by distinctive subject cues before generic abstract vocabulary.
+# Low-confidence candidates are marked Unclassified, never given an unrelated legacy category.
+SPECIFIC={
+ 'AI & Computing':[r'\b(?:llm|llms|large language model|language models?|machine learning|deep learning|reinforcement learning|transformer|artificial intelligence|multimodal|neural network|agentic|agent actions|ai agents?|language agents?|world model|foundation model|lora|computer vision|linear attention|token|autoencoder|reasoning model|visual reasoning|speech recognition|natural language processing|image synthes|computer.use|speech recognition|programming|cybersecurity|computer.use|diffusion model)\b'],
+ 'Robotics':[r'\b(?:robot|robotic|autonomous navigation|robot manipulation|multi.robot|robot arm)\b'],
+ 'Creative Technology':[r'\b(?:video generation|image generation|3d generation|creative technolog|generative art|digital storytelling|film production|animation production|procedural generation)\b'],
+ 'Neuroscience':[r'\b(?:neuroscience|brain imaging|brain activity|cerebral|synaptic|neuron|fMRI|electroencephalography|neural circuit)\b'],
+ 'Psychology':[r'\b(?:psychology|psychological|human cognition|human behavior|human behaviour|mental health|emotion regulation|psychotherapy|psychometric|human perception|social anxiety)\b'],
+ 'Medicine':[r'\b(?:clinical trial|patients?|hospital|cervical cancer|hpv|pap tests?|vaccination|vaccine|disease|diagnosis|healthcare|epidemiology|medical treatment|public health|cancer screening)\b'],
+ 'Environment':[r'\b(?:biodiversity|conservation|climate|carbon emissions|ecosystem|ecological|pollution|habitat|environmental|wildlife)\b'],
+ 'Biology':[r'\b(?:protein|genomics?|gene expression|microbiome|species|life sciences|structural biology|cell biology|molecular biology|evolutionary biology|bacteria|bacterial)\b'],
+ 'Engineering':[r'\b(?:semiconductor|battery|manufacturing|mechanical engineering|aerospace|electrical engineering|materials science)\b'],
+ 'Physics':[r'\b(?:astrophysics|quantum|cosmology|particle physics|astronomy|gravitational waves|condensed matter|optics)\b'],
+ 'Design':[r'\b(?:design thinking|industrial design|user experience|human.computer interaction|interface design|design research|interaction design)\b'],
+ 'Business':[r'\b(?:leadership|management|business action|customer|marketing|entrepreneurship|consumer spending|organizational behavior|business strategy)\b'],
+ 'Society':[r'\b(?:sociology|education|teachers?|inequality|social policy|public policy|demography|community|political science|ethnography)\b']
+}
+SOURCE_MAP={**ARXIV_TOPICS, 'cs.IR':'AI & Computing','cs.NE':'AI & Computing','cs.DC':'AI & Computing','cs.MM':'AI & Computing','cs.SI':'Society','cs.CY':'Society','q-bio.QM':'Biology','q-bio.GN':'Biology'}
+
 def classification(title,abstract='',source_topics=None,venue=''):
- title=str(title or '').lower(); abstract=str(abstract or '').lower(); primary_meta=[str(x).lower() for x in (source_topics or [])]
- scores={k:0 for k in TOPICS}
- for name,patterns in TOPICS.items():
-  for pat in patterns:
-   if re.search(pat,title,re.I):scores[name]+=6
-   if re.search(pat,abstract[:2000],re.I):scores[name]+=1
- for raw in primary_meta:
-  for code,name in ARXIV_TOPICS.items():
-   if raw==code.lower():scores[name]+=12
-  for term,name in OPENALEX_MAP.items():
-   if term==raw or term in raw:scores[name]+=7
- # Explicit AI/robot terms override ambiguous generic cognitive vocabulary.
- if re.search(r'\b(?:llm|language model|transformer|agentic|multimodal|deep learning|reinforcement learning|agent actions|lora|fine.tuning)\b',title):scores['AI & Computing']+=12
- if re.search(r'\b(?:robot|robotics|multi.robot)\b',title):scores['Robotics']+=14
- ordered=sorted(scores,key=lambda x:(-scores[x],list(TOPICS).index(x)))
- tags=[x for x in ordered if scores[x]>=4][:4]
- if not tags:return 'Other',['Other'],0
- return tags[0],tags,round(min(1,scores[tags[0]]/20),2)
+ title=str(title or '').lower(); abstract=str(abstract or '').lower(); metas=[str(x or '').lower() for x in (source_topics or [])]
+ scores={k:0 for k in SPECIFIC}; evidence={k:[] for k in SPECIFIC}
+ for field,pats in SPECIFIC.items():
+  for pattern in pats:
+   for location,weight,string in [('title',9,title),('abstract',4,abstract[:3000])]:
+    match=re.search(pattern,string,re.I)
+    if match:
+     scores[field]+=weight;evidence[field].append(f'{location}:{match.group(0)[:35]}')
+ for raw in metas:
+  for code,field in SOURCE_MAP.items():
+   if raw==code.lower():scores[field]+=18;evidence[field].append('source:'+raw)
+  for term,field in OPENALEX_MAP.items():
+   if raw==term or term in raw:
+    scores[field]+=9;evidence[field].append('source:'+raw[:45])
+ # For clearly computational work, generic "neural" or "learning" never make it psychology.
+ if re.search(r'\b(?:llm|language model|machine learning|reinforcement learning|agentic|transformer|multimodal)\b',title):
+  scores['AI & Computing']+=8
+ # Interdisciplinary studies: primary subject from title; retain other tags.
+ ranked=sorted(scores,key=lambda k:(-scores[k],list(SPECIFIC).index(k)))
+ best=ranked[0]; val=scores[best]
+ if val<4:return 'Unclassified',[],0,[]
+ tags=[k for k in ranked if scores[k]>=4 and scores[k]>=val*.32][:4]
+ confidence=round(min(.98,.3+val/45),2)
+ return best,tags,confidence,evidence[best][:5]
 
 def sentence_list(text):
  text=clean(text)
- return [x.strip() for x in re.split(r'(?<=[.!?])\s+(?=[A-Z(])',text) if len(x.strip())>=28]
+ return [x.strip() for x in re.split(r'(?<=[.!?])\s+(?=[A-Z(])',text) if len(x.strip())>=25]
 
-def evidence_excerpt(sentences,patterns):
- for sentence in sentences:
-  if any(re.search(p,sentence,re.I) for p in patterns):return sentence[:680]
- return ''
+def find_best(sentences,positive,negative=()):
+ candidates=[]
+ for i,s in enumerate(sentences):
+  if any(re.search(p,s,re.I) for p in negative):continue
+  weight=sum(2 if re.search(p,s,re.I) else 0 for p in positive)
+  if weight:candidates.append((weight+min(len(s),240)/1000,i,s))
+ return max(candidates,key=lambda x:(x[0],-x[1]))[2][:850] if candidates else ''
 
 def explain(p):
- abstract=p.get('abstract','') or ''; title=p.get('title','') or ''; sentences=sentence_list(abstract)
- objective=evidence_excerpt(sentences,[r'\b(?:we investigate|we examine|we study|we explore|this study aims|the aim|we ask|our objective|this paper (?:investigates|examines|explores))\b'])
- method=evidence_excerpt(sentences,[r'\b(?:we (?:conducted|surveyed|evaluated|tested|analysed|analyzed)|participants|patients|dataset|experiment|trial|interview|systematic review|meta.analysis|retrospective|simulation)\b'])
- findings=evidence_excerpt(sentences,[r'\b(?:we find|we found|results (?:show|indicate|suggest)|our findings|we demonstrate|the results|we observed|was associated|improved by|increased by|decreased by)\b'])
- limitation=evidence_excerpt(sentences,[r'\b(?:limitation|caution|however|future research|further studies|cannot|small sample|uncertain|not generaliz)\b'])
- # Extractive evidence: snippets stay traceable to abstract, never supplied as independently validated findings.
- return {'question':objective,'method':method,'findings':findings,'limitations':limitation,
- 'why_it_matters':'This paper addresses '+(p.get('category') or 'research').lower()+' questions. Read the abstract and original study to assess its relevance.',
- 'basis':'extractive_abstract','has_explicit_findings':bool(findings)}
+ s=sentence_list(p.get('abstract',''))
+ question=find_best(s,[r'\b(?:aim(?:ed|s)? to|we (?:investigate|examine|study|explore|ask|assess)|objective|research question|this study (?:investigates|examines|explores|aims)|sought to)\b'])
+ method=find_best(s,[r'\b(?:we (?:conducted|surveyed|evaluated|tested|analysed|analyzed|randomized|randomised)|participants|\d[\d, ]+ (?:patients|participants|adults|subjects)|dataset|experiments?|trials?|interviews?|systematic review|meta.analysis|retrospective|simulations?|cohort study|randomized controlled)\b'],[r'\b(?:results (?:show|indicate|demonstrate)|we find|we found)\b'])
+ findings=find_best(s,[r'\b(?:results? (?:show|indicate|suggest|demonstrate|reveal)|findings? (?:show|indicate|suggest|reveal)|we (?:find|found|observed|demonstrate|show)|our (?:findings|results)|(?:improv(?:es|ed)|increas(?:es|ed)|reduc(?:es|ed)|outperform(?:s|ed)) (?:by|over|compared|relative)|(?:\d+(?:\.\d+)?%|\d+(?:\.\d+)? points) (?:higher|lower|increase|decrease)|experiments? (?:show|demonstrate)|achiev(?:es|ed) [\d.]+)\b'])
+ limitation=find_best(s,[r'\b(?:limitations?|future research|further stud(?:y|ies)|cannot (?:conclude|establish|generalize)|small sample|not generaliz|caution|uncertain(?:ty|ties)|require[s]? (?:further|additional) (?:validation|testing))\b'])
+ design='Conceptual / theoretical' if re.search(r'\b(?:conceptual paper|theoretical framework|proposes? a framework)\b',p.get('abstract',''),re.I) else 'Evidence type not independently verified'
+ return {'question':question,'method':method,'findings':findings,'limitations':limitation,
+ 'why_it_matters':'','basis':'extractive_abstract','has_explicit_findings':bool(findings),
+ 'study_design_hint':design,'extraction_note':'Passages are quotations or excerpts of the author-supplied abstract; not independently verified.'}
 
 def enrich(p):
- oldcat=p.get('category','Other')
- p['category'],p['topics'],p['category_confidence']=classification(p.get('title'),p.get('abstract'),p.get('source_topics'),p.get('venue'))
- if p['category']=='Other' and oldcat!='Other':
-  p['category']=oldcat if oldcat not in ('Technology',) else 'AI & Computing'
-  p['topics']=[p['category']]
-  p['category_confidence']=.15
+ p['category'],p['topics'],p['category_confidence'],p['classification_evidence']=classification(p.get('title'),p.get('abstract'),p.get('source_topics'),p.get('venue'))
  p['explanation']=explain(p)
- p['quality_flags']=([ 'abstract_missing' ] if len(p.get('abstract',''))<100 else [])+(['category_uncertain'] if p['category_confidence']<.45 else [])+(['doi_missing'] if not p.get('doi') else [])+(['findings_not_explicit_in_abstract'] if not p['explanation']['has_explicit_findings'] else [])
+ p['quality_flags']=(['abstract_missing'] if len(p.get('abstract',''))<100 else [])+(['category_uncertain'] if p['category_confidence']<.55 else [])+(['doi_missing'] if not p.get('doi') and p.get('provider')!='arXiv' else [])+(['findings_not_explicit_in_abstract'] if not p['explanation']['has_explicit_findings'] else [])
  return p
 
 FETCH_STATS={}
@@ -255,7 +278,7 @@ def main():
   'note':'Metrics describe metadata quality, not independent verification of scientific findings or peer review.'
  }
  previous_keys={key(p) for p in existing if isinstance(p,dict)}
- health={'version':'1.5.0','updated_at':datetime.now(timezone.utc).isoformat(timespec='seconds'),'items':len(final),'new_records':len(collected),'new_unique_vs_previous':sum(key(p) not in previous_keys for p in final),'sources':counts,'errors':errors,'fallback_retained':bool(errors),'by_category':dict(Counter(p.get('category','Other') for p in final)),'quality_flags':dict(Counter(flag for p in final for flag in p.get('quality_flags',[]))),'quality':quality,'diagnostics':diagnostics,'note':'Source counts are accepted pre-dedup. Research summaries are metadata-grounded excerpts, not independently verified findings.'}
+ health={'version':'1.6.0','updated_at':datetime.now(timezone.utc).isoformat(timespec='seconds'),'items':len(final),'new_records':len(collected),'new_unique_vs_previous':sum(key(p) not in previous_keys for p in final),'sources':counts,'errors':errors,'fallback_retained':bool(errors),'by_category':dict(Counter(p.get('category','Other') for p in final)),'quality_flags':dict(Counter(flag for p in final for flag in p.get('quality_flags',[]))),'quality':quality,'diagnostics':diagnostics,'note':'Source counts are accepted pre-dedup. Research summaries are metadata-grounded excerpts, not independently verified findings.'}
  (output/'health.json').write_text(json.dumps(health,ensure_ascii=False,indent=2),encoding='utf-8');print(json.dumps({k:v for k,v in health.items() if k!='diagnostics'},indent=2))
  if not final:print('Feed is empty; source errors and diagnostics are in health.json')
 if __name__=='__main__':main()

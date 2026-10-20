@@ -1,180 +1,27 @@
 {
-  "version": "1.5.0",
-  "updated_at": "2026-10-20T07:07:26+00:00",
+  "version": "1.6.0",
+  "updated_at": "2026-10-20 (offline re-enrichment of supplied feed)",
   "items": 538,
-  "new_records": 476,
-  "new_unique_vs_previous": 0,
-  "sources": {
-    "OpenAlex": 101,
-    "Crossref": 0,
-    "arXiv": 135,
-    "Europe PMC": 240
-  },
-  "errors": {
-    "Crossref": "HTTP Error 429: Too Many Requests"
-  },
-  "fallback_retained": true,
   "by_category": {
-    "AI & Computing": 38,
-    "Design": 5,
-    "Medicine": 74,
+    "Society": 43,
+    "Business": 15,
+    "Medicine": 66,
+    "AI & Computing": 81,
     "Robotics": 2,
-    "Biology": 101,
-    "Psychology": 114,
-    "Society": 45,
+    "Biology": 25,
     "Creative Technology": 1,
-    "Other": 38,
-    "Neuroscience": 51,
-    "Environment": 42,
-    "Business": 8,
-    "Engineering": 1,
-    "Physics": 18
-  },
-  "quality_flags": {
-    "category_uncertain": 516,
-    "findings_not_explicit_in_abstract": 405,
-    "doi_missing": 139
+    "Unclassified": 127,
+    "Environment": 78,
+    "Neuroscience": 48,
+    "Psychology": 38,
+    "Design": 1,
+    "Physics": 11,
+    "Engineering": 2
   },
   "quality": {
-    "with_abstract": 538,
-    "without_abstract": 0,
-    "with_doi": 399,
-    "with_open_access_indicator": 248,
-    "with_citation_metadata": 63,
-    "preprints": 135,
-    "last_7_days": 449,
-    "last_30_days": 480,
-    "last_90_days": 538,
-    "duplicate_or_replaced_candidates": 476,
-    "excluded_by_category_or_total_caps": 0,
-    "classification_uncertain": 516,
-    "without_explicit_findings": 405,
-    "by_primary_topic": {
-      "AI & Computing": 38,
-      "Design": 5,
-      "Medicine": 74,
-      "Robotics": 2,
-      "Biology": 101,
-      "Psychology": 114,
-      "Society": 45,
-      "Creative Technology": 1,
-      "Other": 38,
-      "Neuroscience": 51,
-      "Environment": 42,
-      "Business": 8,
-      "Engineering": 1,
-      "Physics": 18
-    },
-    "note": "Metrics describe metadata quality, not independent verification of scientific findings or peer review."
+    "category_uncertain": 336,
+    "findings_extracted": 173,
+    "unclassified": 127
   },
-  "diagnostics": {
-    "OpenAlex": {
-      "accepted_before_dedup": 101,
-      "requests": [
-        {
-          "status": 200,
-          "bytes": 631509,
-          "elapsed_ms": 687
-        },
-        {
-          "status": 200,
-          "bytes": 695705,
-          "elapsed_ms": 281
-        },
-        {
-          "status": 200,
-          "bytes": 733059,
-          "elapsed_ms": 342
-        },
-        {
-          "status": 200,
-          "bytes": 567061,
-          "elapsed_ms": 206
-        },
-        {
-          "status": 200,
-          "bytes": 584235,
-          "elapsed_ms": 284
-        },
-        {
-          "status": 200,
-          "bytes": 726565,
-          "elapsed_ms": 259
-        },
-        {
-          "status": 200,
-          "bytes": 609513,
-          "elapsed_ms": 493
-        }
-      ],
-      "error": null
-    },
-    "Crossref": {
-      "accepted_before_dedup": 0,
-      "requests": [
-        {
-          "status": 200,
-          "bytes": 532439,
-          "elapsed_ms": 682
-        },
-        {
-          "status": 200,
-          "bytes": 789871,
-          "elapsed_ms": 316
-        },
-        {
-          "error": "HTTP Error 429: Too Many Requests"
-        }
-      ],
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    "arXiv": {
-      "accepted_before_dedup": 135,
-      "requests": [
-        {
-          "status": 200,
-          "bytes": 114186,
-          "elapsed_ms": 83
-        },
-        {
-          "status": 200,
-          "bytes": 115420,
-          "elapsed_ms": 20
-        },
-        {
-          "status": 200,
-          "bytes": 119076,
-          "elapsed_ms": 26
-        }
-      ],
-      "error": null
-    },
-    "Europe PMC": {
-      "accepted_before_dedup": 240,
-      "requests": [
-        {
-          "status": 200,
-          "bytes": 376613,
-          "elapsed_ms": 1122
-        },
-        {
-          "status": 200,
-          "bytes": 375955,
-          "elapsed_ms": 753
-        },
-        {
-          "status": 200,
-          "bytes": 395106,
-          "elapsed_ms": 2031
-        },
-        {
-          "status": 200,
-          "bytes": 367612,
-          "elapsed_ms": 1139
-        }
-      ],
-      "error": null
-    }
-  },
-  "note": "Source counts are accepted pre-dedup. Research summaries are metadata-grounded excerpts, not independently verified findings."
+  "note": "Offline baseline from uploaded V1.5 catalogue; run collection workflow for live diagnostics."
 }
