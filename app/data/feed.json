@@ -24422,6 +24422,73 @@
       ]
     },
     {
+      "id": "10.1177/10398562261493821",
+      "title": "Motion, emotion and cognition: The melancholia conundrum",
+      "abstract": "Background The status of melancholia remains controversial. Debate has focused on whether it represents a categorically distinct disorder (binary model) or a severe expression within a unitary construct of major depressive disorder. Its defining core has also been disputed, with competing emphasis on affective symptoms, cognitive distortions, or psychomotor disturbance. Proponents of distinctiveness, notably Gordon Parker, have argued that psychomotor disturbance is central to the syndrome. Objective To critically examine historical and contemporary evidence regarding melancholia’s diagnostic status and to consider whether advances in neurobiology can resolve longstanding conceptual debates. Method This narrative analysis reviews the evolution of the melancholia construct, clinical and treatment-response data, research on psychomotor disturbance including the CORE measure, and recent findings from genetics, molecular psychiatry, and neuroimaging studies of brain networks implicated in depression. Conclusion Phenomenological and biomarker-based approaches have not conclusively established melancholia as a distinct nosological entity. Emerging findings from circuit neuroscience and multiomic research suggest that patterns of large-scale network dysfunction may underlie the clinical syndrome, but have not yet established a reproducible circuit signature specific to melancholia. A biologically grounded, network-based framework could ultimately clarify the relationship between melancholia, psychomotor disturbance and broader depressive syndromes, moving the field beyond the binary-dimensional impasse.",
+      "date": "2026-09-28",
+      "url": "https://doi.org/10.1177/10398562261493821",
+      "authors": [
+        "Perminder S. Sachdev"
+      ],
+      "venue": "Australasian Psychiatry",
+      "provider": "Crossref",
+      "doi": "10.1177/10398562261493821",
+      "publication_type": "Journal article — peer review not independently verified",
+      "category": "Neuroscience",
+      "source_topics": [],
+      "open_access": false,
+      "references": [
+        "10.1093/oseo/instance.00006619",
+        "10.1192/bjp.80.329.277",
+        "10.1111/j.1600-0447.2007.00962.x",
+        "10.1017/cbo9780511759024",
+        "10.1111/j.1600-0447.2006.00943.x",
+        "10.1016/j.jad.2016.09.029",
+        "10.1176/ajp.146.1.20",
+        "10.1016/j.jad.2020.01.139",
+        "10.1080/09540261.2019.1708708",
+        "10.1192/bjp.153.3.298",
+        "10.1177/070674371305800402",
+        "10.1016/0006-3223(94)91256-4",
+        "10.1076/1380-3395(200004)22:2;1-1;ft232",
+        "10.1038/s41380-023-02327-1",
+        "10.1002/advs.202403063",
+        "10.1038/s41380-022-01806-1",
+        "10.1038/s41386-024-01976-2",
+        "10.3928/00485713-20060401-05",
+        "10.1038/s41591-024-03057-9"
+      ],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Neuroscience"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:neuroscience"
+      ],
+      "explanation": {
+        "question": "Objective To critically examine historical and contemporary evidence regarding melancholia’s diagnostic status and to consider whether advances in neurobiology can resolve longstanding conceptual debates.",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
       "id": "10.26907/2541-7738.2026.4.22-37",
       "title": "Popularization of science and education by the Znanie Society in the TASSR (1947–1975)",
       "abstract": "This article examines the All-Union Znanie Society’s work on communicating scientific knowledge to the general public in the Tatar ASSR. After the Great Patriotic War, the Soviet Union was committed to reviving the destroyed sectors of education and research. Thus, from 1955 onward, the popularization of science and technology rose to a top state-level priority, with the Znanie Society as one of the most ambitious projects to achieve this aim. It played an important role in retaining and raising professional qualifications of researchers, increasing productive capacity, and promoting new technological developments and rationalization proposals. Higher levels of education helped increase labor productivity and encouraged political literacy of the target audience. The Znanie Society reached the public through many ways, but lectures were the most common and accessible option. All lectures were carefully planned according to the instructions on the topics that were covered. Each topic was assigned to a lecturer responsible for it. The analysis, based on materials of the Znanie Society congresses and documents from the State Archive of the Republic of Tatarstan, outlines the main concepts, forms, and methods of knowledge propaganda used by the Znanie Society in its work as part of the broader development of educational organizations in the USSR.",

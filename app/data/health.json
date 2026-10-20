@@ -1,7 +1,17 @@
 {
   "version": "1.6.0",
-  "updated_at": "2026-10-20 (offline re-enrichment of supplied feed)",
-  "items": 538,
+  "updated_at": "2026-10-20T07:18:28+00:00",
+  "items": 539,
+  "new_records": 563,
+  "new_unique_vs_previous": 1,
+  "sources": {
+    "OpenAlex": 101,
+    "Crossref": 87,
+    "arXiv": 135,
+    "Europe PMC": 240
+  },
+  "errors": {},
+  "fallback_retained": false,
   "by_category": {
     "Society": 43,
     "Business": 15,
@@ -12,16 +22,164 @@
     "Creative Technology": 1,
     "Unclassified": 127,
     "Environment": 78,
-    "Neuroscience": 48,
+    "Neuroscience": 49,
     "Psychology": 38,
     "Design": 1,
     "Physics": 11,
     "Engineering": 2
   },
-  "quality": {
-    "category_uncertain": 336,
-    "findings_extracted": 173,
-    "unclassified": 127
+  "quality_flags": {
+    "findings_not_explicit_in_abstract": 366,
+    "category_uncertain": 337,
+    "doi_missing": 4
   },
-  "note": "Offline baseline from uploaded V1.5 catalogue; run collection workflow for live diagnostics."
+  "quality": {
+    "with_abstract": 539,
+    "without_abstract": 0,
+    "with_doi": 400,
+    "with_open_access_indicator": 248,
+    "with_citation_metadata": 64,
+    "preprints": 135,
+    "last_7_days": 449,
+    "last_30_days": 481,
+    "last_90_days": 539,
+    "duplicate_or_replaced_candidates": 562,
+    "excluded_by_category_or_total_caps": 0,
+    "classification_uncertain": 337,
+    "without_explicit_findings": 366,
+    "by_primary_topic": {
+      "Society": 43,
+      "Business": 15,
+      "Medicine": 66,
+      "AI & Computing": 81,
+      "Robotics": 2,
+      "Biology": 25,
+      "Creative Technology": 1,
+      "Unclassified": 127,
+      "Environment": 78,
+      "Neuroscience": 49,
+      "Psychology": 38,
+      "Design": 1,
+      "Physics": 11,
+      "Engineering": 2
+    },
+    "note": "Metrics describe metadata quality, not independent verification of scientific findings or peer review."
+  },
+  "diagnostics": {
+    "OpenAlex": {
+      "accepted_before_dedup": 101,
+      "requests": [
+        {
+          "status": 200,
+          "bytes": 631509,
+          "elapsed_ms": 670
+        },
+        {
+          "status": 200,
+          "bytes": 695705,
+          "elapsed_ms": 429
+        },
+        {
+          "status": 200,
+          "bytes": 733059,
+          "elapsed_ms": 408
+        },
+        {
+          "status": 200,
+          "bytes": 567061,
+          "elapsed_ms": 472
+        },
+        {
+          "status": 200,
+          "bytes": 584235,
+          "elapsed_ms": 527
+        },
+        {
+          "status": 200,
+          "bytes": 726565,
+          "elapsed_ms": 609
+        },
+        {
+          "status": 200,
+          "bytes": 609513,
+          "elapsed_ms": 499
+        }
+      ],
+      "error": null
+    },
+    "Crossref": {
+      "accepted_before_dedup": 87,
+      "requests": [
+        {
+          "status": 200,
+          "bytes": 532439,
+          "elapsed_ms": 574
+        },
+        {
+          "status": 200,
+          "bytes": 802660,
+          "elapsed_ms": 788
+        },
+        {
+          "status": 200,
+          "bytes": 648091,
+          "elapsed_ms": 680
+        },
+        {
+          "status": 200,
+          "bytes": 205693,
+          "elapsed_ms": 397
+        }
+      ],
+      "error": null
+    },
+    "arXiv": {
+      "accepted_before_dedup": 135,
+      "requests": [
+        {
+          "status": 200,
+          "bytes": 114186,
+          "elapsed_ms": 136
+        },
+        {
+          "status": 200,
+          "bytes": 115420,
+          "elapsed_ms": 106
+        },
+        {
+          "status": 200,
+          "bytes": 119076,
+          "elapsed_ms": 88
+        }
+      ],
+      "error": null
+    },
+    "Europe PMC": {
+      "accepted_before_dedup": 240,
+      "requests": [
+        {
+          "status": 200,
+          "bytes": 376613,
+          "elapsed_ms": 2559
+        },
+        {
+          "status": 200,
+          "bytes": 375955,
+          "elapsed_ms": 1422
+        },
+        {
+          "status": 200,
+          "bytes": 395106,
+          "elapsed_ms": 2537
+        },
+        {
+          "status": 200,
+          "bytes": 367612,
+          "elapsed_ms": 1651
+        }
+      ],
+      "error": null
+    }
+  },
+  "note": "Source counts are accepted pre-dedup. Research summaries are metadata-grounded excerpts, not independently verified findings."
 }
