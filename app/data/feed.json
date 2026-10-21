@@ -20460,6 +20460,357 @@
       "has_citation_metadata": false
     },
     {
+      "id": "10.1371/journal.pone.0348010",
+      "title": "Reinforcement learning-driven optimal capital allocation for intelligent finance.",
+      "abstract": "Optimal capital allocation in financial markets has long been a challenging task due to the dynamic nature of market conditions, risk factors, and the complexity of financial data. Traditional methods of portfolio management often fail to adapt to market shifts and do not fully leverage potential of modern machine learning techniques. To develop a model that dynamically optimizes capital allocation, leveraging reinforcement learning (RL), with focus on risk management, stability, and adaptability. Proposed model, Dynamic Actor-Critic (DAC)-enriched Clipped Proximal Policy Optimization (DAC-CPPO) model for portfolio optimization. A Dynamic Actor-Critic (DAC)-enriched Clipped Proximal Policy Optimization (DAC-CPPO) model is developed for portfolio optimization. The Dynamic Actor-Critic module learns optimal portfolio policies by evaluating actions and maximizing long-term returns, while the CPPO mechanism ensures stable policy updates and risk-controlled portfolio optimization. The Intelligent Finance Assets dataset contains 7,000 records with 32 features, whereas the Massive Yahoo Finance dataset includes 603k records with 9 features, collected from publicly available Kaggle sources for financial analysis. Normalization and data cleaning techniques for smooth data integration and model readiness, and LDA extracts discriminative financial features to improve portfolio allocation prediction performance. Experimental settings are implemented using Python. Proposed DAC-CPPO model, achieving 97.6% accuracy, 0.074 MAE, 0.081 RMSE, 1.91 Sharpe ratio, 1.12 Cumulative return, and 0.14 Volatility, demonstrates superior risk-adjusted performance, offering higher returns while managing market risks effectively compared to other existing models. The DAC-CPPO model offers a robust solution for practical capital allocation by combining advanced RL techniques, ensuring effective decision-making while managing risks in dynamic financial environments.",
+      "date": "2026-10-20",
+      "url": "https://doi.org/10.1371/journal.pone.0348010",
+      "authors": [
+        "Luo Y",
+        "Qi M",
+        "Cheng M"
+      ],
+      "venue": "PloS one",
+      "provider": "Europe PMC",
+      "doi": "10.1371/journal.pone.0348010",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "AI & Computing",
+      "source_topics": [],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "AI & Computing"
+      ],
+      "category_confidence": 0.77,
+      "classification_evidence": [
+        "title:reinforcement learning",
+        "abstract:machine learning"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "The Intelligent Finance Assets dataset contains 7,000 records with 32 features, whereas the Massive Yahoo Finance dataset includes 603k records with 9 features, collected from publicly available Kaggle sources for financial analysis.",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1084/jem.20251245",
+      "title": "Cerebrospinal fluid and dural accumulation of α-synuclein impairs CNS clearance in Parkinson's disease.",
+      "abstract": "Parkinson's disease (PD) is characterized by the build-up of α-synuclein (α-syn) in the brain, where it drives neurodegeneration. Importantly, aggregated α-syn also accumulates in the cerebrospinal fluid (CSF) of PD patients, and while increasingly used for diagnosis, its pathological role remains poorly understood. Here, we demonstrate that α-syn accumulation in central nervous system (CNS) border tissues promotes CNS clearance deficits, as observed in PD patients. We find that aggregated α-syn accumulates not only in the CSF but also in the dura mater of individuals with PD, and, using acute and chronic mouse models, show that α-syn deposition in these sites induces immune alterations in CNS borders and disrupts CNS clearance. Mechanistically, we reveal that α-syn at CNS borders elevates CSF TNF and demonstrate that both TNF and α-syn aggregates themselves impair lymphatic endothelial cell function. These findings demonstrate a pathological role for α-syn in the CNS border tissues and position meningeal immunity as a contributor to CNS clearance deficits in PD pathogenesis.",
+      "date": "2026-10-20",
+      "url": "https://doi.org/10.1084/jem.20251245",
+      "authors": [
+        "Stevenson TJ",
+        "Vinnell L",
+        "McCullough SJC",
+        "Flyger DX",
+        "Highet B",
+        "Wiseman JA",
+        "Watkin B",
+        "Hitpass Romero K"
+      ],
+      "venue": "The Journal of experimental medicine",
+      "provider": "Europe PMC",
+      "doi": "10.1084/jem.20251245",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "title:disease",
+        "abstract:disease"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "We find that aggregated α-syn accumulates not only in the CSF but also in the dura mater of individuals with PD, and, using acute and chronic mouse models, show that α-syn deposition in these sites induces immune alterations in CNS borders and disrupts CNS clearance.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.7554/elife.111730",
+      "title": "An integrated human forebrain organoid reveals microglia-mediated CD8 + T cell recruitment and neuroimmune dysfunction in Alzheimer's disease pathology.",
+      "abstract": "Genetic evidence implicates immune dysfunction in Alzheimer's disease (AD), yet the neuroimmune mechanisms operating in human tissue remain poorly defined. Here, we establish a modular human forebrain organoid platform that systematically integrates human induced pluripotent stem cell-derived microglia and CD8+ T cells to reconstitute multicellular AD pathology. This system enables functional interrogation of both innate and adaptive immune components in a human-relevant context. Using this platform, we demonstrate that microglia mediate amyloid-β clearance and neuronal maturation but also drive inflammatory activation and recruit CD8+ T cells through CCL4/5 signaling via CCR1/5 and CXCR3, establishing a neuroinflammatory feedback loop. Pharmacological targeting of CCR5 or CXCR3 blocks T cell recruitment and modulates autophagy in a microglia-dependent manner. This modular organoid platform provides a versatile tool for dissecting neuron-immune interactions and enables cell-type-specific therapeutic screening in human neuroinflammatory disease models.",
+      "date": "2026-10-20",
+      "url": "https://doi.org/10.7554/elife.111730",
+      "authors": [
+        "Feng Y",
+        "Yu F",
+        "Tang J",
+        "Zheng H",
+        "Wang Z",
+        "Ma S"
+      ],
+      "venue": "eLife",
+      "provider": "Europe PMC",
+      "doi": "10.7554/elife.111730",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "title:disease",
+        "abstract:disease"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "Using this platform, we demonstrate that microglia mediate amyloid-β clearance and neuronal maturation but also drive inflammatory activation and recruit CD8+ T cells through CCL4/5 signaling via CCR1/5 and CXCR3, establishing a neuroinflammatory feedback loop.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.7554/elife.106510",
+      "title": "Multiplexed CRISPRi reveals a transcriptional switch between KLF activators and repressors in the maturing neocortex.",
+      "abstract": "A critical phase of mammalian brain development takes place after birth. Neurons of the mouse neocortex undergo dramatic changes in their morphology, physiology, and synaptic connections during the first postnatal month, while properties of immature neurons, such as the capacity for robust axon outgrowth, are lost. The genetic and epigenetic programs controlling prenatal development are well studied, but our understanding of the transcriptional mechanisms that regulate postnatal neuronal maturation is comparatively lacking. By integrating chromatin accessibility and gene expression data from two subtypes of neocortical pyramidal neurons in the neonatal and maturing brain, we predicted a role for the Krüppel-like factor (KLF) family of transcription factors in the developmental regulation of neonatally expressed genes. Using a multiplexed CRISPR interference (CRISPRi) knockdown strategy, we found that a shift in expression from KLF activators (Klf6, Klf7) to repressors (Klf9, Klf13) during early postnatal development functions as a transcriptional 'switch' to first activate, then repress a set of shared targets with cytoskeletal functions including Tubb2b and Dpysl3. We demonstrate that this switch is buffered by redundancy between KLF paralogs, which our multiplexed CRISPRi strategy is equipped to overcome and study. Our results indicate that competition between activators and repressors within the KLF family regulates a conserved component of the postnatal maturation program that may underlie the loss of intrinsic axon growth in maturing neurons. This could facilitate the transition from axon growth to synaptic refinement required to stabilize mature circuits.",
+      "date": "2026-10-20",
+      "url": "https://doi.org/10.7554/elife.106510",
+      "authors": [
+        "Kirk RW",
+        "Sun L",
+        "Xiao R",
+        "Clark EA",
+        "Nelson SB"
+      ],
+      "venue": "eLife",
+      "provider": "Europe PMC",
+      "doi": "10.7554/elife.106510",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Neuroscience",
+      "source_topics": [],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Neuroscience",
+        "Biology"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:synaptic"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "Using a multiplexed CRISPR interference (CRISPRi) knockdown strategy, we found that a shift in expression from KLF activators (Klf6, Klf7) to repressors (Klf9, Klf13) during early postnatal development functions as a transcriptional 'switch' to first activate, then repress a set of shared targets with cytoskeletal functions including Tubb2b and Dpysl3.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1371/journal.pone.0360976",
+      "title": "Depth-dependent soil water-salt relationships in the Hetao Irrigation District, arid Northwest China: Implications for sustainable management.",
+      "abstract": "Soil salinization threatens agricultural productivity in arid gravity irrigation systems worldwide, yet the depth-stratified relationships between soil water and salt content remain poorly characterized. We monitored soil moisture and electrical conductivity (EC) at six depths (0-100 cm) across 15 sites in the Hetao Irrigation District, China, during the 2025 growing season. Our results indicate a depth-dependent divergence in water-salt associations. The EC-derived salinity index varied from 0.08 to 42.91 g/kg, exhibiting extreme spatial heterogeneity (coefficient of variation (CV) = 185.2%) across the salinity gradient. However, moisture-salinity relationships showed marked depth dependency. Surface soils (0-20 cm) exhibited non-statistically significant correlations (r = 0.07), whereas deep layers (60-100 cm) showed a statistically significant but weak positive correlation (r = 0.25, p < 0.01, R2 = 0.06), indicating limited explanatory power. This pattern is consistent with a subtle tendency of downward salt redistribution. The EC-derived salinity index showed a 42% increase in deep layers (from 1.59 to 2.26 g/kg) over the season, compared to a 136% fluctuation in surface layers. These results highlight limitations of surface-focused monitoring approaches and indicate patterns consistent with subsurface salt redistribution. Compared with previous studies, this work provides a depth-resolved, multi-site observational dataset combined with a stratified analytical approach, offering additional evidence for interpreting soil salinity dynamics under heterogeneous field conditions.",
+      "date": "2026-10-20",
+      "url": "https://doi.org/10.1371/journal.pone.0360976",
+      "authors": [
+        "Cao Y",
+        "Wang H",
+        "Chen X",
+        "Zhu L"
+      ],
+      "venue": "PloS one",
+      "provider": "Europe PMC",
+      "doi": "10.1371/journal.pone.0360976",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Business",
+      "source_topics": [],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Business"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "title:management"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "Compared with previous studies, this work provides a depth-resolved, multi-site observational dataset combined with a stratified analytical approach, offering additional evidence for interpreting soil salinity dynamics under heterogeneous field conditions.",
+        "findings": "The EC-derived salinity index showed a 42% increase in deep layers (from 1.59 to 2.26 g/kg) over the season, compared to a 136% fluctuation in surface layers.",
+        "limitations": "These results highlight limitations of surface-focused monitoring approaches and indicate patterns consistent with subsurface salt redistribution.",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1371/journal.pone.0360419",
+      "title": "Integrating machine learning and geospatial technologies for spatio-temporal analysis of urban expansion and land use transformation in Gambella Town, Ethiopia.",
+      "abstract": "Rapid urbanization and the associated expansion of built-up areas are transforming land resources, ecosystem functions, and the spatial structure of cities. Distinguishing urban growth, urban expansion, and urban sprawl is essential for understanding the processes and patterns of urban transformation and supporting sustainable urban planning. This study integrates machine learning and geospatial technologies to analyze spatio-temporal land use and land cover (LULC) dynamics and urban expansion in Gambella Town, Ethiopia. Multi-temporal Landsat satellite images from 2005, 2015, and 2025 were processed using remote sensing techniques and a supervised machine learning approach based on the Random Forest (RF) classifier. Six major LULC classes were identified: Agricultural Land, Bush with Grass, Built-Up Area, Bare Land, Forest Land, and Water Bodies. The classification achieved overall accuracies of 90%, 90%, and 89% for 2005, 2015, and 2025, respectively. The results revealed substantial land transformation and rapid physical urban expansion, with the built-up area increasing from 93 ha (2.0%) in 2005-1,956 ha (41.3%) in 2025. This expansion was accompanied by major transformations of surrounding land resources, particularly the conversion of Bush with Grass and other open areas to built-up land. Agricultural land increased from 634 ha (13.4%) to 1,750 ha (36.9%), whereas Bush with Grass declined from 3,375 ha (71.1%) to 652 ha (13.7%). Socio-economic information collected from 277 respondents indicated that population growth, rural-urban migration, housing demand, employment opportunities, and infrastructure development were major drivers of urban expansion. The study distinguishes urban expansion, represented by the increase in built-up land, from urban sprawl, which refers to the spatial pattern and form of outward urban development. The integration of Random Forest classification and GIS-based spatial analysis provides valuable evidence of land transformation, vegetation loss, and increasing pressure on urban services, supporting more sustainable urban planning and land management in Gambella Town.",
+      "date": "2026-10-20",
+      "url": "https://doi.org/10.1371/journal.pone.0360419",
+      "authors": [
+        "Dararo KF",
+        "Jal Dup G",
+        "Chemeda WM",
+        "Karuppannan S"
+      ],
+      "venue": "PloS one",
+      "provider": "Europe PMC",
+      "doi": "10.1371/journal.pone.0360419",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "AI & Computing",
+      "source_topics": [],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "AI & Computing"
+      ],
+      "category_confidence": 0.77,
+      "classification_evidence": [
+        "title:machine learning",
+        "abstract:machine learning"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1371/journal.pone.0357626",
+      "title": "Evidence-based practice implementation and associated factors among nurses employed at public hospitals in Siltie Zone, South Central Ethiopia: A cross-sectional study.",
+      "abstract": "The use of the best available research evidence in clinical decision-making through the incorporation of clinical experience and patient preferences into the delivery of professional patient care is known as evidence-based practice. The best way to provide high-quality care that is secure and has positive results is through evidence-based practice. To use evidence-based practice. Despite the anticipated advantages of evidence-based practice, nurses have found it challenging to implement. To assess the implementation of evidence-based practice and related factors among nurses working in public hospitals in the Siltie Zone in South Central Ethiopia in 2023. An institution-based cross-sectional study was conducted from March 6 to April 5, 2023, to assess the implementation of evidence-based practice. A sample size was 337 nurses working in Siltie Zone public hospitals; a self-administered, semi-structured questionnaire was used for data collection. Data was cleaned, coded, and entered into EpiData version 4.6 before being exported and analyzed in SPSS (version 26). To ascertain the relationship between the outcome variable and the predictors, binary logistic regression was performed, and those with a p-value of < 0.25 were entered into multivariate analysis. In multivariate analysis, a p-value < 0.05 was considered statistically significant. The Adjusted Odds Ratio (AOR) was calculated to determine the association between the dependent and independent variables at a 95% confidence interval (CI). According to this study, 147 (45.5%) of nurses have good evidence-based practice implementation, and 176 (54.5%) of nurses were found to have poor evidence-based practice implementation. Factors significantly associated with implementation of evidence-based practice were age between 26 and 30 (AOR = 5.247, 95% CI: 1.249, 22.047); educational level, BSc (AOR = 1.956, 95% CI: 1.035, 3.698) and masters (AOR = 4.149, 95% CI: 1.088, 15.817); working unit like emergency (AOR = 3.935, 95% CI: 1.300, 11.914) and inpatient (AOR = 4.684, 95% CI: 1.633, 13.435); ability to formulate a question (AOR = 1.844, 95% CI: 1.062, 3.201); and not relevant to the nursing profession (AOR = 0.459, 95% CI: .236, .878). This study showed that the majority of nurses implement evidence-based practice ineffectively. Age, educational level, working unit, question formulation, and the applicability of evidence-based practice to nursing professions were the main causes of inadequate implementation of evidence-based practice. Therefore, multi-stakeholder approaches are required to address the main contributing variables and promote the implementation of evidence-based practice.",
+      "date": "2026-10-20",
+      "url": "https://doi.org/10.1371/journal.pone.0357626",
+      "authors": [
+        "Ahmed SS",
+        "Gebresillassie AM",
+        "Bekele TT",
+        "Mekonnen HA"
+      ],
+      "venue": "PloS one",
+      "provider": "Europe PMC",
+      "doi": "10.1371/journal.pone.0357626",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:patient"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
       "id": "https://openalex.org/w7221301266",
       "title": "Cyber Soldier project - A threat-led methodology for assessing the Digital Resilience of cybersecurity systems",
       "abstract": "In order to comply with European regulatory frameworks like the Digital Operational Resilience Act (DORA), we propose the Cyber Soldier approach and tool set, which presents a threat-led approach for evaluating the digital resilience of cybersecurity systems inside enterprises. This approach, in contrast to conventional vulnerability assessments or penetration testing, focuses on simulating the tactics, methods, and procedures (TTPs) of actual attackers in order to assess the efficacy of operational resilience mechanisms and cybersecurity measures in production systems. In order to assess the organization's readiness for complex cyberthreats, the suggested approach combines threat information, red team scenario creation, and detection performance analysis into a single procedure. We show how the proposed framework connects the operational practice of resilience testing with the strategic compliance obligations under DORA. We also provide some preliminary statistics about the use of the Cyber Soldier toolkit in practical settings.",
@@ -38437,6 +38788,110 @@
       },
       "quality_flags": [
         "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1155/ijm/4145293",
+      "title": "Genotypic and Phenotypic Characterization of MRSA Colonization and Persistence in Residential Aged Care Facilities in Adelaide, Australia.",
+      "abstract": "Background Residential aged care facilities (RACFs) are potential reservoirs for methicillin-resistant Staphylococcus aureus (MRSA), with residents at increased risk due to compromised immunity, comorbidities, frequent hospital visits, and close living quarters. Objectives This study is aimed at assessing MRSA prevalence in RACFs and analyzing antimicrobial resistance mechanisms both phenotypically and genotypically. Methods A total of 106 participants were recruited: 84 from three RACFs and 22 from retirement villages (as control samples). MRSA was isolated from nasal, wound, and urine samples using selective media. Identification was confirmed via MALDI-TOF MS. Antimicrobial susceptibility testing and MRSA screening were conducted using ISO broth microdilution and EUCAST disc diffusion. Whole-genome sequencing and bioinformatics were used to explore resistance mechanisms and clonal transmission. Results Nasal carriage of MRSA was 8.2% ( n = 7/85) among RACF residents; none were found in retirement village participants. All isolates formed strong biofilms, and 66.6% (10/15) showed multidrug resistance. Genotypic analysis revealed ST22 as the predominant clone. Genotypic resistance largely matched phenotypic profiles, except for unexplained tetracycline resistance. No isolates carried Panton-Valentine leukocidin (PVL), consistent with previously reported data on MRSA in long-term care facilities. SNP-based phylogenetic analysis indicated persistent colonization and circulation of multidrug-resistant clones within the facilities. Nasal carriage of MRSA was associated with UTIs and/or wound infections in some cases, whereas a UTI caused by the same clone in a resident within the same facility without nasal carriage indicates possible intrafacility clonal dissemination. Conclusion This study highlights persistent colonization with hospital-associated MRSA and potential clonal transmission among residents of aged care facilities despite several courses of antibiotics. The predominance of the epidemic ST22 clone and high rates of multidrug resistance underscore the urgent need for targeted infection control, routine genomic surveillance, and antimicrobial stewardship in long-term care settings to prevent MRSA dissemination.",
+      "date": "2026-10-19",
+      "url": "https://doi.org/10.1155/ijm/4145293",
+      "authors": [
+        "Asrat BT",
+        "Sapula SA",
+        "Siderius NL",
+        "Whittall JJ",
+        "Amsalu A",
+        "Hart BJ",
+        "Kumar M",
+        "Warner MS"
+      ],
+      "venue": "International journal of microbiology",
+      "provider": "Europe PMC",
+      "doi": "10.1155/ijm/4145293",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine",
+        "Biology"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:hospital"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "Methods A total of 106 participants were recruited: 84 from three RACFs and 22 from retirement villages (as control samples).",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1038/s41467-026-78568-9",
+      "title": "Human targeting of morphologically unique fishes amplifies the risk of functional erosion.",
+      "abstract": "Human societies are drawing on wild species for food, fuel, medicines, and recreation. Yet, it remains unclear whether different types of human use target species with common or unique ecological roles. Here we show that humans use a fourth (26%) of the freshwater fish species and these species occupy almost half (45.2%) of the global spectrum of fish morphological diversity. Yet, used species harbour unique trait combinations, that differ according to the way humans use the species such as fisheries, aquaculture, game fish and aquarium. Moreover, the species targeted by humans are characterised by traits that are predominantly associated with threatened species. By simulating the extinction of threatened species used by humans, we revealed a pronounced and non-random erosion of the morphological spectrum. Understanding the trait-based impacts of human use is thus essential to buffer human impact on natural resources. Conservation should therefore safeguard threatened species but also preserve irreplaceable trait combinations that support unique ecological strategies.",
+      "date": "2026-10-19",
+      "url": "https://doi.org/10.1038/s41467-026-78568-9",
+      "authors": [
+        "Bouchet P",
+        "Brosse S",
+        "Toussaint A"
+      ],
+      "venue": "Nature communications",
+      "provider": "Europe PMC",
+      "doi": "10.1038/s41467-026-78568-9",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Environment",
+      "source_topics": [],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Environment",
+        "Biology"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:ecological"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "Here we show that humans use a fourth (26%) of the freshwater fish species and these species occupy almost half (45.2%) of the global spectrum of fish morphological diversity.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
       ],
       "evidence_label": "Publication record / review unverified",
       "has_abstract": true,
