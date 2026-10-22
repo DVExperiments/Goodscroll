@@ -344,6 +344,1200 @@
       "has_citation_metadata": true
     },
     {
+      "id": "10.1080/10926755.2026.2744160",
+      "title": "Measuring Implicit and Explicit Attitudes Toward Transracial Adoption",
+      "abstract": "Attitudes toward Transracial Adoption, or TRA (i.e., White individuals adopting a child of a different race than their own) have been largely positive in a few experimental studies conducted, with only one study (Tinkler & Horne, 2011) employing an implicit measure, the Implicit Association Task (IAT). The current study has focused on assessing attitudes toward TRA families with Black versus Asian children using both explicit and implicit (the IAT) measures of bias. In addition, religiosity was tested as a moderator of the attitudes toward TRA adoption. It was found that individuals had much more supportive attitudes toward transracial families on the explicit measures compared to the implicit measure. Additionally, on the IAT, individuals showed a pro-White family bias. For religiosity, it was found that those who were more extrinsically religious had a greater preference toward supporting same-race families, while those who were more intrinsically religious showed more support for TRA adoption practices, but only in the Black Child condition, measured by the IAT. Implications of such findings are discussed in the context of the current adoption practices.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1080/10926755.2026.2744160",
+      "authors": [
+        "Lillian Spadgenske",
+        "Mario E. Herrera",
+        "Elena V. Stepanova",
+        "Hans Stadthagen-Gonzalez",
+        "Aaron Bermond",
+        "Shiza Shahid"
+      ],
+      "venue": "Adoption Quarterly",
+      "provider": "OpenAlex",
+      "doi": "10.1080/10926755.2026.2744160",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Psychology",
+      "source_topics": [
+        "Social Sciences",
+        "Social and Intergroup Psychology",
+        "Racial and Ethnic Identity Research",
+        "Child Welfare and Adoption"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W3162821859",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Psychology",
+        "Society"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:social and intergroup psychology"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.3390/arts15110241",
+      "title": "Postcognitivism and the Unfolding of a Music Cognition Research Program: Embodiment, Imagination, and Intersubjectivity in the Latin American South",
+      "abstract": "This narrative review examines a research program in psychology of music developed over two decades in Latin American South, tracing how studies at the intersection of music psychology, developmental psychology, and the philosophy of mind articulated a postcognitivist account of musical experience. The program unfolded in three overlapping phases: a focus on the listener’s imaginative engagement with tonal structure (2004–2009); an expansion toward embodied and intersubjective processes in adult–infant interaction and musical performance (2010–2018); and a consolidation around the second-person perspective and social enactivism (2018–present). The review revolves around five thematic axes: imaginative ontogenesis, metaphorization in adult musical practice, the postcognitivist turn, embodied performance, and second-person social cognition. Across studies of communicative musicality, image-schematic listening, cross-cultural and tango performance, jazz duos, ensembles, and dancing crowds, a recurring finding emerges: embodied engagement with shared musical structure takes stable but idiosyncratic, culturally and stylistically specific forms, rather than converging through a common entrainment mechanism. The program is discussed in relation to predictive processing, the coupling–constitution debate, simulation-theoretic, entrainment, and new-materialist accounts. Its limits—situatedness, the corroborative rather than comparative status of its second-person claims, and an underdeveloped pedagogical line—are acknowledged, and a future agenda is outlined.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.3390/arts15110241",
+      "authors": [
+        "Isabel Cecilia Martínez"
+      ],
+      "venue": "Arts",
+      "provider": "OpenAlex",
+      "doi": "10.3390/arts15110241",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Neuroscience",
+      "source_topics": [
+        "Neuroscience",
+        "Neuroscience and Music Perception",
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization"
+      ],
+      "open_access": true,
+      "references": [
+        "https://openalex.org/W242683427",
+        "https://openalex.org/W393180982",
+        "https://openalex.org/W605263502",
+        "https://openalex.org/W1541753613",
+        "https://openalex.org/W1573107679",
+        "https://openalex.org/W1931752723",
+        "https://openalex.org/W1964346887",
+        "https://openalex.org/W1967272295",
+        "https://openalex.org/W1968133283",
+        "https://openalex.org/W1970513923",
+        "https://openalex.org/W1987628598",
+        "https://openalex.org/W2035910815",
+        "https://openalex.org/W2078726299",
+        "https://openalex.org/W2086207208",
+        "https://openalex.org/W2111808332",
+        "https://openalex.org/W2137560425",
+        "https://openalex.org/W2137672845",
+        "https://openalex.org/W2190139321",
+        "https://openalex.org/W2320899008",
+        "https://openalex.org/W2486935637",
+        "https://openalex.org/W2521561045",
+        "https://openalex.org/W2567582286",
+        "https://openalex.org/W2587572519",
+        "https://openalex.org/W2753496805",
+        "https://openalex.org/W2796099401",
+        "https://openalex.org/W2805248035",
+        "https://openalex.org/W2884510285",
+        "https://openalex.org/W2901736695",
+        "https://openalex.org/W3194161409",
+        "https://openalex.org/W4220770339",
+        "https://openalex.org/W4229812438",
+        "https://openalex.org/W4232019260",
+        "https://openalex.org/W4232400354",
+        "https://openalex.org/W4235133908",
+        "https://openalex.org/W4238215782",
+        "https://openalex.org/W4244140934",
+        "https://openalex.org/W4247397992",
+        "https://openalex.org/W4248023810",
+        "https://openalex.org/W4254448807",
+        "https://openalex.org/W4255565422",
+        "https://openalex.org/W4297624813",
+        "https://openalex.org/W4297666169",
+        "https://openalex.org/W4388285491",
+        "https://openalex.org/W4388352140",
+        "https://openalex.org/W4409477044",
+        "https://openalex.org/W4415442404",
+        "https://openalex.org/W4417230393",
+        "https://openalex.org/W7155353111"
+      ],
+      "openalex_id": "https://openalex.org/W7223169168",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Neuroscience"
+      ],
+      "category_confidence": 0.7,
+      "classification_evidence": [
+        "source:neuroscience",
+        "source:neuroscience and music perception"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "The program is discussed in relation to predictive processing, the coupling–constitution debate, simulation-theoretic, entrainment, and new-materialist accounts.",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.4018/979-8-2600-4921-1.ch002",
+      "title": "Growing Up Algorithmic",
+      "abstract": "The chapter critically examines how artificial intelligence has transformed children into consumers within the realm of online platforms, toys, and learning systems. It discusses the impact of AI-driven marketing strategies, including recommendation engines and synthetic influencers, on children's preferences and behaviors. The analysis is grounded in theories related to consumer socialization, media psychology, and digital surveillance, exploring how these technologies affect children's cognition, emotional attachments, and decision-making. It highlights concerns over hyper-personalized content, parasocial interactions with AI, and ethical governance regarding data privacy. Additionally, the chapter reviews existing regulatory frameworks, identifies gaps in protecting children, and proposes a holistic approach to understanding the interactions between children and AI. Finally, it advocates for ethical AI design, corporate responsibility, and enhancing AI literacy among parents, contributing to the broader conversation on child rights and digital well-being in an AI-driven era.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.4018/979-8-2600-4921-1.ch002",
+      "authors": [
+        "Arpita Nayak",
+        "Ipseeta Satpathy",
+        "Vishal Kumar Jain"
+      ],
+      "venue": "IGI Global eBooks",
+      "provider": "OpenAlex",
+      "doi": "10.4018/979-8-2600-4921-1.ch002",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Society",
+      "source_topics": [
+        "Social Sciences",
+        "Child Development and Digital Technology",
+        "Ethics and Social Impacts of AI",
+        "Technology's Impact on Media"
+      ],
+      "open_access": false,
+      "references": [
+        "https://openalex.org/W3140445995",
+        "https://openalex.org/W4200103117",
+        "https://openalex.org/W4210867863",
+        "https://openalex.org/W4221022300",
+        "https://openalex.org/W4287218595",
+        "https://openalex.org/W4288076474",
+        "https://openalex.org/W4352978422",
+        "https://openalex.org/W4360620450",
+        "https://openalex.org/W4366396713",
+        "https://openalex.org/W4380265438",
+        "https://openalex.org/W4386030614",
+        "https://openalex.org/W4392307122",
+        "https://openalex.org/W4400351737",
+        "https://openalex.org/W4401995702",
+        "https://openalex.org/W4403597247",
+        "https://openalex.org/W4403840426",
+        "https://openalex.org/W4408132665",
+        "https://openalex.org/W4408503413",
+        "https://openalex.org/W4408544040",
+        "https://openalex.org/W4408618411",
+        "https://openalex.org/W4412598023",
+        "https://openalex.org/W4414044291",
+        "https://openalex.org/W4415427276"
+      ],
+      "openalex_id": "https://openalex.org/W7223184503",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Society",
+        "AI & Computing",
+        "Psychology",
+        "Business"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:social sciences"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.5194/bg-23-7375-2026",
+      "title": "Contrasting isotopic responses of dryland and wetland plants to a century of global anthropogenic changes in nutrient cycling",
+      "abstract": "Abstract. Anthropogenic emissions of carbon dioxide and reactive nitrogen in various forms disrupt the functioning of ecosystems around the world. In Europe, many valuable habitats, particularly wetlands and semi-natural dry grasslands, are under threat from ongoing eutrophication. However, due to contrasting water regimes, the uptake of anthropogenic nitrogen by plants in these ecosystems is different and is also interrelated with an increase in trophic level in both habitats. In our study, we measured the δ15N and δ13C values, as well as the total nitrogen content (TN), of 99 pairs of foliar samples collected from seven species of vascular plants in both dry grasslands and wetlands in Poland. Each pair consisted of a historical sample collected from a herbarium voucher dating from before 1939 (i.e. before artificial fertilisers were widely used in agriculture) and a contemporary sample collected in 2024 from the same species in a similar location. We performed t-tests to determine whether there were significant differences in the means of δ15N, TN and δ13C between samples from the two different habitats. Next, we calculated the differences in δ15N, TN and δ13C between the contemporary and historical samples for each pair. We then tested whether the difference for each species and habitat type was significantly different from zero using 90 % confidence intervals. Using multiple linear regression, we analysed the relationships between differences in δ15N and TN over time and the following factors: habitat type, the proportion of farmland in the surrounding landscape, the consumption of synthetic nitrogen fertiliser, and NOx deposition. δ15N and TN values were lower in dry grassland species than in wetland species, in both the contemporary and historical subsets. For dry grassland species, the mean δ15N value was lower in contemporary samples than in historical ones. For wetland species, the opposite was true. The difference in δ15N values between pairs of samples was positively related to the amount of farmland in the surrounding landscape. The mean TN was higher in contemporary than in historical wetland samples, but not in dry grassland plants. The mean δ13C value, corrected for the Suess effect, was lower in contemporary samples than in historical ones. The mean difference was −0.51 ‰ for dry grassland and −3.85 ‰ for wetland species. Our study revealed that the century of fossil fuel-derived carbon emissions, increased nitrogen input into the environment, and dominance of artificial fertilisers and combustion-derived nitrogen over biological nitrogen sources have not led to consistent responses across habitats and species. While the isotopic composition of nitrogen and carbon in plant tissues in Central Europe has undoubtedly changed, this change is highly context-dependent. Its magnitude and direction are impacted by the type of habitat and the identity and/or ecology of the species. As expected, man-made alterations appear to be more pronounced in wetland environments than in dryland habitats. Furthermore, the source of disruption may differ between the two habitat types. Specifically, wetlands are exposed to a multitude of anthropogenic nitrogen and carbon sources, whereas dry grasslands seem to be predominantly affected by changes in the composition of the atmosphere.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.5194/bg-23-7375-2026",
+      "authors": [
+        "Iwona Dembicz",
+        "Natalia Chojnowska",
+        "Piotr Chibowski",
+        "Łukasz Kozub"
+      ],
+      "venue": "Biogeosciences",
+      "provider": "OpenAlex",
+      "doi": "10.5194/bg-23-7375-2026",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Environment",
+      "source_topics": [
+        "Environmental Science",
+        "Isotope Analysis in Ecology",
+        "Soil Carbon and Nitrogen Dynamics",
+        "Soil and Water Nutrient Dynamics"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7118158571",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Environment"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "abstract:habitat",
+        "source:environmental science"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "Using multiple linear regression, we analysed the relationships between differences in δ15N and TN over time and the following factors: habitat type, the proportion of farmland in the surrounding landscape, the consumption of synthetic nitrogen fertiliser, and NOx deposition. δ15N and TN values were lower in dry grassland species than in wetland species, in both the contemporary and historical subsets.",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1103/qhmn-431j",
+      "title": "Fluctuating environments are sufficient to drive substantial variability in species abundance across locations",
+      "abstract": "Species growing in environments that change in time and space will vary in their abundance across locations, even in the absence of persistent location preferences. Here we quantify this non-equilibrium effect by studying a minimal model of a spatially compartmentalised community with time-averaged-neutral competition but location-dependent environmental fluctuations. We analytically derive distributions of two-point inequality, defined as the log-ratio of a species' abundance across a pair of locations. We characterise how the balance of relaxation via migration and fluctuation strength determine the bulk and extreme value statistics of these distributions in the two-patch and infinite-patch cases. We demonstrate the existence of a noise-induced transition to bimodal inequality, which depends on the correlation timescale of the environmental fluctuations. Finally, we discuss the evolutionary benefit of finite migration rates in environments with temporal correlations.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1103/qhmn-431j",
+      "authors": [
+        "James Henderson",
+        "Andreas Tiffeau-Mayer"
+      ],
+      "venue": "Physical review. E",
+      "provider": "OpenAlex",
+      "doi": "10.1103/qhmn-431j",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Biology",
+      "source_topics": [
+        "Medicine",
+        "Mathematical and Theoretical Epidemiology and Ecology Models",
+        "Ecology and Vegetation Dynamics Studies",
+        "Ecosystem dynamics and resilience"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7133550403",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Biology",
+        "Medicine"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "title:species",
+        "abstract:species"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "We demonstrate the existence of a noise-induced transition to bimodal inequality, which depends on the correlation timescale of the environmental fluctuations.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1177/25148486261497916",
+      "title": "“There's no shade anymore”: White phosphorus, destruction, and ecologies of displacement and return in south Lebanon",
+      "abstract": "The 2023–2025 escalation of hostilities between Israel and Hezbollah triggered widespread displacement across South Lebanon while simultaneously generating extensive environmental destruction that continues to undermine prospects for return. This article examines how warfare-induced ecological damage including white phosphorus contamination, bombardment, deforestation, and the destruction of agricultural infrastructure, reshapes displacement trajectories in agrarian borderland communities. Drawing on an interdisciplinary framework integrating environmental displacement theory, critical refugee studies, and political ecology, the study analyzes qualitative interviews with displaced agricultural workers whose livelihoods depend on land, water systems, and biodiversity. The findings demonstrate that displacement in South Lebanon cannot be understood solely as a response to immediate violence, but also to warfare-induced environmental transformation. Instead, environmental degradation including burned olive groves, contaminated soil, damaged irrigation networks, livestock loss, and disrupted agricultural cycles, has destabilized the ecological foundations that sustain rural life. Even where residents physically return, recovery remains partial and uncertain as farmers confront declining soil productivity, crop disease, market distrust, and persistent fears of contamination. Environmental destruction therefore converts temporary evacuation into protracted displacement by eroding the environmental systems that sustain local economies and social reproduction. By foregrounding ecological viability as a condition for return, the article argues that conflict-induced displacement in agrarian regions is shaped not only by security dynamics but by the transformation of landscapes themselves. Durable return, therefore, depends as much on environmental restoration as on the cessation of violence.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1177/25148486261497916",
+      "authors": [
+        "Yasmine Fakhry",
+        "Jasmin Lilian Diab"
+      ],
+      "venue": "Environment and Planning E Nature and Space",
+      "provider": "OpenAlex",
+      "doi": "10.1177/25148486261497916",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Environment",
+      "source_topics": [
+        "Environmental Science",
+        "Environmental and Biological Research in Conflict Zones",
+        "Migration and Exile Studies",
+        "Climate Change, Adaptation, Migration"
+      ],
+      "open_access": false,
+      "references": [
+        "https://openalex.org/W1500610626",
+        "https://openalex.org/W1879981207",
+        "https://openalex.org/W1998472859",
+        "https://openalex.org/W2032266442",
+        "https://openalex.org/W2069858121",
+        "https://openalex.org/W2077410220",
+        "https://openalex.org/W2082777878",
+        "https://openalex.org/W2767291552",
+        "https://openalex.org/W2789705647",
+        "https://openalex.org/W2884524330",
+        "https://openalex.org/W2903405248",
+        "https://openalex.org/W2921909800",
+        "https://openalex.org/W3106999754",
+        "https://openalex.org/W3153597570",
+        "https://openalex.org/W3190077034",
+        "https://openalex.org/W4206995207",
+        "https://openalex.org/W4214549832",
+        "https://openalex.org/W4221036903",
+        "https://openalex.org/W4225388216",
+        "https://openalex.org/W4242124550",
+        "https://openalex.org/W4282941026",
+        "https://openalex.org/W4312217908",
+        "https://openalex.org/W4313430930",
+        "https://openalex.org/W4323024050",
+        "https://openalex.org/W4377100329",
+        "https://openalex.org/W4396816917",
+        "https://openalex.org/W4403394778",
+        "https://openalex.org/W4404068027",
+        "https://openalex.org/W4404475018",
+        "https://openalex.org/W4404705073",
+        "https://openalex.org/W4407187016",
+        "https://openalex.org/W4407323052",
+        "https://openalex.org/W4410078976",
+        "https://openalex.org/W4412867161",
+        "https://openalex.org/W7129071364",
+        "https://openalex.org/W7155006239",
+        "https://openalex.org/W7167059764"
+      ],
+      "openalex_id": "https://openalex.org/W7223182190",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Environment"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "abstract:environmental",
+        "source:environmental science"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "Drawing on an interdisciplinary framework integrating environmental displacement theory, critical refugee studies, and political ecology, the study analyzes qualitative interviews with displaced agricultural workers whose livelihoods depend on land, water systems, and biodiversity.",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.1007/s41468-026-00257-9",
+      "title": "A Subsequence approach to topological data analysis for irregularly-spaced time series",
+      "abstract": "Abstract A time-delay embedding (TDE), grounded in the framework of Takens’s Theorem, provides a mechanism to reconstruct and analyze the state-space representation of time-series data. Recently, topological data analysis (TDA) methods have been applied to study this time series representation mainly through the lens of persistent homology. Current literature on the fusion of TDE and TDA are adept at analyzing uniformly-spaced time series observations. This work introduces a novel subsequence embedding method for irregularly -spaced time-series data. We show that this method preserves the original state space topology while reducing spurious homological features. Theoretical stability results and convergence properties of the proposed method in the presence of noise and varying levels of irregularity in the spacing of the time series are established. Numerical studies and an application to real data illustrates the performance of the proposed method.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1007/s41468-026-00257-9",
+      "authors": [
+        "Sixtus Dakurah",
+        "Jessi Cisewski-Kehe"
+      ],
+      "venue": "Journal of Applied and Computational Topology",
+      "provider": "OpenAlex",
+      "doi": "10.1007/s41468-026-00257-9",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "AI & Computing",
+      "source_topics": [
+        "Computer Science",
+        "Topological and Geometric Data Analysis",
+        "Time Series Analysis and Forecasting",
+        "Homotopy and Cohomology in Algebraic Topology"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W4403580036",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "AI & Computing"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:computer science"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "We show that this method preserves the original state space topology while reducing spurious homological features.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1098/rsta.2025.0065",
+      "title": "Similarities and differences between solar and stellar flare pulsation processes",
+      "abstract": "Abstract Quasi-periodic pulsations (QPPs) are oscillatory signatures commonly detected in the light curves of solar and stellar flares, offering valuable diagnostics of the underlying magnetic and plasma processes. This review compares the observational characteristics, detection methods and physical interpretations of QPPs in both solar and stellar contexts. Solar flare QPPs, extensively studied in X-rays and extreme-UV (EUV) bands using instruments such as Geostationary Operational Environmental Satellite (GOES), Spectrometer Telescope for Imaging X-rays (STIX) on-board Solar Orbiter and Fermi, display typical periods of tens of seconds and show correlations with flare duration and magnetic loop length. Stellar QPPs, observed in X-rays and white light by missions such as Kepler, Transiting Exoplanet Survey Satellite (TESS) and XMM-Newton, exhibit much longer periods—ranging from minutes to hours—consistent with larger-scale magnetic structures in more active stars. Despite differences in scale and observing band, statistical and comparative studies reveal common scaling relations and damping behaviours, suggesting that both solar and stellar QPPs are manifestations of the same fundamental mechanisms, probably magnetohydrodynamic (MHD) oscillations or oscillatory reconnection within flare loops. The comparison underscores a continuity between solar and stellar magnetic activity, linking the solar detailed physical processes to stellar-scale phenomena and providing constraints for future models and surveys. This article is part of the theme issue ‘Transferable mechanisms in the oscillatory processes of solar and stellar flares’.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1098/rsta.2025.0065",
+      "authors": [
+        "Fabio Reale"
+      ],
+      "venue": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+      "provider": "OpenAlex",
+      "doi": "10.1098/rsta.2025.0065",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Solar and Space Plasma Dynamics",
+        "Stellar, planetary, and galactic studies",
+        "Astrophysical Phenomena and Observations"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7127590704",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics",
+        "Environment"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1098/rsta.2025.0056",
+      "title": "Detector for fast wave trains in the solar radio emission",
+      "abstract": "Abstract Quasi-periodic fast propagating (QFP) wave trains observed in the solar corona after some energetic events (solar flares, coronal mass ejections, jets) open possibilities for diagnostics of spatial and temporal scales of the impulsive energy release processes that are absent in the standard model of a solar flare. In addition, the dynamics of the wave trains and their characteristic spatial and temporal signatures allow for localizing the initial energy release volume magenta and to perform fine diagnostics of the transverse structures of plasma inhomogeneities in the solar corona. However, the small number of such events registered significantly limits their promising diagnostic potential. The aim of this paper is to perform an automatic search for fast wave trains in radio data. We apply classifying neural network/machine learning methods. Dynamic radio spectra obtained by Hiraiso radio spectrograph (HiRAS) radio spectrographs within the 20 MHz–2.5 GHz frequency band during 2011 were used. We consider 50 global coronal extreme ultraviolet (EUV) waves as marker events for a more targeted search in HiRAS data. Our automatic detector revealed 50 independent QFP-candidate events with temporal signatures similar to those of the fast wave trains, with 13 candidates connected with the global waves. This article is part of the theme issue ‘Transferable mechanisms in the oscillatory processes of solar and stellar flares’.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1098/rsta.2025.0056",
+      "authors": [
+        "Valentin A. Dmitriev",
+        "E. G. Kupriyanova",
+        "А.В. Михальчук"
+      ],
+      "venue": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+      "provider": "OpenAlex",
+      "doi": "10.1098/rsta.2025.0056",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Solar and Space Plasma Dynamics",
+        "Magnetic confinement fusion research",
+        "Ionosphere and magnetosphere dynamics"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7161118955",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics",
+        "AI & Computing"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1103/xdk8-9g3p",
+      "title": "Polarized anisotropic stochastic gravitational wave background search with ground-based detector networks",
+      "abstract": "Gravitational waves admit a Stokes decomposition into intensity ($I$), circular polarization ($V$), and linear polarization ($Q$, $U$), analogous to Cosmic Microwave Background (CMB) polarimetry. We implement a full-Stokes maximum-likelihood SGWB map-making analysis for ground-based detector networks, promoting the standard cross-correlation data products used in existing pipelines to a joint reconstruction of $I$, $V$, $Q$, $U$. Applied to LVK O3 data, we constrain the polarized angular spectra $C^{VV}_\\ell$, $C^{EE}_\\ell$, $C^{BB}_\\ell$ and $|C^{IV}_\\ell|$. We show that an intensity-only model is biased when polarized sky components are present, since the detector-network Fisher inner product does not generally make the Stokes responses orthogonal. For transient CBC foregrounds, polarized shot noise is not parametrically suppressed relative to ordinary CBC intensity shot noise. The full Stokes framework separates the Stokes sectors while providing access to polarized anisotropies invisible to conventional intensity-only searches.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1103/xdk8-9g3p",
+      "authors": [
+        "Töre Boybeyi",
+        "Vuk Mandic"
+      ],
+      "venue": "Physical Review Letters",
+      "provider": "OpenAlex",
+      "doi": "10.1103/xdk8-9g3p",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Pulsars and Gravitational Waves Research",
+        "Cosmology and Gravitation Theories",
+        "Radio Astronomy Observations and Technology"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7162411246",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "abstract:gravitational waves",
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "We show that an intensity-only model is biased when polarized sky components are present, since the detector-network Fisher inner product does not generally make the Stokes responses orthogonal.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1098/rsta.2025.0370",
+      "title": "Probing flare-associated eruptions on AB Doradus via X-ray absorption variations",
+      "abstract": "Abstract In this work, we investigate eruptive phenomena associated with X-ray flares on AB Doradus using observations from XMM-Newton. Our aim is to detect such events with the help of continuous X-ray absorption. The variation in the hydrogen column density (NH) is used as a primary diagnostic to detect such absorption or spectral hardening in the soft X-ray band below 1–2 keV. These variations may represent the signatures of the eruptive processes associated with flares, such as stellar prominences, failed eruptions or coronal mass ejections. We applied a time-resolved spectroscopy technique to track changes in the absorption parameter during flaring episodes. Our analysis shows statistically significant enhancements in NH, spanning from 0.3 to 3.4×1020 cm−2 during the flare and post-flare intervals. Out of six datasets, two sets containing multiple-overlapped flares show significant fluctuations and the remaining showed no such variations in NH. These variations indicate the presence of dynamic absorbing material along the line of sight and point to ongoing physical processes within the stellar corona. This article is part of the theme issue ‘Transferable mechanisms in the oscillatory processes of solar and stellar flares’.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1098/rsta.2025.0370",
+      "authors": [
+        "Shweta Didel",
+        "Jeewan Chandra Pandey",
+        "A K Srivastava"
+      ],
+      "venue": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+      "provider": "OpenAlex",
+      "doi": "10.1098/rsta.2025.0370",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Stellar, planetary, and galactic studies",
+        "Solar and Space Plasma Dynamics",
+        "Astrophysical Phenomena and Observations"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7167605770",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "Abstract In this work, we investigate eruptive phenomena associated with X-ray flares on AB Doradus using observations from XMM-Newton.",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1098/rsta.2025.0062",
+      "title": "Evolution of non-stationary quasi-periodic pulsations in solar flares with Aditya-L1/HEL1OS and GOES",
+      "abstract": "Abstract In the present work, we use a phase-resolved methodology for the detection and characterization of non-stationary quasi-periodic pulsations (QPPs) in the hard X-ray light curves observed from the High Energy L1-Orbiting X-ray Spectrometer instrument on board the Aditya-L1 mission, complemented by cross-examination using soft X-ray observations from Geostationary Operational Environmental Satellites. Our approach combines variational mode decomposition with Hilbert–Huang analysis and wavelet transforms to sharpen transient QPP signatures, extract narrowband amplitude–frequency modulated modes and track instantaneous period drift across various phases of the flares. By applying these tools to pre-flare, impulsive and decay phases and associated intervals, we identify the timing, duration and evolution of statistically significant oscillations and assess their relation to thermal and non-thermal flare components. Finally, we extend the method to the catalogue of non-stationary QPP flares reported by Mehta et al. (Mehta et al. 2023 Mon. Not. R. Astron. Soc. 523, 3689–3698. (doi:10.1093/mnras/stad1619)), where we identify statistically significant QPPs in both impulsive and decay phases for 74 out of 98 flares. Among these, 56.8% exhibit small period drifts, while 43.2% show larger deviations. Positive period drift dominates (73%), indicating a systematic increase in characteristic timescales as flares evolve. A phase–period–duration analysis reveals distinct regimes of non-stationarity, including overlapping multi-mode oscillations, intermittent same-period episodes and strongly evolving multi-modal behaviour. This article is part of the theme issue ‘Transferable mechanisms in the oscillatory processes of solar and stellar flares'.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1098/rsta.2025.0062",
+      "authors": [
+        "Srikar P. Tadepalli",
+        "Abhishekh Srivastava",
+        "Dr.K.Sankarasubramanian"
+      ],
+      "venue": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+      "provider": "OpenAlex",
+      "doi": "10.1098/rsta.2025.0062",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Solar and Space Plasma Dynamics",
+        "Stellar, planetary, and galactic studies",
+        "Astrophysical Phenomena and Observations"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7167686459",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics",
+        "Environment"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1119/5.0320045",
+      "title": "Experimental visualization of a Fermi gas",
+      "abstract": "Angle-resolved photoemission spectroscopy (ARPES) can measure electrons' energy vs momentum relations in solids via the photoelectric effect. Here, we use experimental results from this technique as a tool for visualizing the Fermi gas model in quantum statistical mechanics. This model is an important starting point for understanding more complex electronic behaviors in real metals.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1119/5.0320045",
+      "authors": [
+        "Inna Vishik"
+      ],
+      "venue": "American Journal of Physics",
+      "provider": "OpenAlex",
+      "doi": "10.1119/5.0320045",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Cold Atom Physics and Bose-Einstein Condensates",
+        "Physics of Superconductivity and Magnetism",
+        "Electron and X-Ray Spectroscopy Techniques"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7202296027",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "abstract:quantum",
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1103/xl58-tn9c",
+      "title": "Accretion onto a moving black hole for stiff equations of state",
+      "abstract": "We revisit accretion of an asymptotically uniform fluid onto a moving Schwarzschild black hole, the relativistic analog of Bondi-Hoyle-Lyttleton accretion. Expanding on previous treatments, we focus on relativistic accretion of stiff fluids with adiabatic indices $Γ\\geq 5/3$, which is particularly relevant for the treatment of primordial black holes captured by neutron stars. We perform numerical simulations to systematically explore the dependence of the steady-state accretion and drag rates on the asymptotic sound speed $a_\\infty$ and relative speed $v_\\infty$, and identify different regimes, both subsonic and supersonic, in which these rates either increase or decrease with respect to the spherical accretion rate for $v_\\infty = 0$. We propose simple analytical approximations that capture the qualitative features observed in the dependence of the accretion and drag rates on $a_\\infty$ and $v_\\infty$.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1103/xl58-tn9c",
+      "authors": [
+        "Elliott Ewell",
+        "Peter K. Harris",
+        "Thomas W. Baumgarte",
+        "Stuart L. Shapiro"
+      ],
+      "venue": "Physical review. D/Physical review. D.",
+      "provider": "OpenAlex",
+      "doi": "10.1103/xl58-tn9c",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Astrophysical Phenomena and Observations",
+        "Pulsars and Gravitational Waves Research",
+        "Black Holes and Theoretical Physics"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7212524590",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "We perform numerical simulations to systematically explore the dependence of the steady-state accretion and drag rates on the asymptotic sound speed $a_\\infty$ and relative speed $v_\\infty$, and identify different regimes, both subsonic and supersonic, in which these rates either increase or decrease with respect to the spherical accretion rate for $v_\\infty = 0$.",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1103/1zwk-c77f",
+      "title": "Normal-field evolution and the breakdown of classical tearing in current sheets",
+      "abstract": "Classical resistive tearing theory assumes a prescribed current-sheet equilibrium, but a finite normal magnetic field can evolve the background on the tearing timescale. For a transversely pressure-balanced Harris profile of initial half-thickness $a$ and asymptotic reconnecting-field magnitude $B_0$, threaded by uniform $B_n$ ($ξ=B_n/B_0$), we derive an exact evolution in ideal magnetohydrodynamics: counter-propagating Alfvenic fronts broaden the neutral layer and generate a central sheet-parallel flow with shear at its flanks. Inner-layer estimates recover $ξ_{\\mathrm{crit}}\\sim S^{-3/4}$ for breakdown of the classical resistive balance, where $S$ is the Lundquist number based on $a$. Numerical frozen-profile calculations show loss of central resistive dominance and decreasing tearing growth as the neutral layer expands. Eigenfunction comparisons at fixed wavenumber and predominantly Doppler-shifted propagation support a normal-field-modified continuation of classical tearing. The normal field supplies no net perturbation energy. Energy extraction from the reconnecting-field gradient weakens as the sheet broadens. The velocity-gradient contribution becomes comparable when the neutral-layer width approaches the initial sheet thickness, without reversing the decline in growth. For $S=10^6$, $\\mathrm{Pr}_m=0$, and $ξ=10^{-4}$, the maximum growth rate falls by a factor of about ten from its initial value at neutral-layer half-width $w\\simeq1.59a$, where the growth and broadening times become equal. Only about 0.18 additional upper-envelope e-folds are estimated between this crossing and $w/a=2$, where the growth rate is about 25 times smaller than its initial value. These results support dynamical suppression of further linear amplification over the sampled evolution, even though the instantaneous spectrum remains unstable.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1103/1zwk-c77f",
+      "authors": [
+        "G. Kowal",
+        "Diego A. Falceta-Gonçalves"
+      ],
+      "venue": "Physical review. E",
+      "provider": "OpenAlex",
+      "doi": "10.1103/1zwk-c77f",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Ionosphere and magnetosphere dynamics",
+        "Solar and Space Plasma Dynamics",
+        "Magnetic confinement fusion research"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7215918075",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1098/rsta.2025.0059",
+      "title": "Phase-drifting with emitting plasma temperature in the quasi-periodic pulsations of an X-class solar flare",
+      "abstract": "Abstract Recent multi-wavelength observations of solar flares have provided new constraints on the physical origin of quasi-periodic pulsations (QPPs). In an X-class flare, we detect a short-lived approximately 5-min QPP simultaneously in hard X-rays, extreme-ultraviolet (EUV) and soft X-ray emissions, exhibiting a clear phase-drifting behaviour with emitting plasma temperature. Based on phase-resolved timing analysis, it is found that (i) the QPPs in all diagnostics share nearly identical oscillation periods, (ii) a systematic temperature-dependent phase drifting is present, with the phase delay relative to the hard X-ray emission increases systematically from the hottest to cooler EUV channels, and (iii) the QPP persists for only a few cycles during the impulsive phase. These properties imply that periodic magnetic reconnection, possibly triggered by the leakage of 5-min oscillations from the lower atmosphere, modulates the non-thermal electrons responsible for the leading hard X-ray QPPs. Subsequently, plasma heating and cooling processes manifest sequentially across passbands with different temperature responses, resulting in the observed temperature-dependent phase drifting. These results provide novel observational evidence supporting the use of multi-temperature, multi-wavelength phase relationships to constrain the temporal evolution of flare energy release and the origins of QPPs. This article is part of the theme issue ‘Transferable mechanisms in the oscillatory processes of solar and stellar flares’.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1098/rsta.2025.0059",
+      "authors": [
+        "Libo Fu",
+        "Valery M. Nakariakov",
+        "Ding (Researcher in physics) Yuan",
+        "Song Feng",
+        "Suraj Sahu",
+        "E. Tavabi"
+      ],
+      "venue": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+      "provider": "OpenAlex",
+      "doi": "10.1098/rsta.2025.0059",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Solar and Space Plasma Dynamics",
+        "Magnetic confinement fusion research",
+        "Stellar, planetary, and galactic studies"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7220959503",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1145/3860053",
+      "title": "Accelerated Execution of Bayesian Neural Networks using a Single Probabilistic Forward Pass and Code Generation",
+      "abstract": "Machine learning models excel across applications like medical diagnostics, weather forecasting, natural language processing and autonomous driving, yet their inadequate handling of uncertainty remains crucial for safety-critical applications. Traditional neural networks fail to recognize out-of-domain (OOD) data, often producing incorrect predictions without indicating uncertainty. Bayesian neural networks (BNNs) offer a principled framework for uncertainty estimation by providing statistically grounded probabilities alongside predictions. Despite these advantages, BNNs suffer from high computational costs in both training and prediction. Predictions require sampling over weight distributions and multiple forward passes. To address this challenge, the Probabilistic Forward Pass (PFP) serves as an extreme approximation of Stochastic Variational Inference (SVI). While SVI assumes Gaussian-distributed weights without restrictions on activations, PFP extends this assumption to activations. This enables a fully analytical uncertainty propagation, replacing multiple forward passes with a single, more complex forward pass operating on probability distributions. Thus, PFP requires specialized Gaussian-propagating operators absent from standard deep learning libraries. We present an end-to-end pipeline for training, compilation, optimization, and deployment of PFP-based BNNs on embedded ARM CPUs. By implementing custom operators in the deep learning compiler TVM, we develop a dedicated operator library for multilayer perceptrons and convolutional neural networks. Multiple operator implementations, along with manual and automatic tuning techniques, are applied to maximize efficiency. Ablation studies show that PFP consistently outperforms SVI in computational efficiency. For small mini-batch sizes, critical for low-latency applications, our approach achieves speedups of up to 3900 ×. Our results show that PFP-based BNNs achieve performance comparable to SVI-BNNs for uncertainty disentanglement on the Dirty-MNIST dataset and for complex OOD detection on CIFAR-10 against SVHN, all while significantly reducing computational overhead. These findings underscore the potential of combining Bayesian approximations with code generation and operator tuning to accelerate BNN predictions and enable their efficient deployment on resource-constrained embedded systems.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1145/3860053",
+      "authors": [
+        "Bernhard Klein",
+        "Falk Selker",
+        "Hendrik Borras",
+        "Sophie Steger",
+        "Franz Pernkopf",
+        "Holger Fröning"
+      ],
+      "venue": "ACM Transactions on Architecture and Code Optimization",
+      "provider": "OpenAlex",
+      "doi": "10.1145/3860053",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "AI & Computing",
+      "source_topics": [
+        "Computer Science",
+        "Gaussian Processes and Bayesian Inference",
+        "Adversarial Robustness in Machine Learning",
+        "Advanced Neural Network Applications"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W4416931775",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "AI & Computing"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "abstract:machine learning",
+        "source:computer science"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "Our results show that PFP-based BNNs achieve performance comparable to SVI-BNNs for uncertainty disentanglement on the Dirty-MNIST dataset and for complex OOD detection on CIFAR-10 against SVHN, all while significantly reducing computational overhead.",
+        "limitations": "Machine learning models excel across applications like medical diagnostics, weather forecasting, natural language processing and autonomous driving, yet their inadequate handling of uncertainty remains crucial for safety-critical applications.",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1119/5.0322042",
+      "title": "Learning about learning: A path from spin glasses to artificial intelligence",
+      "abstract": "The Hopfield model, originally inspired by spin glasses, occupies a central place at the intersection of statistical mechanics, neural networks, and artificial intelligence. Despite its conceptual simplicity and broad applicability, it is rarely integrated into the undergraduate physics curriculum. We present the Hopfield model as a pedagogically rich framework that naturally unifies core topics from the undergraduate physics curriculum and that provides a concise introduction based on concepts such as a model's energy function, dynamics, and pattern stability. We discuss practical aspects of its simulation and provide simulation codes. We also propose problems designed to mirror research practice, which can be included in undergraduate classes.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1119/5.0322042",
+      "authors": [
+        "Denis D. Caprioti",
+        "Matheus Haas",
+        "Constantino Francisco Vasconcelos",
+        "Mauricio Girardi‐Schappo"
+      ],
+      "venue": "American Journal of Physics",
+      "provider": "OpenAlex",
+      "doi": "10.1119/5.0322042",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Neuroscience",
+      "source_topics": [
+        "Neuroscience",
+        "Undergraduate Neuroscience Education and Research",
+        "Educational Methods and Outcomes",
+        "Science Education and Pedagogy"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7123894222",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Neuroscience",
+        "AI & Computing"
+      ],
+      "category_confidence": 0.7,
+      "classification_evidence": [
+        "source:neuroscience",
+        "source:undergraduate neuroscience education and rese"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "We discuss practical aspects of its simulation and provide simulation codes.",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1038/s44488-026-00015-x",
+      "title": "The shift toward open and reproducible AI research",
+      "abstract": "Abstract The reproducibility crisis has directed the AI research community toward improving documentation practices. Several studies have identified methodological issues, and in response, the most impactful venues in the field have introduced reproducibility checklists. We seek to understand whether documentation practices have changed over time by assessing all published papers at five leading AI conferences over the past decade. Seven reproducibility variables were identified, quality-assured and used to analyse 56,800 publications. Our analysis reveals that in the period 2014 to 2024, documentation practices have improved; papers sharing both code and data increased nearly sixfold, from 11% to 64%. Building on empirical reproducibility rates from a prior study, we estimate – inferred from documentation practices, not direct testing – that reproducibility increased from 28% in 2014 to 64% in 2024. Improvements in documentation practices predate the introduction of reproducibility checklists, suggesting these changes reflect a broader movement toward open science rather than a direct response to formal requirements.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1038/s44488-026-00015-x",
+      "authors": [
+        "Kevin Coakley",
+        "Thijs Snelleman",
+        "Holger H. Hoos",
+        "Odd Erik Gundersen"
+      ],
+      "venue": "Communications AI & Computing",
+      "provider": "OpenAlex",
+      "doi": "10.1038/s44488-026-00015-x",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Society",
+      "source_topics": [
+        "Decision Sciences",
+        "Scientific Computing and Data Management",
+        "Academic Publishing and Open Access",
+        "Research Data Management Practices"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7164932205",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Society"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:community"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.54254/2753-7102/2026.38071",
+      "title": "The psychological effect of gamification mechanism in XR immersive environment on user willingness to behave",
+      "abstract": "With the rapid landing of XR technology in the fields of architecture, education, medical and other fields, how to effectively guide user behavior through interaction design and content mechanism has become the core topic of human-computer interaction research. This paper examines how gamification mechanisms in an XR immersive environment influence users' behavioral intentions. Drawing on self-determination theory as the overarching framework and incorporating spatial narrative structure and the Octalysis framework, it systematically examines the mediating roles of the three basic psychological needs—autonomy, competence, and relatedness—in the immersive experience. The study uses a combination of literature review and theoretical analysis, and constructs a theoretical model of \"gamification elements → psychological needs to meet → willingness to act\" through the depth analysis of typical XR cases such as medical training, building space guide, safety education and other types of XR cases. The study suggests that XR's distinctive sense of presence and interactivity may amplify the psychological effects of gamification drivers, such as a sense of mission and progression, while excessive competition and manipulative design may undermine intrinsic motivation.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.54254/2753-7102/2026.38071",
+      "authors": [
+        "Tianchen Meng"
+      ],
+      "venue": "Advances in Social Behavior Research",
+      "provider": "OpenAlex",
+      "doi": "10.54254/2753-7102/2026.38071",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Psychology",
+      "source_topics": [
+        "Psychology",
+        "Educational Games and Gamification",
+        "Virtual Reality Applications and Impacts",
+        "Digital Games and Media"
+      ],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7223177737",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Psychology"
+      ],
+      "category_confidence": 0.79,
+      "classification_evidence": [
+        "title:psychological",
+        "abstract:psychological",
+        "source:psychology"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
       "id": "https://europepmc.org/article/med/42902570",
       "title": "From Genes to Neural Circuits: Genetic and Systems Mechanisms of Ethanol Sensitivity and Tolerance in Drosophila melanogaster.",
       "abstract": "Alcohol use disorder (AUD) is a complex neuropsychiatric disease shaped by genetic, environmental, and physiological factors. Over four decades, Drosophila melanogaster has emerged as a powerful model for dissecting the molecular and neural mechanisms underlying ethanol sensitivity, tolerance, preference, and consumption. Its conserved signaling pathways, sophisticated genetic toolkit, and robust behavioral assays have enabled discovery of genes and neural circuits governing alcohol responses across biological levels. This review summarizes major advances in the genetics and neurobiology of ethanol-related behaviors in Drosophila. Forward genetic screens identified conserved regulators of ethanol sensitivity and tolerance, including cAMP/PKA signaling components, ion channels, neurotransmitter receptors, cytoskeletal regulators, and neuropeptide pathways. Subsequent studies revealed distinct roles for the ellipsoid body, mushroom bodies, circadian neurons, and barrier glia in intoxication, tolerance, and reward. Epigenetic studies further established chromatin remodeling and transcriptional regulation as mechanisms of long-term behavioral plasticity, while systems genetics and genome-wide association studies highlighted the polygenic basis of natural variation in alcohol-related traits. Together, these findings advance an integrated view of ethanol action and provide a framework for understanding human AUD. Emerging approaches include single-cell and connectomics analyses, functional testing of human variants, and integration of systems genetics with circuit neuroscience.",
