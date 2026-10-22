@@ -1,17 +1,17 @@
 {
   "version": "1.6.0",
-  "updated_at": "2026-10-22T12:07:20+00:00",
+  "updated_at": "2026-10-22T17:21:28+00:00",
   "items": 1352,
-  "new_records": 416,
-  "new_unique_vs_previous": 91,
+  "new_records": 466,
+  "new_unique_vs_previous": 0,
   "sources": {
     "OpenAlex": 91,
-    "Crossref": 85,
-    "arXiv": 0,
+    "Crossref": 0,
+    "arXiv": 135,
     "Europe PMC": 240
   },
   "errors": {
-    "arXiv": "HTTP Error 429: Unknown Error"
+    "Crossref": "HTTP Error 429: Too Many Requests"
   },
   "fallback_retained": true,
   "by_category": {
@@ -45,7 +45,7 @@
     "last_7_days": 1240,
     "last_30_days": 1294,
     "last_90_days": 1351,
-    "duplicate_or_replaced_candidates": 325,
+    "duplicate_or_replaced_candidates": 466,
     "excluded_by_category_or_total_caps": 0,
     "classification_uncertain": 786,
     "without_explicit_findings": 908,
@@ -74,75 +74,80 @@
         {
           "status": 200,
           "bytes": 658580,
-          "elapsed_ms": 879
+          "elapsed_ms": 2136
         },
         {
           "status": 200,
           "bytes": 795403,
-          "elapsed_ms": 490
+          "elapsed_ms": 1187
         },
         {
           "status": 200,
           "bytes": 729356,
-          "elapsed_ms": 640
+          "elapsed_ms": 1097
         },
         {
           "status": 200,
           "bytes": 567495,
-          "elapsed_ms": 412
+          "elapsed_ms": 596
         },
         {
           "status": 200,
-          "bytes": 582315,
-          "elapsed_ms": 510
+          "bytes": 582316,
+          "elapsed_ms": 1062
         },
         {
           "status": 200,
           "bytes": 922654,
-          "elapsed_ms": 592
+          "elapsed_ms": 978
         },
         {
           "status": 200,
           "bytes": 648514,
-          "elapsed_ms": 517
+          "elapsed_ms": 1086
         }
       ],
       "error": null
     },
     "Crossref": {
-      "accepted_before_dedup": 85,
+      "accepted_before_dedup": 0,
       "requests": [
         {
           "status": 200,
           "bytes": 554374,
-          "elapsed_ms": 1215
+          "elapsed_ms": 498
         },
         {
           "status": 200,
           "bytes": 802660,
-          "elapsed_ms": 1171
+          "elapsed_ms": 556
+        },
+        {
+          "error": "HTTP Error 429: Too Many Requests"
+        }
+      ],
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    "arXiv": {
+      "accepted_before_dedup": 135,
+      "requests": [
+        {
+          "status": 200,
+          "bytes": 120630,
+          "elapsed_ms": 475
         },
         {
           "status": 200,
-          "bytes": 644465,
-          "elapsed_ms": 1292
+          "bytes": 113087,
+          "elapsed_ms": 284
         },
         {
           "status": 200,
-          "bytes": 206028,
-          "elapsed_ms": 731
+          "bytes": 127608,
+          "elapsed_ms": 328
         }
       ],
       "error": null
-    },
-    "arXiv": {
-      "accepted_before_dedup": 0,
-      "requests": [
-        {
-          "error": "HTTP Error 429: Unknown Error"
-        }
-      ],
-      "error": "HTTP Error 429: Unknown Error"
     },
     "Europe PMC": {
       "accepted_before_dedup": 240,
@@ -150,22 +155,22 @@
         {
           "status": 200,
           "bytes": 508479,
-          "elapsed_ms": 1585
+          "elapsed_ms": 1796
         },
         {
           "status": 200,
           "bytes": 352952,
-          "elapsed_ms": 2698
+          "elapsed_ms": 1285
         },
         {
           "status": 200,
           "bytes": 378347,
-          "elapsed_ms": 6024
+          "elapsed_ms": 1423
         },
         {
           "status": 200,
           "bytes": 385867,
-          "elapsed_ms": 9062
+          "elapsed_ms": 1278
         }
       ],
       "error": null
