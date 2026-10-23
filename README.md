@@ -10,12 +10,6 @@ Mobile-first research discovery on GitHub Pages. This release builds on V1.5 and
 - Balanced editorial ordering reduces long same-discipline streaks.
 - Existing catalogue re-enriched and included for immediate nonempty start.
 
-## GitHub Pages installation
-1. Upload **contents** of this ZIP to the root of the repository, including `.github/workflows`.
-2. GitHub Settings → Pages → source: GitHub Actions.
-3. Run **Collect research papers** from Actions, which automatically deploys fresh data.
-4. Hard-refresh the website if your browser has cached an older version.
-
 ## Integrity and caveats
 - Extracted snippets originate only in indexed abstracts. They are not full-paper review, generated interpretation or validation.
 - Relationships: explicit citations only if relevant identifiers match; remaining lines reflect lexical similarity. No claim of support/contradiction.
