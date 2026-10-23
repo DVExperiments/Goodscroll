@@ -1,9 +1,9 @@
 {
   "version": "1.6.0",
-  "updated_at": "2026-10-23T17:18:35+00:00",
+  "updated_at": "2026-10-23T21:32:18+00:00",
   "items": 1600,
   "new_records": 463,
-  "new_unique_vs_previous": 1,
+  "new_unique_vs_previous": 0,
   "sources": {
     "OpenAlex": 88,
     "Crossref": 0,
@@ -45,8 +45,8 @@
     "last_7_days": 1536,
     "last_30_days": 1583,
     "last_90_days": 1600,
-    "duplicate_or_replaced_candidates": 456,
-    "excluded_by_category_or_total_caps": 7,
+    "duplicate_or_replaced_candidates": 457,
+    "excluded_by_category_or_total_caps": 6,
     "classification_uncertain": 935,
     "without_explicit_findings": 1066,
     "by_primary_topic": {
@@ -73,38 +73,38 @@
       "requests": [
         {
           "status": 200,
-          "bytes": 639047,
-          "elapsed_ms": 871
+          "bytes": 639094,
+          "elapsed_ms": 810
         },
         {
           "status": 200,
-          "bytes": 730849,
-          "elapsed_ms": 754
+          "bytes": 730896,
+          "elapsed_ms": 595
         },
         {
           "status": 200,
-          "bytes": 729356,
-          "elapsed_ms": 755
+          "bytes": 729403,
+          "elapsed_ms": 672
         },
         {
           "status": 200,
-          "bytes": 567495,
-          "elapsed_ms": 561
+          "bytes": 567542,
+          "elapsed_ms": 432
         },
         {
           "status": 200,
-          "bytes": 582315,
-          "elapsed_ms": 783
+          "bytes": 582362,
+          "elapsed_ms": 586
         },
         {
           "status": 200,
-          "bytes": 793385,
-          "elapsed_ms": 501
+          "bytes": 793432,
+          "elapsed_ms": 455
         },
         {
           "status": 200,
-          "bytes": 641388,
-          "elapsed_ms": 580
+          "bytes": 641435,
+          "elapsed_ms": 603
         }
       ],
       "error": null
@@ -115,7 +115,17 @@
         {
           "status": 200,
           "bytes": 554374,
-          "elapsed_ms": 452
+          "elapsed_ms": 459
+        },
+        {
+          "status": 200,
+          "bytes": 771693,
+          "elapsed_ms": 577
+        },
+        {
+          "status": 200,
+          "bytes": 644465,
+          "elapsed_ms": 470
         },
         {
           "error": "HTTP Error 429: Too Many Requests"
@@ -129,17 +139,17 @@
         {
           "status": 200,
           "bytes": 111774,
-          "elapsed_ms": 714
+          "elapsed_ms": 361
         },
         {
           "status": 200,
           "bytes": 113753,
-          "elapsed_ms": 288
+          "elapsed_ms": 306
         },
         {
           "status": 200,
           "bytes": 132943,
-          "elapsed_ms": 376
+          "elapsed_ms": 408
         }
       ],
       "error": null
@@ -150,22 +160,22 @@
         {
           "status": 200,
           "bytes": 442903,
-          "elapsed_ms": 6213
+          "elapsed_ms": 1423
         },
         {
           "status": 200,
           "bytes": 355219,
-          "elapsed_ms": 1177
+          "elapsed_ms": 978
         },
         {
           "status": 200,
           "bytes": 302257,
-          "elapsed_ms": 1323
+          "elapsed_ms": 1140
         },
         {
           "status": 200,
           "bytes": 312400,
-          "elapsed_ms": 989
+          "elapsed_ms": 957
         }
       ],
       "error": null
