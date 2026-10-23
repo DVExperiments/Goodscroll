@@ -1,17 +1,19 @@
 {
   "version": "1.6.0",
-  "updated_at": "2026-10-23T11:51:30+00:00",
+  "updated_at": "2026-10-23T17:18:35+00:00",
   "items": 1600,
-  "new_records": 549,
-  "new_unique_vs_previous": 294,
+  "new_records": 463,
+  "new_unique_vs_previous": 1,
   "sources": {
     "OpenAlex": 88,
-    "Crossref": 86,
+    "Crossref": 0,
     "arXiv": 135,
     "Europe PMC": 240
   },
-  "errors": {},
-  "fallback_retained": false,
+  "errors": {
+    "Crossref": "HTTP Error 429: Too Many Requests"
+  },
+  "fallback_retained": true,
   "by_category": {
     "AI & Computing": 240,
     "Society": 89,
@@ -36,15 +38,15 @@
   "quality": {
     "with_abstract": 1600,
     "without_abstract": 0,
-    "with_doi": 1270,
-    "with_open_access_indicator": 748,
+    "with_doi": 1269,
+    "with_open_access_indicator": 749,
     "with_citation_metadata": 162,
-    "preprints": 324,
+    "preprints": 325,
     "last_7_days": 1536,
-    "last_30_days": 1582,
+    "last_30_days": 1583,
     "last_90_days": 1600,
-    "duplicate_or_replaced_candidates": 254,
-    "excluded_by_category_or_total_caps": 141,
+    "duplicate_or_replaced_candidates": 456,
+    "excluded_by_category_or_total_caps": 7,
     "classification_uncertain": 935,
     "without_explicit_findings": 1066,
     "by_primary_topic": {
@@ -72,66 +74,54 @@
         {
           "status": 200,
           "bytes": 639047,
-          "elapsed_ms": 992
+          "elapsed_ms": 871
         },
         {
           "status": 200,
           "bytes": 730849,
-          "elapsed_ms": 666
+          "elapsed_ms": 754
         },
         {
           "status": 200,
           "bytes": 729356,
-          "elapsed_ms": 681
+          "elapsed_ms": 755
         },
         {
           "status": 200,
           "bytes": 567495,
-          "elapsed_ms": 680
+          "elapsed_ms": 561
         },
         {
           "status": 200,
           "bytes": 582315,
-          "elapsed_ms": 659
+          "elapsed_ms": 783
         },
         {
           "status": 200,
           "bytes": 793385,
-          "elapsed_ms": 1531
+          "elapsed_ms": 501
         },
         {
           "status": 200,
           "bytes": 641388,
-          "elapsed_ms": 584
+          "elapsed_ms": 580
         }
       ],
       "error": null
     },
     "Crossref": {
-      "accepted_before_dedup": 86,
+      "accepted_before_dedup": 0,
       "requests": [
         {
           "status": 200,
           "bytes": 554374,
-          "elapsed_ms": 1020
+          "elapsed_ms": 452
         },
         {
-          "status": 200,
-          "bytes": 802147,
-          "elapsed_ms": 1350
-        },
-        {
-          "status": 200,
-          "bytes": 643857,
-          "elapsed_ms": 1004
-        },
-        {
-          "status": 200,
-          "bytes": 207153,
-          "elapsed_ms": 772
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "error": null
+      "error": "HTTP Error 429: Too Many Requests"
     },
     "arXiv": {
       "accepted_before_dedup": 135,
@@ -139,17 +129,17 @@
         {
           "status": 200,
           "bytes": 111774,
-          "elapsed_ms": 462
+          "elapsed_ms": 714
         },
         {
           "status": 200,
           "bytes": 113753,
-          "elapsed_ms": 307
+          "elapsed_ms": 288
         },
         {
           "status": 200,
           "bytes": 132943,
-          "elapsed_ms": 470
+          "elapsed_ms": 376
         }
       ],
       "error": null
@@ -159,23 +149,23 @@
       "requests": [
         {
           "status": 200,
-          "bytes": 440954,
-          "elapsed_ms": 1922
+          "bytes": 442903,
+          "elapsed_ms": 6213
         },
         {
           "status": 200,
-          "bytes": 354241,
-          "elapsed_ms": 1412
+          "bytes": 355219,
+          "elapsed_ms": 1177
         },
         {
           "status": 200,
-          "bytes": 300534,
-          "elapsed_ms": 1202
+          "bytes": 302257,
+          "elapsed_ms": 1323
         },
         {
           "status": 200,
-          "bytes": 310566,
-          "elapsed_ms": 1823
+          "bytes": 312400,
+          "elapsed_ms": 989
         }
       ],
       "error": null

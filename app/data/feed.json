@@ -85585,6 +85585,54 @@
       "has_citation_metadata": false
     },
     {
+      "id": "http://arxiv.org/abs/2610.21486v1",
+      "title": "Neural Computation Runs on Dissipative Structures Under Cyclic Calibration: A Systems Perspective on Sleep",
+      "abstract": "Biological function operates far from thermodynamic equilibrium, sustained by metastable structures that continuously cycle through synthesis, function execution, and degradation--consuming energy and exporting entropy in the process. Neural computation exemplifies this dissipative organization, relying on low-entropy structures engaged in dynamic processes that define key information transfer and processing parameters such as gain, threshold, and integration time. This perspective proposes that sleep serves as a systemic recalibration phase required to reset crucial signaling parameters that drift during dissipative processing. During wakefulness, neural activity progressively consumes and disrupts the organization of the very substrate from which it emerges, leading to parameter drift and reduced computational precision. Sleep maintains computational accuracy across activity cycles by recalibrating function-structure coupling--that is, by counterbalancing entropic drift. Rather than explaining the experimentally observed sleep need through homeostatic regulation of unknown physiological variables, this perspective reframes it as an emergent property of neural computation under thermodynamic constraints.",
+      "date": "2026-10-15",
+      "url": "http://arxiv.org/abs/2610.21486v1",
+      "authors": [
+        "Javier Diaz"
+      ],
+      "venue": "arXiv",
+      "provider": "arXiv",
+      "doi": "",
+      "publication_type": "Preprint — peer review not established",
+      "category": "Neuroscience",
+      "source_topics": [
+        "q-bio.NC"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Neuroscience"
+      ],
+      "category_confidence": 0.7,
+      "classification_evidence": [
+        "source:q-bio.nc"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Preprint / not necessarily peer reviewed",
+      "has_abstract": true,
+      "has_doi": false,
+      "has_citation_metadata": false
+    },
+    {
       "id": "http://arxiv.org/abs/2610.20971v1",
       "title": "Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles and Phase Transitions",
       "abstract": "We introduce a statistical-mechanical framework for spiking neuronal systems in which entire spike trains, defined as spatiotemporal configurations of discrete events, are treated as microstates of the system. Instead of modeling explicit network dynamics, we construct an ensemble over complete spike histories and assign to each configuration an effective energy functional that quantifies its consistency with intrinsic synaptic interactions. This formulation leads to a Boltzmann-like distribution over spike configurations, where an effective temperature captures the influence of external inputs acting as a stochastic drive. Macroscopic states are described in terms of coarse-grained observables, such as population firing-rate densities, and arise from a competition between energetic contributions favoring interaction-consistent spike patterns and entropic contributions favoring spatio-temporal disorder. Within this framework, we primarily characterize the transition between oscillatory and non-oscillatory activity. The non-oscillatory regime contains both broadly distributed, approximately uniform states and temporally localized collapsed states, whereas the oscillatory regime is characterized by repeated activity peaks. These regimes are diagnosed using order parameters derived from the population spike-rate density, including its entropy, temporal localization measures, and autocorrelation-based indicators. To complement the analytical treatment, we perform Monte Carlo simulations that sample the ensemble of admissible spike configurations using a Metropolis-Hastings scheme defined directly on spike trains. The simulations reveal the emergence of the predicted macroscopic regimes and provide a direct sampling-based probe of the free-energy landscape.",
@@ -89290,56 +89338,6 @@
       "classification_evidence": [
         "title:psychology",
         "abstract:mental health"
-      ]
-    },
-    {
-      "id": "10.36519/yjhs.2026.1067",
-      "title": "Neural Modulation Strategies in Neuroscience",
-      "abstract": "Chemogenetics is a powerful and versatile neuromodulation strategy that enables remote, reversible control of defined cell populations through the use of engineered receptors and pharmacologically inert small-molecule ligands. This review synthesizes the current state of chemogenetic technologies, focusing on Designer Receptors Exclusively Activated by Designer Drugs (DREADDs) and emerging ion-channel-based actuators, and outlines their molecular mechanisms, ligand pharmacology, and recent technical innovations. We examine the broad applications of these tools in disease modeling, behavioral neuroscience, and experimental therapeutics, as well as in biomedical contexts beyond the central nervous system. Particular attention is given to the role of chemogenetics in mapping and causally dissecting neural circuits, where it provides precise and reversible modulation of neuronal activity to elucidate the cellular substrates of behavior. Comparisons with other neuromodulation techniques—such as optogenetics and electrical stimulation—are discussed, together with practical considerations including ligand selection, delivery strategies, and long-term applications. Finally, we highlight the translational trajectory of chemogenetic technologies, emphasizing ongoing advances that are bringing gene therapy-based neuromodulation closer to clinical application in neurology and psychiatry.",
-      "date": "2026-08-30",
-      "url": "https://doi.org/10.36519/yjhs.2026.1067",
-      "authors": [
-        "Cansu Yakın",
-        "Barış Barın",
-        "Yunus Kosif",
-        "Habibe Gören",
-        "Burcu Gemici"
-      ],
-      "venue": "Yeditepe Journal of Health Sciences",
-      "provider": "Crossref",
-      "doi": "10.36519/yjhs.2026.1067",
-      "publication_type": "Journal article — peer review not independently verified",
-      "category": "Neuroscience",
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false,
-      "topics": [
-        "Neuroscience"
-      ],
-      "category_confidence": 0.59,
-      "explanation": {
-        "question": "We examine the broad applications of these tools in disease modeling, behavioral neuroscience, and experimental therapeutics, as well as in biomedical contexts beyond the central nervous system.",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "classification_evidence": [
-        "title:neuroscience",
-        "abstract:neuroscience"
       ]
     }
   ]
