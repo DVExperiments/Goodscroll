@@ -1,9 +1,9 @@
 {
   "version": "1.6.0",
-  "updated_at": "2026-10-24T16:05:58+00:00",
+  "updated_at": "2026-10-24T20:59:44+00:00",
   "items": 1600,
   "new_records": 546,
-  "new_unique_vs_previous": 183,
+  "new_unique_vs_previous": 2,
   "sources": {
     "OpenAlex": 86,
     "Crossref": 86,
@@ -16,12 +16,12 @@
     "Engineering": 15,
     "Society": 87,
     "AI & Computing": 240,
-    "Neuroscience": 97,
+    "Neuroscience": 98,
     "Environment": 240,
     "Biology": 89,
     "Psychology": 155,
     "Medicine": 240,
-    "Unclassified": 214,
+    "Unclassified": 213,
     "Business": 38,
     "Physics": 151,
     "Design": 15,
@@ -29,34 +29,34 @@
     "Creative Technology": 1
   },
   "quality_flags": {
-    "category_uncertain": 942,
+    "category_uncertain": 941,
     "doi_missing": 4,
-    "findings_not_explicit_in_abstract": 1038
+    "findings_not_explicit_in_abstract": 1037
   },
   "quality": {
     "with_abstract": 1600,
     "without_abstract": 0,
-    "with_doi": 1320,
-    "with_open_access_indicator": 715,
+    "with_doi": 1319,
+    "with_open_access_indicator": 714,
     "with_citation_metadata": 149,
-    "preprints": 276,
+    "preprints": 277,
     "last_7_days": 1600,
     "last_30_days": 1600,
     "last_90_days": 1600,
-    "duplicate_or_replaced_candidates": 262,
-    "excluded_by_category_or_total_caps": 284,
-    "classification_uncertain": 942,
-    "without_explicit_findings": 1038,
+    "duplicate_or_replaced_candidates": 437,
+    "excluded_by_category_or_total_caps": 109,
+    "classification_uncertain": 941,
+    "without_explicit_findings": 1037,
     "by_primary_topic": {
       "Engineering": 15,
       "Society": 87,
       "AI & Computing": 240,
-      "Neuroscience": 97,
+      "Neuroscience": 98,
       "Environment": 240,
       "Biology": 89,
       "Psychology": 155,
       "Medicine": 240,
-      "Unclassified": 214,
+      "Unclassified": 213,
       "Business": 38,
       "Physics": 151,
       "Design": 15,
@@ -72,37 +72,37 @@
         {
           "status": 200,
           "bytes": 629286,
-          "elapsed_ms": 1348
+          "elapsed_ms": 828
         },
         {
           "status": 200,
-          "bytes": 754652,
-          "elapsed_ms": 1096
+          "bytes": 754651,
+          "elapsed_ms": 510
         },
         {
           "status": 200,
-          "bytes": 726583,
-          "elapsed_ms": 1606
+          "bytes": 726582,
+          "elapsed_ms": 598
         },
         {
           "status": 200,
           "bytes": 567542,
-          "elapsed_ms": 806
+          "elapsed_ms": 456
         },
         {
           "status": 200,
-          "bytes": 577429,
-          "elapsed_ms": 883
+          "bytes": 577428,
+          "elapsed_ms": 629
         },
         {
           "status": 200,
-          "bytes": 711259,
-          "elapsed_ms": 808
+          "bytes": 711258,
+          "elapsed_ms": 525
         },
         {
           "status": 200,
           "bytes": 643901,
-          "elapsed_ms": 1425
+          "elapsed_ms": 519
         }
       ],
       "error": null
@@ -113,22 +113,22 @@
         {
           "status": 200,
           "bytes": 554374,
-          "elapsed_ms": 755
+          "elapsed_ms": 471
         },
         {
           "status": 200,
           "bytes": 771693,
-          "elapsed_ms": 830
+          "elapsed_ms": 856
         },
         {
           "status": 200,
           "bytes": 670833,
-          "elapsed_ms": 787
+          "elapsed_ms": 463
         },
         {
           "status": 200,
-          "bytes": 206765,
-          "elapsed_ms": 516
+          "bytes": 196610,
+          "elapsed_ms": 368
         }
       ],
       "error": null
@@ -139,17 +139,17 @@
         {
           "status": 200,
           "bytes": 111774,
-          "elapsed_ms": 356
+          "elapsed_ms": 409
         },
         {
           "status": 200,
           "bytes": 113753,
-          "elapsed_ms": 354
+          "elapsed_ms": 311
         },
         {
           "status": 200,
           "bytes": 132943,
-          "elapsed_ms": 580
+          "elapsed_ms": 796
         }
       ],
       "error": null
@@ -159,23 +159,23 @@
       "requests": [
         {
           "status": 200,
-          "bytes": 430668,
-          "elapsed_ms": 1650
+          "bytes": 434007,
+          "elapsed_ms": 1303
         },
         {
           "status": 200,
-          "bytes": 343337,
-          "elapsed_ms": 1248
+          "bytes": 343911,
+          "elapsed_ms": 1035
         },
         {
           "status": 200,
-          "bytes": 339286,
-          "elapsed_ms": 1421
+          "bytes": 343326,
+          "elapsed_ms": 977
         },
         {
           "status": 200,
-          "bytes": 429325,
-          "elapsed_ms": 1307
+          "bytes": 433134,
+          "elapsed_ms": 1091
         }
       ],
       "error": null

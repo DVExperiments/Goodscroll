@@ -29564,6 +29564,55 @@
       "has_citation_metadata": false
     },
     {
+      "id": "10.1016/j.wasman.2026.115946",
+      "title": "Plastic consumption and waste generation in China: Pathways toward full chain governance under policy interventions.",
+      "abstract": "Plastic pollution has emerged as a central challenge in global environmental governance, placing production limits and upstream mitigation at the heart of the negotiation under the ongoing UN global plastics treaty process. Effective governance requires robust, forward-looking assessments of plastic demand. This study develops an integrated forecasting framework that couples S-curve dynamics with multiple linear regression to capture both long-term economic convergence and short-term socioeconomic drivers. Using historical data from 1980 to 2020 across 68 countries and regions, the model projects China's plastic consumption and waste generation to 2040 and evaluates the outcomes of alternative policy pathways. Results identify three representative S-curve development trajectories. In the absence of further mitigation measures, extrapolation from comparable medium-to-high economies suggests that China's annual per capita plastic consumption could reach 132-182 kg by 2040, with annual plastic waste generation rising to approximately 208 Mt, largely driven by short-lived applications. However, scenario analysis demonstrates that an integrated circular economy strategy-combining source reduction, material substitution, and enhanced recycling-could curb total plastic demand by up to 24 % and reduce mismanaged waste by nearly 90 % compared to a business-as-usual baseline, with packaging and textiles presenting the highest mitigation potential. By linking demand-side drivers with sector-specific waste fate and policy levers, this analysis provides a quantitative, full-chain evidence base to support China's transition to a circular plastics economy and to inform ambitious national targets under a future global plastics agreement.",
+      "date": "2026-10-22",
+      "url": "https://doi.org/10.1016/j.wasman.2026.115946",
+      "authors": [
+        "Xu Y",
+        "Li J",
+        "Tan Q"
+      ],
+      "venue": "Waste management (New York, N.Y.)",
+      "provider": "Europe PMC",
+      "doi": "10.1016/j.wasman.2026.115946",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Environment",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Environment"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:pollution"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
       "id": "https://europepmc.org/article/med/42902570",
       "title": "From Genes to Neural Circuits: Genetic and Systems Mechanisms of Ethanol Sensitivity and Tolerance in Drosophila melanogaster.",
       "abstract": "Alcohol use disorder (AUD) is a complex neuropsychiatric disease shaped by genetic, environmental, and physiological factors. Over four decades, Drosophila melanogaster has emerged as a powerful model for dissecting the molecular and neural mechanisms underlying ethanol sensitivity, tolerance, preference, and consumption. Its conserved signaling pathways, sophisticated genetic toolkit, and robust behavioral assays have enabled discovery of genes and neural circuits governing alcohol responses across biological levels. This review summarizes major advances in the genetics and neurobiology of ethanol-related behaviors in Drosophila. Forward genetic screens identified conserved regulators of ethanol sensitivity and tolerance, including cAMP/PKA signaling components, ion channels, neurotransmitter receptors, cytoskeletal regulators, and neuropeptide pathways. Subsequent studies revealed distinct roles for the ellipsoid body, mushroom bodies, circadian neurons, and barrier glia in intoxication, tolerance, and reward. Epigenetic studies further established chromatin remodeling and transcriptional regulation as mechanisms of long-term behavioral plasticity, while systems genetics and genome-wide association studies highlighted the polygenic basis of natural variation in alcohol-related traits. Together, these findings advance an integrated view of ethanol action and provide a framework for understanding human AUD. Emerging approaches include single-cell and connectomics analyses, functional testing of human variants, and integration of systems genetics with circuit neuroscience.",
@@ -88073,6 +88122,58 @@
       "has_citation_metadata": false
     },
     {
+      "id": "http://arxiv.org/abs/2610.25061v1",
+      "title": "Spontaneous brain-wide rotational dynamics constrain cue-evoked behavior",
+      "abstract": "Uncovering low-dimensional representations of brain-wide neural dynamics and their relationship to behavior remains a central challenge. Here, we show that spontaneous brain-wide rotational dynamics constrain cue-evoked behavior and learning. To systematically establish these findings, we developed a dimensionality-reduction technique called Rotational Component Analysis (RCA) that optimizes the detection of low-variance rotational modes even within individual trials. We applied RCA to motor-cortical spike-train data from monkeys and humans, mouse cortex-wide calcium imaging, and human functional magnetic resonance imaging (fMRI) and magnetoencephalography (MEG). In mice, a rotational mode identified from activity recorded at rest predicts cue-evoked behavior: the phase of rotation when a randomly timed cue arrives predicts whether the animal subsequently pulls the lever. We explain this surprisingly strong correlation using both a recurrent neural network (RNN) and a minimal two-dimensional model of response learning, in which the intrinsic rotational mode serves as a dynamical constraint on response and learning. We further identify double-rotation modes containing two centers of rotation that separate preparatory from task dynamics in both mouse and human data. Remarkably, corresponding modes also organize neural dynamics during a non-motor human task, and rotational irreversibility captures early psychosis even when principal component analysis shows no group difference. Our work establishes rotational dynamics as low-dimensional coordinates that constrain how ongoing brain states are converted into behavior. More broadly, RCA provides a versatile tool for detecting hidden nonreciprocal dynamics in biological and physical datasets.",
+      "date": "2026-10-18",
+      "url": "http://arxiv.org/abs/2610.25061v1",
+      "authors": [
+        "Sihan Chen",
+        "Yunlong Xu",
+        "Doruk Efe Gökmen",
+        "Michel Fruchart",
+        "Brent Doiron",
+        "Vincenzo Vitelli"
+      ],
+      "venue": "arXiv",
+      "provider": "arXiv",
+      "doi": "",
+      "publication_type": "Preprint — peer review not established",
+      "category": "Neuroscience",
+      "source_topics": [
+        "q-bio.NC"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Neuroscience"
+      ],
+      "category_confidence": 0.79,
+      "classification_evidence": [
+        "abstract:fmri",
+        "source:q-bio.nc"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "To systematically establish these findings, we developed a dimensionality-reduction technique called Rotational Component Analysis (RCA) that optimizes the detection of low-variance rotational modes even within individual trials.",
+        "findings": "Here, we show that spontaneous brain-wide rotational dynamics constrain cue-evoked behavior and learning.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [],
+      "evidence_label": "Preprint / not necessarily peer reviewed",
+      "has_abstract": true,
+      "has_doi": false,
+      "has_citation_metadata": false
+    },
+    {
       "id": "10.1007/s00213-026-07179-5",
       "title": "Beyond psychedelic exceptionalism: how people combine meditation with psychoactive substances, and how this relates to well-being",
       "abstract": "BACKGROUND: Combining meditation with psychoactive substances is often assumed to be a niche practice centred on classic psychedelics. We sought to broaden this narrative in two cross-sectional studies. METHODS: Study 1 used a broad naturalistic sample (N = 1,391) to examine the prevalence of substance use, meditation, and their simultaneous combination, as well as associations with subjective happiness. Study 2 used a stratified subsample (n = 397) focusing on classic psychedelic and cannabis users, the most common psychedelic-type substances combined with meditation, to assess associations with mental well-being, peace of mind, psychological flexibility, depression, and anxiety. RESULTS: Contrary to prevailing assumptions, alcohol (29%), cannabis (19%), and nicotine (16%) were far more commonly combined with meditation than classic psychedelics (6%). Classic psychedelic use was also embedded within a pattern of pronounced polysubstance use, suggesting that it may reflect a broader substance-use profile rather than an isolated behavioural practice. Regression analyses found no consistent associations between psychedelic or cannabis use, with or without meditation, and any outcome. However, an unexpected pattern emerged for other drugs and alcohol. Other- drug use without meditation was associated with poorer well-being outcomes relative to no other-drug use, whereas other-drug use combined with meditation was not. Alcohol combined with meditation was associated with better well-being outcomes relative to alcohol use without meditation. CONCLUSIONS: These findings suggest that combining meditation with substance use is not limited to psychedelics and should be studied within broader patterns of polysubstance use and meditation practice.",
@@ -89618,94 +89719,6 @@
       ],
       "classification_evidence": [
         "abstract:environmental"
-      ]
-    },
-    {
-      "id": "10.25258/ijddt.16.73s.94",
-      "title": "Traditional Ethnic Beverages as Sources of Phenolic Compounds: Antioxidant and Anti-inflammatory Properties—A Narrative Review",
-      "abstract": "Indigenous groups have been consuming traditional ethnic beverages for generations, and they play a significant role in their dietary customs, cultural legacy, and traditional medical systems.These drinks are typically made using naturally occurring fermentation processes that improve the nutritional content and bioactive composition of cereals, fruits, herbs, and other locally accessible plant materials.Traditional fermented drinks are rich in phenolic compounds, flavonoids, organic acids, bioactive peptides, and beneficial microbes, which together support a variety of biological activities, according to mounting scientific data.Because of their ability to avoid oxidative stress and chronic inflammatory illnesses, antioxidant and anti-inflammatory capabilities have garnered significant interest.Fermentation increases the bioavailability and biological effectiveness of phytochemicals by facilitating their release and biotransformation.In experimental studies, a number of traditional beverages, such as Haria, Kanji, Pakhoi, Chubitchi, Makgeolli, Judima, and other native fermented drinks, have shown notable free radical scavenging activity, inhibition of lipid peroxidation, modulation of inflammatory cytokines, and regulation of oxidative stress pathways.However, due to variations in raw ingredients, fermentation techniques, microbial variety, and geographic origin, there is a great deal of variation in their phytochemical content and biological activities.The present understanding of the phenolic composition, antioxidant capacity, and anti-inflammatory potential of traditional ethnic beverages is summarized in this narrative review, with a focus on beverages that the Khasi population of Meghalaya, India, typically consumes.Furthermore, it highlights the underlying mechanisms responsible for their biofunctional properties, discusses existing research gaps, and outlines future perspectives for the scientific validation and development of traditional ethnic beverages as evidence-based functional foods.",
-      "date": "2026-10-17",
-      "url": "https://doi.org/10.25258/ijddt.16.73s.94",
-      "authors": [],
-      "venue": "International Journal of Drug Delivery Technology",
-      "provider": "OpenAlex",
-      "doi": "10.25258/ijddt.16.73s.94",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Unclassified",
-      "open_access": true,
-      "references": [],
-      "openalex_id": "https://openalex.org/W7222802738",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false,
-      "topics": [],
-      "category_confidence": 0,
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "classification_evidence": []
-    },
-    {
-      "id": "10.1038/s41598-026-76745-w",
-      "title": "Spatial and temporal patterns of human-elephant conflict and compensation in Nagaon District, Assam, India",
-      "abstract": "Human-elephant conflict (HEC) threatens both biodiversity and rural livelihoods. Forest departments in affected districts hold decades of compensation-claim records, but these archives are seldom analyzed for the spatial and temporal insights they contain. This study analyses twenty-one years of compensation-claim records from Nagaon District, Assam, India (1999–2020) to identify the spatial, seasonal, and institutional structure of conflict, and to assess whether compensation is allocated in proportion to the burden it addresses. Getis-Ord Gi* and Local Moran’s I statistics were applied to 1,915 georeferenced incidents across 1,032 villages, and 1,788 records with complete financial data were examined using non-parametric correlation, Theil-Sen regression, and segmentation by policy regime. Conflict was reported in 241 villages (23.35%), with hotspots concentrated along the Karbi Anglong foothills and human casualty clusters localized in the northeastern part of the district. Incidents peaked in December (23.29%), coinciding with the Sali rice harvest. Property and crop damage together accounted for over 88% of claims but under 28% of disbursed funds, while human fatalities represented 6.26% of claims and 68.37% of funds. Claim volume explained only 31.8% of the variation in payouts, with compensation rate revisions accounting for most of the remainder. Mitigation should be spatially targeted and seasonally adaptive, and compensation restructured into a tiered, need-based model that recognizes chronic livelihood loss alongside catastrophic outcomes.",
-      "date": "2026-10-17",
-      "url": "https://doi.org/10.1038/s41598-026-76745-w",
-      "authors": [
-        "Chandan Bhuyan",
-        "Chiranjib Bora",
-        "Madhushree Das"
-      ],
-      "venue": "Scientific Reports",
-      "provider": "OpenAlex",
-      "doi": "10.1038/s41598-026-76745-w",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Environment",
-      "open_access": true,
-      "references": [],
-      "openalex_id": "https://openalex.org/W7222803424",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false,
-      "topics": [
-        "Environment"
-      ],
-      "category_confidence": 0.39,
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "classification_evidence": [
-        "abstract:biodiversity"
       ]
     }
   ]
