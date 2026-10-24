@@ -1,69 +1,66 @@
 {
   "version": "1.6.0",
-  "updated_at": "2026-10-24T11:18:13+00:00",
+  "updated_at": "2026-10-24T16:05:58+00:00",
   "items": 1600,
-  "new_records": 221,
-  "new_unique_vs_previous": 70,
+  "new_records": 546,
+  "new_unique_vs_previous": 183,
   "sources": {
     "OpenAlex": 86,
-    "Crossref": 0,
+    "Crossref": 86,
     "arXiv": 135,
-    "Europe PMC": 0
+    "Europe PMC": 239
   },
-  "errors": {
-    "Crossref": "HTTP Error 429: Too Many Requests",
-    "Europe PMC": "HTTP Error 503: "
-  },
-  "fallback_retained": true,
+  "errors": {},
+  "fallback_retained": false,
   "by_category": {
     "Engineering": 15,
-    "Society": 84,
+    "Society": 87,
     "AI & Computing": 240,
-    "Neuroscience": 96,
-    "Environment": 225,
-    "Biology": 86,
-    "Psychology": 143,
+    "Neuroscience": 97,
+    "Environment": 240,
+    "Biology": 89,
+    "Psychology": 155,
     "Medicine": 240,
-    "Unclassified": 240,
-    "Business": 36,
-    "Physics": 162,
+    "Unclassified": 214,
+    "Business": 38,
+    "Physics": 151,
     "Design": 15,
-    "Robotics": 17,
+    "Robotics": 18,
     "Creative Technology": 1
   },
   "quality_flags": {
-    "category_uncertain": 957,
-    "doi_missing": 5,
-    "findings_not_explicit_in_abstract": 1040
+    "category_uncertain": 942,
+    "doi_missing": 4,
+    "findings_not_explicit_in_abstract": 1038
   },
   "quality": {
     "with_abstract": 1600,
     "without_abstract": 0,
-    "with_doi": 1298,
-    "with_open_access_indicator": 781,
-    "with_citation_metadata": 156,
-    "preprints": 297,
-    "last_7_days": 1575,
+    "with_doi": 1320,
+    "with_open_access_indicator": 715,
+    "with_citation_metadata": 149,
+    "preprints": 276,
+    "last_7_days": 1600,
     "last_30_days": 1600,
     "last_90_days": 1600,
-    "duplicate_or_replaced_candidates": 143,
-    "excluded_by_category_or_total_caps": 78,
-    "classification_uncertain": 957,
-    "without_explicit_findings": 1040,
+    "duplicate_or_replaced_candidates": 262,
+    "excluded_by_category_or_total_caps": 284,
+    "classification_uncertain": 942,
+    "without_explicit_findings": 1038,
     "by_primary_topic": {
       "Engineering": 15,
-      "Society": 84,
+      "Society": 87,
       "AI & Computing": 240,
-      "Neuroscience": 96,
-      "Environment": 225,
-      "Biology": 86,
-      "Psychology": 143,
+      "Neuroscience": 97,
+      "Environment": 240,
+      "Biology": 89,
+      "Psychology": 155,
       "Medicine": 240,
-      "Unclassified": 240,
-      "Business": 36,
-      "Physics": 162,
+      "Unclassified": 214,
+      "Business": 38,
+      "Physics": 151,
       "Design": 15,
-      "Robotics": 17,
+      "Robotics": 18,
       "Creative Technology": 1
     },
     "note": "Metrics describe metadata quality, not independent verification of scientific findings or peer review."
@@ -75,59 +72,66 @@
         {
           "status": 200,
           "bytes": 629286,
-          "elapsed_ms": 1189
+          "elapsed_ms": 1348
         },
         {
           "status": 200,
-          "bytes": 754651,
-          "elapsed_ms": 753
+          "bytes": 754652,
+          "elapsed_ms": 1096
         },
         {
           "status": 200,
-          "bytes": 726582,
-          "elapsed_ms": 736
+          "bytes": 726583,
+          "elapsed_ms": 1606
         },
         {
           "status": 200,
           "bytes": 567542,
-          "elapsed_ms": 719
+          "elapsed_ms": 806
         },
         {
           "status": 200,
-          "bytes": 577428,
-          "elapsed_ms": 529
+          "bytes": 577429,
+          "elapsed_ms": 883
         },
         {
           "status": 200,
-          "bytes": 711258,
-          "elapsed_ms": 689
+          "bytes": 711259,
+          "elapsed_ms": 808
         },
         {
           "status": 200,
-          "bytes": 643900,
-          "elapsed_ms": 628
+          "bytes": 643901,
+          "elapsed_ms": 1425
         }
       ],
       "error": null
     },
     "Crossref": {
-      "accepted_before_dedup": 0,
+      "accepted_before_dedup": 86,
       "requests": [
         {
           "status": 200,
           "bytes": 554374,
-          "elapsed_ms": 821
+          "elapsed_ms": 755
         },
         {
           "status": 200,
           "bytes": 771693,
-          "elapsed_ms": 741
+          "elapsed_ms": 830
         },
         {
-          "error": "HTTP Error 429: Too Many Requests"
+          "status": 200,
+          "bytes": 670833,
+          "elapsed_ms": 787
+        },
+        {
+          "status": 200,
+          "bytes": 206765,
+          "elapsed_ms": 516
         }
       ],
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": null
     },
     "arXiv": {
       "accepted_before_dedup": 135,
@@ -135,29 +139,46 @@
         {
           "status": 200,
           "bytes": 111774,
-          "elapsed_ms": 550
+          "elapsed_ms": 356
         },
         {
           "status": 200,
           "bytes": 113753,
-          "elapsed_ms": 568
+          "elapsed_ms": 354
         },
         {
           "status": 200,
           "bytes": 132943,
-          "elapsed_ms": 389
+          "elapsed_ms": 580
         }
       ],
       "error": null
     },
     "Europe PMC": {
-      "accepted_before_dedup": 0,
+      "accepted_before_dedup": 239,
       "requests": [
         {
-          "error": "HTTP Error 503: "
+          "status": 200,
+          "bytes": 430668,
+          "elapsed_ms": 1650
+        },
+        {
+          "status": 200,
+          "bytes": 343337,
+          "elapsed_ms": 1248
+        },
+        {
+          "status": 200,
+          "bytes": 339286,
+          "elapsed_ms": 1421
+        },
+        {
+          "status": 200,
+          "bytes": 429325,
+          "elapsed_ms": 1307
         }
       ],
-      "error": "HTTP Error 503: "
+      "error": null
     }
   },
   "note": "Source counts are accepted pre-dedup. Research summaries are metadata-grounded excerpts, not independently verified findings."
