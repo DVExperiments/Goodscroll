@@ -6780,6 +6780,58 @@
       "has_citation_metadata": false
     },
     {
+      "id": "10.1177/00368504261499937",
+      "title": "Association between preoperative RDW and in-hospital death in trauma patients: A multicenter retrospective cohort study.",
+      "abstract": "ObjectiveRed cell distribution width (RDW) is an emerging prognostic marker in trauma. This study aims to investigate the association between preoperative RDW and in-hospital mortality in surgical trauma patients.MethodsThis retrospective cohort study enrolled 34,848 surgical trauma patients sourced from three Chinese medical centers and the MIMIC-IV 2.2 database. Receiver operating characteristic (ROC) curves were constructed to evaluate the discriminative ability of preoperative (at-admission) RDW for in-hospital mortality and to determine an optimal cutoff value for patient stratification. Propensity score matching (PSM) was performed with a caliper value of 0.01, balancing 18 covariates between the two groups, including demographic characteristics, vital signs, injury severity scores, comorbidities. After PSM, 7,697 pairs were matched. Binary logistic regression was applied to assess the relationship between RDW and in-hospital mortality.ResultsIn-hospital mortality was 3.02% (1,051/34,848). Preoperative RDW showed moderate discrimination for in-hospital mortality, with an area under the curve (AUC) of 0.777 (95% CI 0.763-0.792). Before PSM, in-hospital mortality was significantly higher in the Pre-RDW > 14.25% group compared to the Pre-RDW ≤ 14.25% group (7.58% vs. 1.11%, P 14.25% was associated with 2.58-fold higher odds of in-hospital death (95% CI 2.17-3.05, P 14.25% indicates a significantly higher risk of in-hospital death.",
+      "date": "2026-10-24",
+      "url": "https://doi.org/10.1177/00368504261499937",
+      "authors": [
+        "Xiong X",
+        "Zhou M",
+        "Hu P",
+        "Liu C",
+        "Ren Y",
+        "Mao Q"
+      ],
+      "venue": "Science progress",
+      "provider": "Europe PMC",
+      "doi": "10.1177/00368504261499937",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "title:hospital",
+        "abstract:hospital"
+      ],
+      "explanation": {
+        "question": "This study aims to investigate the association between preoperative RDW and in-hospital mortality in surgical trauma patients.MethodsThis retrospective cohort study enrolled 34,848 surgical trauma patients sourced from three Chinese medical centers and the MIMIC-IV 2.2 database.",
+        "method": "This study aims to investigate the association between preoperative RDW and in-hospital mortality in surgical trauma patients.MethodsThis retrospective cohort study enrolled 34,848 surgical trauma patients sourced from three Chinese medical centers and the MIMIC-IV 2.2 database.",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
       "id": "10.1021/acsomega.6c09949",
       "title": "Machine Learning Prediction of Transport Properties in Amorphous Polymer Electrolytes Using Chemically Informed Structural Descriptors",
       "abstract": "Abstract Amorphous polymer electrolytes are promising candidates for next-generation lithium batteries. They offer improved safety and mechanical stability compared to conventional liquid electrolytes. However, predicting their transport performance remains challenging. Ionic conductivity and diffusivity depend on complex, coupled interactions between polymer structure, chemistry, and ion dynamics. This work leverages machine learning to predict four key transport properties in amorphous polymer electrolytes using a molecular dynamics data set of more than 6,000 polymer electrolyte systems. These are ionic conductivity, bis(trifluoromethanesulfonyl)imide (TFSI) diffusivity, lithium-ion diffusivity, and polymer diffusivity. To enhance predictive capability and preserve mechanistic interpretability, we engineered chemically and structurally meaningful features from Simplified Molecular-Input Line-Entry System (SMILES) representations. Selected features include elemental composition, functional group densities, polarity descriptors, and polymer flexibility metrics. Three modeling frameworks were trained and evaluated under 5-fold cross-validation, including random forest, gradient boosting, and neural networks. The neural network achieved the highest predictive performance across all four targets and exceeded prior benchmarks on three of them. It also exhibited substantially greater robustness to data partitioning than the tree-based baselines. Feature importance analysis was performed using both impurity-based rankings and Shapley additive explanations. Polymer backbone flexibility, polarity, and ionic environment were found to dominate transport behavior. Directional attribution further identified primary and secondary amines and carboxylate groups as specific negative contributors to lithium-ion mobility. The results of this work demonstrate that chemically informed structural descriptors can effectively predict electrolyte performance while yielding mechanistic insight. This enables accelerated screening and design of high-efficiency polymer electrolytes for future energy storage applications.",
@@ -56203,57 +56255,6 @@
         "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
       },
       "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.64898/2026.10.19.26365916",
-      "title": "Detection and Characterization of Human Bocavirus in Stool Samples from an Acute Gastroenteritis Outbreak in Salvador, Bahia, Brazil, in 2024.",
-      "abstract": "Introduction: Acute gastroenteritis (AGE) is a global public health problem and a major cause of mortality in low- and lower-middle-income countries. Human bocavirus (HBoV) is among the viral agents associated with this condition. Therefore, investigating the presence of HBoV in cases of AGE in Salvador, Bahia, as well as its prevalence and circulating strains, is important. Objective: To investigate the occurrence of HBoV infection during an AGE outbreak in Salvador. Methods: A total of 178 samples were analyzed for HBoV using nested polymerase chain reaction (nested PCR), and the amplification products were visualized by agarose gel electrophoresis. HBoV was detected in 5.7% of the samples analyzed. Conclusion: This study contributes to the understanding of HBoV epidemiology as a secondary agent associated with acute gastroenteritis during a norovirus outbreak in Salvador. Continued investigation and identification of the etiological agents involved in outbreaks are essential for evaluating the causes of AGE. These findings also highlight the need for broader diagnostic approaches and the importance of phylogenetic analysis for monitoring and controlling viral infections.",
-      "date": "2026-10-21",
-      "url": "https://doi.org/10.64898/2026.10.19.26365916",
-      "authors": [
-        "Vidal B",
-        "Neves SO",
-        "Santos IP",
-        "Sardi SI",
-        "Campos Gs"
-      ],
-      "venue": "",
-      "provider": "Europe PMC",
-      "doi": "10.64898/2026.10.19.26365916",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Medicine",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Medicine"
-      ],
-      "category_confidence": 0.39,
-      "classification_evidence": [
-        "abstract:public health"
-      ],
-      "explanation": {
-        "question": "Objective: To investigate the occurrence of HBoV infection during an AGE outbreak in Salvador.",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
         "findings_not_explicit_in_abstract"
       ],
       "evidence_label": "Publication record / review unverified",
