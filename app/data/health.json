@@ -1,9 +1,9 @@
 {
   "version": "1.6.0",
-  "updated_at": "2026-10-27T05:18:10+00:00",
+  "updated_at": "2026-10-27T12:28:32+00:00",
   "items": 1600,
   "new_records": 548,
-  "new_unique_vs_previous": 187,
+  "new_unique_vs_previous": 0,
   "sources": {
     "OpenAlex": 86,
     "Crossref": 88,
@@ -43,8 +43,8 @@
     "last_7_days": 1600,
     "last_30_days": 1600,
     "last_90_days": 1600,
-    "duplicate_or_replaced_candidates": 261,
-    "excluded_by_category_or_total_caps": 287,
+    "duplicate_or_replaced_candidates": 445,
+    "excluded_by_category_or_total_caps": 103,
     "classification_uncertain": 920,
     "without_explicit_findings": 1054,
     "by_primary_topic": {
@@ -72,37 +72,37 @@
         {
           "status": 200,
           "bytes": 638860,
-          "elapsed_ms": 486
+          "elapsed_ms": 1134
         },
         {
           "status": 200,
           "bytes": 747358,
-          "elapsed_ms": 238
+          "elapsed_ms": 798
         },
         {
           "status": 200,
           "bytes": 728500,
-          "elapsed_ms": 312
+          "elapsed_ms": 780
         },
         {
           "status": 200,
           "bytes": 567601,
-          "elapsed_ms": 326
+          "elapsed_ms": 601
         },
         {
           "status": 200,
           "bytes": 578831,
-          "elapsed_ms": 278
+          "elapsed_ms": 678
         },
         {
           "status": 200,
           "bytes": 768716,
-          "elapsed_ms": 297
+          "elapsed_ms": 619
         },
         {
           "status": 200,
           "bytes": 624304,
-          "elapsed_ms": 338
+          "elapsed_ms": 881
         }
       ],
       "error": null
@@ -113,22 +113,22 @@
         {
           "status": 200,
           "bytes": 553470,
-          "elapsed_ms": 1701
+          "elapsed_ms": 2412
         },
         {
           "status": 200,
-          "bytes": 780326,
-          "elapsed_ms": 1456
+          "bytes": 792639,
+          "elapsed_ms": 2286
         },
         {
           "status": 200,
           "bytes": 670827,
-          "elapsed_ms": 1885
+          "elapsed_ms": 2494
         },
         {
           "status": 200,
-          "bytes": 197544,
-          "elapsed_ms": 1809
+          "bytes": 187599,
+          "elapsed_ms": 2430
         }
       ],
       "error": null
@@ -139,17 +139,17 @@
         {
           "status": 200,
           "bytes": 113853,
-          "elapsed_ms": 447
+          "elapsed_ms": 413
         },
         {
           "status": 200,
           "bytes": 113243,
-          "elapsed_ms": 165
+          "elapsed_ms": 271
         },
         {
           "status": 200,
           "bytes": 124563,
-          "elapsed_ms": 232
+          "elapsed_ms": 267
         }
       ],
       "error": null
@@ -159,23 +159,23 @@
       "requests": [
         {
           "status": 200,
-          "bytes": 392685,
-          "elapsed_ms": 1447
+          "bytes": 392820,
+          "elapsed_ms": 2220
         },
         {
           "status": 200,
           "bytes": 371762,
-          "elapsed_ms": 847
+          "elapsed_ms": 2517
         },
         {
           "status": 200,
           "bytes": 349442,
-          "elapsed_ms": 1116
+          "elapsed_ms": 2133
         },
         {
           "status": 200,
           "bytes": 341134,
-          "elapsed_ms": 1031
+          "elapsed_ms": 6674
         }
       ],
       "error": null
