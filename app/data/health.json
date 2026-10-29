@@ -1,17 +1,19 @@
 {
   "version": "1.6.0",
-  "updated_at": "2026-10-29T13:22:16+00:00",
+  "updated_at": "2026-10-29T22:52:26+00:00",
   "items": 1600,
-  "new_records": 522,
-  "new_unique_vs_previous": 279,
+  "new_records": 440,
+  "new_unique_vs_previous": 0,
   "sources": {
     "OpenAlex": 67,
-    "Crossref": 82,
+    "Crossref": 0,
     "arXiv": 134,
     "Europe PMC": 239
   },
-  "errors": {},
-  "fallback_retained": false,
+  "errors": {
+    "Crossref": "HTTP Error 429: Too Many Requests"
+  },
+  "fallback_retained": true,
   "by_category": {
     "Neuroscience": 111,
     "Engineering": 18,
@@ -43,8 +45,8 @@
     "last_7_days": 1600,
     "last_30_days": 1600,
     "last_90_days": 1600,
-    "duplicate_or_replaced_candidates": 151,
-    "excluded_by_category_or_total_caps": 371,
+    "duplicate_or_replaced_candidates": 417,
+    "excluded_by_category_or_total_caps": 23,
     "classification_uncertain": 965,
     "without_explicit_findings": 1050,
     "by_primary_topic": {
@@ -72,66 +74,59 @@
         {
           "status": 200,
           "bytes": 626488,
-          "elapsed_ms": 838
+          "elapsed_ms": 785
         },
         {
           "status": 200,
           "bytes": 769927,
-          "elapsed_ms": 563
+          "elapsed_ms": 765
         },
         {
           "status": 200,
-          "bytes": 751197,
-          "elapsed_ms": 789
+          "bytes": 751196,
+          "elapsed_ms": 844
         },
         {
           "status": 200,
-          "bytes": 609862,
-          "elapsed_ms": 643
+          "bytes": 609861,
+          "elapsed_ms": 647
         },
         {
           "status": 200,
           "bytes": 601528,
-          "elapsed_ms": 667
+          "elapsed_ms": 535
         },
         {
           "status": 200,
           "bytes": 833964,
-          "elapsed_ms": 588
+          "elapsed_ms": 566
         },
         {
           "status": 200,
           "bytes": 621768,
-          "elapsed_ms": 626
+          "elapsed_ms": 522
         }
       ],
       "error": null
     },
     "Crossref": {
-      "accepted_before_dedup": 82,
+      "accepted_before_dedup": 0,
       "requests": [
         {
           "status": 200,
           "bytes": 592373,
-          "elapsed_ms": 575
+          "elapsed_ms": 853
         },
         {
           "status": 200,
-          "bytes": 848746,
-          "elapsed_ms": 510
+          "bytes": 801534,
+          "elapsed_ms": 594
         },
         {
-          "status": 200,
-          "bytes": 627439,
-          "elapsed_ms": 466
-        },
-        {
-          "status": 200,
-          "bytes": 207299,
-          "elapsed_ms": 563
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "error": null
+      "error": "HTTP Error 429: Too Many Requests"
     },
     "arXiv": {
       "accepted_before_dedup": 134,
@@ -139,17 +134,17 @@
         {
           "status": 200,
           "bytes": 135209,
-          "elapsed_ms": 538
+          "elapsed_ms": 603
         },
         {
           "status": 200,
           "bytes": 114149,
-          "elapsed_ms": 334
+          "elapsed_ms": 305
         },
         {
           "status": 200,
           "bytes": 118283,
-          "elapsed_ms": 328
+          "elapsed_ms": 306
         }
       ],
       "error": null
@@ -160,22 +155,22 @@
         {
           "status": 200,
           "bytes": 497669,
-          "elapsed_ms": 1333
+          "elapsed_ms": 1644
         },
         {
           "status": 200,
           "bytes": 393494,
-          "elapsed_ms": 5831
+          "elapsed_ms": 1078
         },
         {
           "status": 200,
-          "bytes": 578734,
-          "elapsed_ms": 1841
+          "bytes": 578839,
+          "elapsed_ms": 1411
         },
         {
           "status": 200,
-          "bytes": 504635,
-          "elapsed_ms": 3352
+          "bytes": 504740,
+          "elapsed_ms": 1119
         }
       ],
       "error": null
