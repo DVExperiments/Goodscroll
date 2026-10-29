@@ -1,6 +1,122 @@
 {
   "items": [
     {
+      "id": "https://openalex.org/w7112865687",
+      "title": "PENGARUH PROGRAM MOTOR COGNITIVE COORDINATION TERHADAP PENINGKATAN KONSENTRASI: studi eksperimen pada siswa SD berbasis gelombang otak)",
+      "abstract": "Penelitian ini bertujuan untuk mengkaji efektivitas penerapan Motor Cognitive Coordination (MCC) dalam meningkatkan konsentrasi siswa sekolah dasar, dengan menganalisis kontribusi gelombang otak beta. Latar belakangnya didasari oleh pentingnya integrasi fungsi motorik dan kognitif dalam pembelajaran. Metode yang digunakan adalah desain eksperimen pretest-posttest control group design dengan subjek siswa SD kelas 4-6, yang dibagi menjadi kelompok eksperimen (menerima program MCC) dan kelompok kontrol. Hasil analisis statistik menunjukkan adanya peningkatan signifikan pada tingkat konsentrasi siswa di kelompok eksperimen setelah perlakuan (p < 0,05), yang juga sejalan dengan kenaikan aktivitas gelombang otak beta pada kelompok yang sama. Uji korelasi menunjukkan hubungan positif yang kuat antara peningkatan gelombang otak beta dan peningkatan konsentrasi. Temuan ini menyimpulkan bahwa program MCC efektif dalam meningkatkan konsentrasi, yang terbukti dari kontribusi gelombang otak beta yang meningkat. Implikasi dari penelitian ini adalah MCC dapat menjadi pendekatan inovatif yang diintegrasikan ke dalam strategi pembelajaran untuk meningkatkan kemampuan kognitif, khususnya konsentrasi, pada siswa sekolah dasar. This study aims to assess the effectiveness of Motor Cognitive Coordination (MCC) implementation in improving the concentration of elementary school students, by analyzing the contribution of beta brain waves. The background is based on the importance of integrating motor and cognitive functions in learning. The method used is a pretest-posttest control group design with elementary school students in grades 4-6, who were divided into an experimental group (receiving the MCC program) and a control group. The results of the statistical analysis showed a significant increase in the level of concentration of students in the experimental group after treatment (p < 0.05), which is also in line with the increase in beta brain wave activity in the same group. The correlation test showed a strong positive relationship between the increase in beta brain waves and increased concentration. These findings conclude that the MCC program is effective in improving concentration, as evidenced by the increased contribution of beta brain waves. The implication of this study is that MCC can be an innovative approach integrated into learning strategies to improve cognitive abilities, especially concentration, in elementary school students.",
+      "date": "2026-10-29",
+      "url": "https://openalex.org/W7112865687",
+      "authors": [
+        "Bilal Nuzul Ramdan, -",
+        "Jajat Darajat Kusumah N, -",
+        "Agus Mahendra, -"
+      ],
+      "venue": "Repository at Universitas Pendidikan Indonesia (Universitas Pendidikan Indonesia)",
+      "provider": "OpenAlex",
+      "doi": "",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Neuroscience",
+      "source_topics": [
+        "Neuroscience",
+        "Neuroscience, Education and Cognitive Function",
+        "Developmental and Educational Neuropsychology",
+        "Children's Physical and Motor Development"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7112865687",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Neuroscience",
+        "Psychology"
+      ],
+      "category_confidence": 0.7,
+      "classification_evidence": [
+        "source:neuroscience",
+        "source:neuroscience, education and cognitive functio"
+      ],
+      "explanation": {
+        "question": "This study aims to assess the effectiveness of Motor Cognitive Coordination (MCC) implementation in improving the concentration of elementary school students, by analyzing the contribution of beta brain waves.",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "doi_missing",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": false,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "https://openalex.org/w7220047977",
+      "title": "Towards sustainable construction: A Roadmap for Aligning BES6001 with the UN SDGs",
+      "abstract": "The architecture, engineering and construction (AEC) sector has grown significantly over recent decades, sparking ongoing debate about its environmental impact. While advancing sustainability is essential, the sector’s role in meeting housing needs, upgrading infrastructure, and restoring biodiversity remains critical to delivering safe and resilient communities. Responsible sourcing and green supply chains are increasingly recognised as key mechanisms for delivering sustainable construction. BES6001 is a certification standard for responsible sourcing, offering a structured and transparent framework for AEC organisations producing materials. However, its potential contribution to the United Nations Sustainable Development Goals (SDGs) remains insufficiently explored. This study examines the alignment between BES6001 and the SDGs, through the development of a conceptual roadmap. The roadmap was subject to expert review and identified strongest contributions to SDG-8 and SDG-12, although findings are based on preliminary validation (n=7). By analysing BES6001’s scoring criteria and principles, the roadmap illustrates how UK organisations may support the operationalisation of SDG commitments through BES6001 certification. Recommendations include revising BES6001 to strengthen SDG alignment and holistic review of SDG targets for developed regions where current goals may lack relevance. This combined approach aims to improve uptake and drive meaningful sustainable procurement within the This version is the author accepted manuscript. It has been made open access under the Creative Commons (CC BY) licence under the terms of the UCL Intellectual Property (IP) Policy and UCL Publications Policy. AEC industry.",
+      "date": "2026-10-29",
+      "url": "https://openalex.org/W7220047977",
+      "authors": [
+        "Jacqui Glass",
+        "Abdul‐Majeed Mahamadu",
+        "Sophie Ball",
+        "Colin Booth",
+        "Abhinesh Prabhakaran",
+        "Rosemary E. Horry",
+        "Patrick Manu"
+      ],
+      "venue": "UCL Discovery (University College London)",
+      "provider": "OpenAlex",
+      "doi": "",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Engineering",
+      "source_topics": [
+        "Engineering",
+        "Sustainable Building Design and Assessment",
+        "Sustainable Supply Chain Management",
+        "Construction Management and Sustainability"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7220047977",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Engineering",
+        "Environment"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:engineering"
+      ],
+      "explanation": {
+        "question": "This combined approach aims to improve uptake and drive meaningful sustainable procurement within the This version is the author accepted manuscript.",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "doi_missing",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": false,
+      "has_citation_metadata": false
+    },
+    {
       "id": "10.1097/j.pain.0000000000004137",
       "title": "Fatigue links sociodemographic risk to pain intensity and spread in 2 surgical cohorts.",
       "abstract": "Abstract Why some surgical patients develop pain that extends beyond the original site of injury while others do not remains poorly understood. The recently proposed Risk of Pain Spread (ROPS) framework integrates multiple psychosocial risk factors associated with widespread pain, but its generalizability to surgical populations has not been established. Using 2 large presurgical cohorts of participants undergoing total knee arthroplasty or thoracic surgery, we evaluated the generalizability of the ROPS framework and examined relationships among psychosocial and sociodemographic factors, surgical-site pain, nonsurgical-site pain, and widespread pain using complementary latent-variable, regression, Bayesian network, and mediation analyses. Across cohorts and analytical approaches, fatigue emerged as the most consistent correlate of pain outcomes, independent of other measured risk factors. Fatigue also occupied a central position within the conditional dependency structure of psychosocial and pain variables and accounted for substantial shared variance linking sleep disturbance, depressive symptoms, neuroticism, adverse childhood experiences, and socioeconomic disadvantage with pain intensity. Nonsurgical-site pain consistently occupied a position linking pain intensity with widespread pain across complementary analyses. Together, these findings externally validate the ROPS framework in clinically relevant surgical populations and identify fatigue as a central correlate linking biopsychosocial vulnerability with pain burden.",
@@ -89978,106 +90094,6 @@
       "quality_flags": [
         "findings_not_explicit_in_abstract"
       ],
-      "evidence_label": "Preprint / not necessarily peer reviewed",
-      "has_abstract": true,
-      "has_doi": false,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.31522v1",
-      "title": "Beyond Causal Masks: Auditing and Localizing Hidden Future-Token Leakage in Adaptive Sequence Models",
-      "abstract": "Hidden future-token leakage can create false architectural gains: an autoregressive model may appear substantially better under teacher-forced evaluation while its free-running generation deteriorates. We investigate this failure in an adaptive residual-routing decoder whose sequence-level routing summary exposes prefix positions to future tokens despite a correct causal attention mask. An anomalous 24-layer checkpoint reduces validation loss from the baseline's 3.5958 to 1.4259, yet it fails a prefix-invariance audit and has substantially higher reference-model perplexity during generation. Layer-wise diagnostics and implementation inspection trace the violation to a full-sequence summary broadcast through the dynamic routing-query path. Two independently trained 12-layer causal repairs eliminate detectable leakage and return validation loss and reference perplexity to the control scale, removing the large apparent advantage. As diagnostic tools, we use the established prefix-invariance contract, maximum prefix-output discrepancy (LeakScore), complementary behavioral metrics, and layer-wise profiles. Supporting experiments cover six synthetic implementation pairs spanning five module families, clean pretrained controls, controlled fault injection, and cache consistency across numerical precisions. These results illustrate how hidden future-token access can produce misleading claims of architectural progress and why lower teacher-forced loss should be interpreted together with whole-model causal checks and free-running evaluation.",
-      "date": "2026-10-22",
-      "url": "http://arxiv.org/abs/2610.31522v1",
-      "authors": [
-        "Huiting Liu",
-        "Jinsong Wu"
-      ],
-      "venue": "arXiv",
-      "provider": "arXiv",
-      "doi": "",
-      "publication_type": "Preprint — peer review not established",
-      "category": "AI & Computing",
-      "source_topics": [
-        "cs.AI"
-      ],
-      "open_access": true,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "AI & Computing"
-      ],
-      "category_confidence": 0.98,
-      "classification_evidence": [
-        "title:token",
-        "abstract:token",
-        "source:cs.ai"
-      ],
-      "explanation": {
-        "question": "We investigate this failure in an adaptive residual-routing decoder whose sequence-level routing summary exposes prefix positions to future tokens despite a correct causal attention mask.",
-        "method": "Supporting experiments cover six synthetic implementation pairs spanning five module families, clean pretrained controls, controlled fault injection, and cache consistency across numerical precisions.",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Preprint / not necessarily peer reviewed",
-      "has_abstract": true,
-      "has_doi": false,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "http://arxiv.org/abs/2610.31521v1",
-      "title": "Jev-DLC: Decision-Level Continual Learning from Typed Feedback",
-      "abstract": "Individual preferences often become visible only after deployment, when a user accepts one decision or revokes it in favor of another. Jev-style typed interfaces make this feedback explicit by identifying the selected action and, under revocation, the decision it replaces. We study how these consequences persist across requests as Decision-Level Continual Learning from Typed Feedback (Jev-DLC). Jev-DLC treats each correction as both evidence about a recurring action identity and a directed relation between the preferred and rejected choices. It preserves these signals in complementary bounded channels above a frozen scorer and combines their scores to shape the next decision. The method retains no raw interaction history, adds no scorer call, and performs no runtime language-model backward pass. We also introduce TCPA-Bench, a chronological suite that credits a correction only through its effect on later decisions. On TCPA-Repeat, Jev-DLC reaches 44.83% user-macro accuracy overall, 2.43 points above Recent-4 history replay. After at least two earlier feedback events, it reaches 56.07%, a 7.54-point margin over the strongest reported comparison at this depth. These results show how explicit typed corrections can become compact causal state for continual personalization.",
-      "date": "2026-10-22",
-      "url": "http://arxiv.org/abs/2610.31521v1",
-      "authors": [
-        "Yangyang Feng",
-        "Jianle Gan",
-        "Zhuoyan Feng",
-        "Chengwei Qin"
-      ],
-      "venue": "arXiv",
-      "provider": "arXiv",
-      "doi": "",
-      "publication_type": "Preprint — peer review not established",
-      "category": "AI & Computing",
-      "source_topics": [
-        "cs.AI"
-      ],
-      "open_access": true,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "AI & Computing"
-      ],
-      "category_confidence": 0.7,
-      "classification_evidence": [
-        "source:cs.ai"
-      ],
-      "explanation": {
-        "question": "We study how these consequences persist across requests as Decision-Level Continual Learning from Typed Feedback (Jev-DLC).",
-        "method": "",
-        "findings": "These results show how explicit typed corrections can become compact causal state for continual personalization.",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [],
       "evidence_label": "Preprint / not necessarily peer reviewed",
       "has_abstract": true,
       "has_doi": false,
