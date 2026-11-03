@@ -1,153 +1,154 @@
 {
   "version": "1.6.0",
-  "updated_at": "2026-11-02T21:49:41+00:00",
+  "updated_at": "2026-11-03T07:00:31+00:00",
   "items": 1600,
-  "new_records": 555,
-  "new_unique_vs_previous": 43,
+  "new_records": 474,
+  "new_unique_vs_previous": 89,
   "sources": {
-    "OpenAlex": 98,
-    "Crossref": 82,
+    "OpenAlex": 99,
+    "Crossref": 0,
     "arXiv": 135,
     "Europe PMC": 240
   },
-  "errors": {},
-  "fallback_retained": false,
+  "errors": {
+    "Crossref": "HTTP Error 429: Too Many Requests"
+  },
+  "fallback_retained": true,
   "by_category": {
+    "Society": 65,
     "Unclassified": 240,
     "Medicine": 240,
-    "Society": 65,
-    "Engineering": 15,
-    "Psychology": 141,
-    "Business": 39,
-    "AI & Computing": 223,
-    "Environment": 229,
-    "Design": 18,
-    "Biology": 141,
-    "Neuroscience": 84,
-    "Physics": 154,
+    "Engineering": 14,
+    "AI & Computing": 240,
+    "Design": 23,
+    "Neuroscience": 87,
+    "Physics": 145,
+    "Psychology": 136,
+    "Business": 38,
+    "Environment": 223,
+    "Biology": 138,
     "Robotics": 11
   },
   "quality_flags": {
-    "category_uncertain": 961,
-    "findings_not_explicit_in_abstract": 1048,
-    "doi_missing": 43
+    "abstract_missing": 1,
+    "category_uncertain": 926,
+    "doi_missing": 44,
+    "findings_not_explicit_in_abstract": 1044
   },
   "quality": {
-    "with_abstract": 1600,
-    "without_abstract": 0,
-    "with_doi": 1350,
-    "with_open_access_indicator": 698,
-    "with_citation_metadata": 110,
-    "preprints": 207,
+    "with_abstract": 1599,
+    "without_abstract": 1,
+    "with_doi": 1290,
+    "with_open_access_indicator": 733,
+    "with_citation_metadata": 107,
+    "preprints": 266,
     "last_7_days": 1600,
     "last_30_days": 1600,
     "last_90_days": 1600,
-    "duplicate_or_replaced_candidates": 410,
-    "excluded_by_category_or_total_caps": 145,
-    "classification_uncertain": 961,
-    "without_explicit_findings": 1048,
+    "duplicate_or_replaced_candidates": 371,
+    "excluded_by_category_or_total_caps": 103,
+    "classification_uncertain": 926,
+    "without_explicit_findings": 1044,
     "by_primary_topic": {
+      "Society": 65,
       "Unclassified": 240,
       "Medicine": 240,
-      "Society": 65,
-      "Engineering": 15,
-      "Psychology": 141,
-      "Business": 39,
-      "AI & Computing": 223,
-      "Environment": 229,
-      "Design": 18,
-      "Biology": 141,
-      "Neuroscience": 84,
-      "Physics": 154,
+      "Engineering": 14,
+      "AI & Computing": 240,
+      "Design": 23,
+      "Neuroscience": 87,
+      "Physics": 145,
+      "Psychology": 136,
+      "Business": 38,
+      "Environment": 223,
+      "Biology": 138,
       "Robotics": 11
     },
     "note": "Metrics describe metadata quality, not independent verification of scientific findings or peer review."
   },
   "diagnostics": {
     "OpenAlex": {
-      "accepted_before_dedup": 98,
+      "accepted_before_dedup": 99,
       "requests": [
         {
           "status": 200,
           "bytes": 656908,
-          "elapsed_ms": 1088
+          "elapsed_ms": 377
         },
         {
           "status": 200,
           "bytes": 769767,
-          "elapsed_ms": 604
+          "elapsed_ms": 413
         },
         {
           "status": 200,
           "bytes": 730721,
-          "elapsed_ms": 715
+          "elapsed_ms": 427
         },
         {
           "status": 200,
           "bytes": 605037,
-          "elapsed_ms": 740
+          "elapsed_ms": 211
         },
         {
           "status": 200,
-          "bytes": 605536,
-          "elapsed_ms": 771
+          "bytes": 605535,
+          "elapsed_ms": 316
         },
         {
           "status": 200,
-          "bytes": 1035196,
-          "elapsed_ms": 885
+          "bytes": 1035195,
+          "elapsed_ms": 489
         },
         {
           "status": 200,
           "bytes": 608990,
-          "elapsed_ms": 578
+          "elapsed_ms": 405
         }
       ],
       "error": null
     },
     "Crossref": {
-      "accepted_before_dedup": 82,
+      "accepted_before_dedup": 0,
       "requests": [
         {
           "status": 200,
-          "bytes": 612163,
-          "elapsed_ms": 2924
+          "bytes": 603310,
+          "elapsed_ms": 1464
         },
         {
           "status": 200,
-          "bytes": 811491,
-          "elapsed_ms": 2753
+          "bytes": 811556,
+          "elapsed_ms": 859
         },
         {
           "status": 200,
-          "bytes": 585994,
-          "elapsed_ms": 4118
+          "bytes": 616435,
+          "elapsed_ms": 384
         },
         {
-          "status": 200,
-          "bytes": 205243,
-          "elapsed_ms": 2648
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "error": null
+      "error": "HTTP Error 429: Too Many Requests"
     },
     "arXiv": {
       "accepted_before_dedup": 135,
       "requests": [
         {
           "status": 200,
-          "bytes": 114887,
-          "elapsed_ms": 420
+          "bytes": 115857,
+          "elapsed_ms": 2757
         },
         {
           "status": 200,
-          "bytes": 111483,
-          "elapsed_ms": 325
+          "bytes": 110218,
+          "elapsed_ms": 229
         },
         {
           "status": 200,
-          "bytes": 119623,
-          "elapsed_ms": 358
+          "bytes": 120522,
+          "elapsed_ms": 403
         }
       ],
       "error": null
@@ -158,22 +159,22 @@
         {
           "status": 200,
           "bytes": 520016,
-          "elapsed_ms": 1620
+          "elapsed_ms": 1746
         },
         {
           "status": 200,
-          "bytes": 397474,
-          "elapsed_ms": 1540
+          "bytes": 397473,
+          "elapsed_ms": 984
         },
         {
           "status": 200,
           "bytes": 423458,
-          "elapsed_ms": 1394
+          "elapsed_ms": 977
         },
         {
           "status": 200,
           "bytes": 419593,
-          "elapsed_ms": 1428
+          "elapsed_ms": 967
         }
       ],
       "error": null
