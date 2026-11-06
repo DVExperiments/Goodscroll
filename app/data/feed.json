@@ -1,6 +1,118 @@
 {
   "items": [
     {
+      "id": "https://openalex.org/w7220239168",
+      "title": "Climate-Based Modeling of Invasive Species Impact on Urban Green Infrastructure Using CLIMEX and Remote Sensing Data",
+      "abstract": "The pace at which invasive alien species are established and spread is becoming a threat, especially to urban ecosystems, due, in part, to the variability of climates, urban growth, and fragmentation of habitats. These biological invasions are highly dangerous to urban green infrastructure (UGI), which sabotages biodiversity, ecological services, and ecological resilience in the long term. A unravelled modelling approach to employ the CLIMEX model of species distribution as well as the spatial analysis of ecosystems via remote sensing to observe invasion risk zones and map them in the fast urbanising landscapes was created in this work. The climatic suitability of chosen invasive species in the current and future climate conditions under parameters serving as temperature, precipitation, and humidity was simulated with the help of the CLIMEX model, and the land cover dynamics and vegetation indices (as well as the urban heat islands) were measured with the assistance of remote sensing data (Sentinel-2 and ModiS) measurements. It was possible to integrate these datasets using a GIS based multi-criteria methodology to create an Invasion Risk Index (IRI) to predict ecologically sensitive regions. The findings indicated that areas with an average rainfall, increasing temperatures, and discontinuous vegetation shows high ecological suitability of the invasive species, and this would be more so at the urban fringes, transport corridors, and industrial areas. These findings underscore the synergistic role of climatic and anthropogenic factors in shaping invasion dynamics and highlight the necessity for adaptive urban planning that incorporates ecological modeling outputs. The proposed framework offers a robust, scalable approach for predicting biological invasions, guiding urban biodiversity conservation strategies, and supporting policymakers in developing climate-resilient, biodiversity-secure urban ecosystems.",
+      "date": "2026-11-06",
+      "url": "https://openalex.org/W7220239168",
+      "authors": [
+        "A. Suresh kumar",
+        "C. Rajan"
+      ],
+      "venue": "Journal of Smart Infrastructure and Environmental Sustainability",
+      "provider": "OpenAlex",
+      "doi": "",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Environment",
+      "source_topics": [
+        "Environmental Science",
+        "Species Distribution and Climate Change",
+        "Ecology and Vegetation Dynamics Studies",
+        "Land Use and Ecosystem Services"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7220239168",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Environment",
+        "Biology"
+      ],
+      "category_confidence": 0.79,
+      "classification_evidence": [
+        "title:climate",
+        "abstract:biodiversity",
+        "source:environmental science"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "doi_missing",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": false,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.32698/01801",
+      "title": "Art therapy sebagai pendekatan kreatif dalam konseling untuk mengurangi kecemasan",
+      "abstract": "Kecemasan pada remaja merupakan masalah kesehatan mental yang kompleks, dipicu oleh faktor akademik, sosial, dan lingkungan, memerlukan intervensi efektif seperti art therapy. Penelitian ini bertujuan mengkaji efektivitas art therapy dalam mengurangi kecemasan remaja melalui Systematic Literature Review (SLR) dengan menganalisis studi terbitan lima tahun terakhir dari database seperti Google Scholar. Hasil menunjukkan bahwa art therapy (melalui lukis, musik, atau tari) signifikan menurunkan kecemasan, terutama pada remaja dengan Generalized Anxiety Disorder (GAD) dan tekanan akademik, serta kelompok rentan seperti pasien kanker dan lansia. Efektivitasnya bervariasi tergantung durasi intervensi, metode, dan dukungan lingkungan. Simpulan penelitian ini menegaskan bahwa art therapy merupakan pendekatan terapeutik yang menjanjikan untuk mengelola kecemasan remaja, meski diperlukan adaptasi metode sesuai kebutuhan individu.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.32698/01801",
+      "authors": [
+        "Gebriella Berlian",
+        "Ifdil Ifdil",
+        "Hasnah Zaini",
+        "Rima Pratiwi Fadli",
+        "M. Fahli Zatrahadi"
+      ],
+      "venue": "Journal of Counseling and Educational Technology",
+      "provider": "OpenAlex",
+      "doi": "10.32698/01801",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Design",
+      "source_topics": [
+        "Arts and Humanities",
+        "Art Therapy and Mental Health",
+        "Music Therapy and Health",
+        "Psychological Treatments and Assessments"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7215958315",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Design"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:arts and humanities"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
       "id": "10.1186/s40359-026-05930-3",
       "title": "What is compassion connected to, and does it differ by gender and age? A network analysis of compassion, self-compassion, mindfulness, empathy and mental health",
       "abstract": "Abstract Compassion is an emotional state experienced in response to witnessing the suffering of others, accompanied by an internal motivation to help. When directed toward the self, it is referred to as self-compassion. Previous research suggests that compassion and self-compassion are closely related to mindfulness and empathy, contributing to reductions in anxiety and depression and to the enhancement of positive affect. Accordingly, this study employed network analysis to explore the complex structure of interactions among these psychological variables. A total of 1,020 Korean adults completed measures of compassion, self-compassion, mindfulness, empathy, well-being, and negative affect (depression, anxiety, and stress). An EBICglasso network was estimated in R (version 4.5.1). Centrality indices were computed, and subgroup networks were constructed by gender and age to compare structural differences. The results showed that compassion was closely connected to empathy, whereas self-compassion was more strongly linked to mindfulness and well-being; the capacities to feel, tolerate, and alleviate suffering emerged as central nodes. In the gender-based networks, compassion and self-compassion among men tended to be organized primarily around cognitive factors, whereas women exhibited a pattern in which the behavioral motivation for compassion was activated relatively immediately, even in the absence of emotional responding. In the age-based networks, the influence of suffering tolerance was most pronounced in middle-aged adults, while the role of empathy diminished and the role of mindfulness expanded in older adults. By examining compassion at the level of its constituent elements and visualizing the interaction structure among related variables, this study provides an empirical foundation for extending theoretical understanding and for developing tailored intervention strategies.",
@@ -90927,111 +91039,6 @@
       },
       "quality_flags": [
         "category_uncertain"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1103/nmnp-7yxk",
-      "title": "Hyperonic equation of state for neutron stars: A systematic Bayesian comparison of density-dependent and nonlinear relativistic mean-field models",
-      "abstract": "A systematic Bayesian inference study of the equation of state (EOS) of dense matter with strangeness is presented, extending five relativistic mean-field (RMF) models with both constant and density-dependent couplings to include the full baryon octet. The hyperon-nucleon couplings in the scalar channel are varied within ranges informed by hypernuclear data, while vector isoscalar couplings are fixed by the SU(6) symmetry quark model. Observational constraints from NICER (PSR J0030, J0437, J0740) and GW170817, theoretical constraints from chiral effective field theory ($χ$EFT) and perturbative QCD (pQCD), and experimental constraints from nuclear saturation properties are imposed simultaneously. We find that the inclusion of hyperons systematically reduces the maximum neutron star mass by $0.05$-$0.10,M_\\odot$ across all models while increasing the radius at $1.4,M_\\odot$ by $0.5$-$0.8$ km. The speed of sound exhibits a characteristic softening at densities $2$-$3,ρ_{\\rm sat}$ coinciding with hyperon onset. All hyperonic models remain consistent with the $2,M_\\odot$ constraint. Models with a more flexible isovector channel span a larger proton fraction when only nucleons are included. However, the extra flexibility is visibly suppressed by hyperons, meaning that the average proton distribution is independent of model flexibility when hyperons are included. Less flexible models show comparable or slightly increased proton fractions due to EOS stiffening when hyperons are included. Only a residual number of hyperonic equations of state give rise to a mass-radius curve with a negative slope at low masses. A $1.8,M_\\odot$ neutron star with a radius larger than or similar to the radius of a $1.2,M_\\odot$ star would provide strong evidence that the star contains baryonic degrees of freedom beyond nucleons.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.1103/nmnp-7yxk",
-      "authors": [
-        "Pedro Sansón",
-        "Tuhin Malik",
-        "Constança Providência"
-      ],
-      "venue": "Physical review. D/Physical review. D.",
-      "provider": "OpenAlex",
-      "doi": "10.1103/nmnp-7yxk",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Physics",
-      "source_topics": [
-        "Physics and Astronomy",
-        "Pulsars and Gravitational Waves Research",
-        "Nuclear physics research studies",
-        "Quantum Chromodynamics and Particle Interactions"
-      ],
-      "open_access": true,
-      "references": [],
-      "openalex_id": "https://openalex.org/W7165644215",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Physics"
-      ],
-      "category_confidence": 0.5,
-      "classification_evidence": [
-        "source:physics and astronomy"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "We find that the inclusion of hyperons systematically reduces the maximum neutron star mass by $0.05$-$0.10,M_\\odot$ across all models while increasing the radius at $1.4,M_\\odot$ by $0.5$-$0.8$ km.",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.3390/universe12110328",
-      "title": "axionbloch: An Open-Source Python Package for Simulating Axion-Induced Spin Dynamics",
-      "abstract": "The interaction of ultralight bosonic dark matter with spins can be interpreted as a pseudomagnetic field acting on normal matter. Such interactions can be modeled as usual magnetic interactions using spin-evolution (Bloch) equations. axionbloch, an open-source Python package for simulating spin dynamics induced by both usual and exotic interactions, is presented. The numerical simulations serve as a tool for deriving axion signal signatures, which are crucial for designing experimental searches and data analysis. Simulations are calibrated against theoretical expectations, ensuring the accuracy of the simulated signals. axionbloch is available on GitHub, allowing researchers to simulate pseudomagnetic signals under specific configurations of axion models and experimental setups. The package is documented on Read the Docs and includes example scripts for application.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.3390/universe12110328",
-      "authors": [
-        "Yuzhe Zhang"
-      ],
-      "venue": "Universe",
-      "provider": "OpenAlex",
-      "doi": "10.3390/universe12110328",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Physics",
-      "source_topics": [
-        "Physics and Astronomy",
-        "Dark Matter and Cosmic Phenomena",
-        "Atomic and Subatomic Physics Research",
-        "Neutrino Physics Research"
-      ],
-      "open_access": true,
-      "references": [],
-      "openalex_id": "https://openalex.org/W7165737771",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Physics"
-      ],
-      "category_confidence": 0.5,
-      "classification_evidence": [
-        "source:physics and astronomy"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "Simulations are calibrated against theoretical expectations, ensuring the accuracy of the simulated signals. axionbloch is available on GitHub, allowing researchers to simulate pseudomagnetic signals under specific configurations of axion models and experimental setups.",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
       ],
       "evidence_label": "Publication record / review unverified",
       "has_abstract": true,
