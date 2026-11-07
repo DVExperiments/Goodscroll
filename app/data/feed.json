@@ -6579,6 +6579,1082 @@
       "has_citation_metadata": true
     },
     {
+      "id": "10.1007/s10763-026-10734-3",
+      "title": "From Whole Number Bias to Gap Thinking: University Students’ Strategy Choices in Fraction Comparison and Relations to Math and Cognitive Abilities",
+      "abstract": "Abstract Fractions pose a significant challenge for many students. Several flawed strategies have been identified in elementary and secondary students when selecting the larger of two fractions: the whole number strategy (choosing the larger numerals), the reverse strategy (choosing the smaller numerals), and the gap strategy (choosing the smaller difference between numerator and denominator). The prevalence of these strategies among university students is unknown. In the present study, we used specially designed stimuli and cluster analysis to identify fraction comparison strategy use among 90 university students. We assessed potential contributing factors to fraction understanding: general math achievement, inhibitory control, and visuospatial working memory. The results revealed three clusters: a Whole-Number-Strategy group (14%), who primarily used the whole number strategy; a Partial-Reverse-Strategy group (30%), who used the reverse strategy for challenging fractions; and a Gap-Tendency group (56%), who showed high accuracy when the gap strategy succeeds, and lower but above chance accuracy when the gap strategy fails. Regarding the contributing factors, the Gap-Tendency group performed better than the Whole-Number-Strategy group, but did not differ from the Partial-Reverse-Strategy group, on all measures. These findings extend prior research on strategies by showing that many university students have overcome whole number bias but have not yet achieved a complete understanding of fraction magnitude. Moreover, the lack of differences in math and cognitive factors between the better-performing groups shows that strong math and cognitive abilities are necessary but not sufficient for full fraction understanding among university students.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1007/s10763-026-10734-3",
+      "authors": [
+        "Ao Fan",
+        "Roberto A. Abreu‐Mendoza",
+        "Jo Van Hoof",
+        "Wim Van Dooren",
+        "Miriam Rosenberg‐Lee"
+      ],
+      "venue": "International Journal of Science and Mathematics Education",
+      "provider": "OpenAlex",
+      "doi": "10.1007/s10763-026-10734-3",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Psychology",
+      "source_topics": [
+        "Psychology",
+        "Cognitive and developmental aspects of mathematical skills",
+        "Mathematics Education and Pedagogy",
+        "Mathematics Education and Teaching Techniques"
+      ],
+      "open_access": true,
+      "references": [
+        "https://openalex.org/W1964694219",
+        "https://openalex.org/W1969420873",
+        "https://openalex.org/W1970545861",
+        "https://openalex.org/W1970706444",
+        "https://openalex.org/W1994342726",
+        "https://openalex.org/W2002749349",
+        "https://openalex.org/W2028575309",
+        "https://openalex.org/W2030070371",
+        "https://openalex.org/W2033495580",
+        "https://openalex.org/W2053805014",
+        "https://openalex.org/W2059142850",
+        "https://openalex.org/W2062261066",
+        "https://openalex.org/W2062298284",
+        "https://openalex.org/W2068569546",
+        "https://openalex.org/W2072624839",
+        "https://openalex.org/W2086176171",
+        "https://openalex.org/W2087406929",
+        "https://openalex.org/W2087484885",
+        "https://openalex.org/W2089543784",
+        "https://openalex.org/W2100278959",
+        "https://openalex.org/W2103644541",
+        "https://openalex.org/W2120357670",
+        "https://openalex.org/W2133819086",
+        "https://openalex.org/W2142887785",
+        "https://openalex.org/W2144712589",
+        "https://openalex.org/W2146066714",
+        "https://openalex.org/W2156346501",
+        "https://openalex.org/W2168165077",
+        "https://openalex.org/W2212452465",
+        "https://openalex.org/W2264041729",
+        "https://openalex.org/W2515571828",
+        "https://openalex.org/W2529925463",
+        "https://openalex.org/W2589767858",
+        "https://openalex.org/W2607343359",
+        "https://openalex.org/W2765314162",
+        "https://openalex.org/W2777040417",
+        "https://openalex.org/W2887662965",
+        "https://openalex.org/W2890807728",
+        "https://openalex.org/W2979143209",
+        "https://openalex.org/W2991043517",
+        "https://openalex.org/W3017557179",
+        "https://openalex.org/W3030181755",
+        "https://openalex.org/W3043168674",
+        "https://openalex.org/W3044741372",
+        "https://openalex.org/W3168896149",
+        "https://openalex.org/W4211081781",
+        "https://openalex.org/W4212887034",
+        "https://openalex.org/W4220996736",
+        "https://openalex.org/W4226247553",
+        "https://openalex.org/W4251629528",
+        "https://openalex.org/W4283811258",
+        "https://openalex.org/W4293406974",
+        "https://openalex.org/W4309153379",
+        "https://openalex.org/W4312003050",
+        "https://openalex.org/W4313400599",
+        "https://openalex.org/W4376131745",
+        "https://openalex.org/W4380370290",
+        "https://openalex.org/W4397291074"
+      ],
+      "openalex_id": "https://openalex.org/W4414908004",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Psychology"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:psychology"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.1128/msystems.00888-26",
+      "title": "Physiological, behavioral, and genetic factors that shape interactions in the plant growth-promoting maize rhizosphere synthetic community",
+      "abstract": "ABSTRACT Profiling microbiomes is an important way to understand the function and composition of communities in the wild, but natural microbiomes are often highly complex and often unamenable to experimentation to reveal cause-and-effect relationships. By using a small group of cultivable strains to represent those found in the wild, synthetic communities are one solution to this problem. Here we describe the ma ize r hizosphere s ynthetic c ommunity (MARSc), a genome-enabled 31-member bacterial community representative of the diversity found on the roots of maize grown in Iowa soils. This community is built around Pseudomonas putida KT2440, a model maize rhizosphere colonist and synthetic biology chassis. We characterized microbe-microbe interactions and biofilm formation of MARSc members in a variety of environmental contexts, finding that both behaviors are broadly controlled by nutrient levels. Genomic analysis and microbiome profiling of these organisms revealed that annotated biofilm genes (such as surface attachment and exopolysaccharide production) were significantly correlated with rhizosphere abundance, but neither trait correlated to in vitro biofilm formation. In vitro interaction assay findings were surprisingly consistent with co-correlations of rhizosphere abundance among MARSc members on roots. Finally, we found that when applied to the roots, MARSc can increase maize biomass (dry weight) by up to 40%–50% under varying nitrogen fertilization levels. Altogether, MARSc is a useful tool for identifying some of the factors influencing rhizosphere microbiome assembly and will be a strong foundation for further work in this area. IMPORTANCE The microbiome surrounding the roots of plants can play an integral role in plant health and growth, and it is composed of thousands of species of microbes that are specific to the plant and environment it is grown in. However, due to this complexity, little is known about the means by which microbiomes form. In this study, we developed the maize rhizosphere synthetic community (MARSc) to gain a better understanding of the formation and function of microbiomes on the roots of plants. This consortium consists of 30 bacterial isolates plus Pseudomonas putida KT2440, a model maize root colonist. In this study, we investigated the interactions between these organisms, their genomes, cultural characteristics, and growth on the roots of maize. We show that MARSc increases maize growth under low nitrogen fertilizer, suggesting it will be a useful tool for identifying the mechanisms behind microbiome formation and plant growth promotion.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1128/msystems.00888-26",
+      "authors": [
+        "Ashley A. Paulsen",
+        "Marissa Roghair Stroud",
+        "Larry J. Halverson"
+      ],
+      "venue": "mSystems",
+      "provider": "OpenAlex",
+      "doi": "10.1128/msystems.00888-26",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Society",
+      "source_topics": [
+        "Agricultural and Biological Sciences",
+        "Plant-Microbe Interactions and Immunity",
+        "Bacterial biofilms and quorum sensing",
+        "Microbial Community Ecology and Physiology"
+      ],
+      "open_access": true,
+      "references": [
+        "https://openalex.org/W1973456850",
+        "https://openalex.org/W3204304676",
+        "https://openalex.org/W4200291086",
+        "https://openalex.org/W4302028505",
+        "https://openalex.org/W7160122283"
+      ],
+      "openalex_id": "https://openalex.org/W7167924844",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Society"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "title:community",
+        "abstract:community"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "We show that MARSc increases maize growth under low nitrogen fertilizer, suggesting it will be a useful tool for identifying the mechanisms behind microbiome formation and plant growth promotion.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.1186/s13002-026-00973-7",
+      "title": "Farmers’ knowledge of date palm (Phoenix dactylifera L.) agrobiodiversity in a Saharan oasis: Folk nomenclature, fruit morphometrics and varietal turnover over four decades at Taghit, south-western Algeria",
+      "abstract": "Abstract Background Date palm ( Phoenix dactylifera L.) sustains oasis livelihoods through farming systems in which clonal propagation coexists with the retention of seed-derived palms. Documenting this diversity requires attention to how farmers name, distinguish and manage their palms. In south-western Algeria, long exposed to Bayoud disease, no inventory of the local varietal repertoire has been published for Taghit since 1985, to our knowledge. This study examined date palm diversity and farmers’ knowledge and practices in the Taghit oasis system, characterised fruit and seed variation among locally recognised varieties, and assessed changes in the repertoire over four decades. Methods Semi-structured interviews with 70 farmers across 39 palm groves in six localities documented varietal names, cultivation practices, knowledge transmission, uses and perceived constraints, including resistance to Bayoud. We analysed varietal frequency, salience and spatial distribution, and compared the repertoire with a 1985 inventory. Ten quantitative fruit and seed traits were measured on 600 fruits from 75 palms representing 30 varieties to assess variation within and among varieties. Results Farmers reported diverse uses of date palm products, regular grove management and continuing intergenerational knowledge transmission. They collectively listed 30 varieties, comprising a widely shared core and numerous less frequent ones, twelve of which were recorded in only one grove. Richness and composition differed among localities. Varietal lists excluded males and collective seedling categories, while ḫalṭ served both as a varietal name and as a collective designation for seed-derived palms. Fruit and seed traits clearly differentiated varieties, with variety accounting for 96.7% of the variance among palm means. After harmonisation, the 1985 and current inventories each comprised 30 varieties, but only fourteen were shared, and historically common varieties were more often recovered. Perceived Bayoud resistance may have contributed to changes in the repertoire, as illustrated by tākarbūš, introduced for its reputed resistance, still uncommon in 1985 but now established. Conclusions Our study highlights smallholders’ role in maintaining perennial crop diversity through clonal propagation, retention of seed-derived palms and local knowledge. Conservation should support the practices and knowledge transmission that sustain this diversity, household livelihoods and oasis landscapes.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1186/s13002-026-00973-7",
+      "authors": [
+        "Rami BOUMENDJEL",
+        "Nourdine Baik",
+        "Mohammed Salah BOUIZZAR",
+        "Rania Boukerzaza",
+        "Muriel Gros‐Balthazard"
+      ],
+      "venue": "Journal of Ethnobiology and Ethnomedicine",
+      "provider": "OpenAlex",
+      "doi": "10.1186/s13002-026-00973-7",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Medicine",
+      "source_topics": [
+        "Agricultural and Biological Sciences",
+        "Date Palm Research Studies",
+        "African Botany and Ecology Studies",
+        "Plant Names and Ethnobotany"
+      ],
+      "open_access": true,
+      "references": [
+        "https://openalex.org/W32437169",
+        "https://openalex.org/W104644354",
+        "https://openalex.org/W623976075",
+        "https://openalex.org/W1605829042",
+        "https://openalex.org/W1970348096",
+        "https://openalex.org/W2032847819",
+        "https://openalex.org/W2040590738",
+        "https://openalex.org/W2064002382",
+        "https://openalex.org/W2134108116",
+        "https://openalex.org/W2158898879",
+        "https://openalex.org/W2162199971",
+        "https://openalex.org/W2296322405",
+        "https://openalex.org/W2522919067",
+        "https://openalex.org/W2606026876",
+        "https://openalex.org/W2738743186",
+        "https://openalex.org/W2802445708",
+        "https://openalex.org/W2809178467",
+        "https://openalex.org/W2809877840",
+        "https://openalex.org/W2955028210",
+        "https://openalex.org/W3005324682",
+        "https://openalex.org/W3116396884",
+        "https://openalex.org/W3161998235",
+        "https://openalex.org/W3194280682",
+        "https://openalex.org/W3201222371",
+        "https://openalex.org/W4286741968",
+        "https://openalex.org/W4299562123",
+        "https://openalex.org/W4303634940",
+        "https://openalex.org/W4309634885",
+        "https://openalex.org/W4311472358",
+        "https://openalex.org/W4362467885",
+        "https://openalex.org/W4367297778",
+        "https://openalex.org/W4388969462",
+        "https://openalex.org/W4390471202",
+        "https://openalex.org/W4410414316",
+        "https://openalex.org/W4416788376"
+      ],
+      "openalex_id": "https://openalex.org/W7213299996",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine",
+        "Environment",
+        "Business"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:disease"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "Methods Semi-structured interviews with 70 farmers across 39 palm groves in six localities documented varietal names, cultivation practices, knowledge transmission, uses and perceived constraints, including resistance to Bayoud.",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.61436/bsscd/v5i4.pp553-575",
+      "title": "The Transformation of the Namblong Indigenous Movement Against Deforestation Practices in the Grime Nawa Valley, Papua",
+      "abstract": "This study analyzes the transformation of the Namblong Indigenous movement against deforestation driven by PT Permata Nusa Mandiri's oil palm expansion in the Grime Nawa Valley, Jayapura Regency, Papua. The study explores why and how the movement changed, maps its stages, and identifies key actors. The intrinsic case study draws on three evidentiary layers: in-depth interviews with six key actors on 9 June 2026; participant observation; and a coded documentary corpus of seventeen items carrying fourteen named speakers, nine of whom were not part of the leadership. The customary boundaries, the revoked concession, and patrol posts were verified in QGIS. When analyzed through the lens of New Social Movement theory, the findings reveal four non-linear phases: traditional protest (2011–2020); multi-scalar advocacy alliances (2021–2022); a partial, contested victory (2022–2025), in which central-government revocations were never matched by district-level cancellation; and institutionalization through Indonesia's first Indigenous-owned corporation (2024), owned by 44 clans across roughly 52,765 hectares. This study argues that the incompleteness of the legal victory, rather than its success, drove the shift from rejection to development. The study also documents the accompanying internal friction. The present study extends New Social Movement theory by proposing the Indigenous corporation as a new repertoire of resistance in the Global South. This is offered as an analytical, precondition-dependent generalization.Keywords: Agrarian conflict, Deforestation, Indigenous corporation, Indigenous movement, New Social Movement",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.61436/bsscd/v5i4.pp553-575",
+      "authors": [
+        "Melpayanty Sinaga",
+        "Yakobus Richard Murafer"
+      ],
+      "venue": "Bulletin of Social Studies and Community Development",
+      "provider": "OpenAlex",
+      "doi": "10.61436/bsscd/v5i4.pp553-575",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Society",
+      "source_topics": [
+        "Social Sciences",
+        "Agriculture, Land Use, Rural Development",
+        "Indigenous Cultures and History",
+        "Environmental Movements and Political Ecology"
+      ],
+      "open_access": true,
+      "references": [
+        "https://openalex.org/W3033432264",
+        "https://openalex.org/W3116180050",
+        "https://openalex.org/W3129731695",
+        "https://openalex.org/W3193760861",
+        "https://openalex.org/W3196498942",
+        "https://openalex.org/W3209145483",
+        "https://openalex.org/W3217216138",
+        "https://openalex.org/W4206156713",
+        "https://openalex.org/W4210864219",
+        "https://openalex.org/W4220815128",
+        "https://openalex.org/W4220912618",
+        "https://openalex.org/W4226188557",
+        "https://openalex.org/W4282009020",
+        "https://openalex.org/W4286946323",
+        "https://openalex.org/W4289812271",
+        "https://openalex.org/W4292261990",
+        "https://openalex.org/W4294567952",
+        "https://openalex.org/W4295714219",
+        "https://openalex.org/W4308421357",
+        "https://openalex.org/W4361256444",
+        "https://openalex.org/W4379472086",
+        "https://openalex.org/W4382314956",
+        "https://openalex.org/W4386468431",
+        "https://openalex.org/W4390879672",
+        "https://openalex.org/W4402664768",
+        "https://openalex.org/W4402935964",
+        "https://openalex.org/W4405083312",
+        "https://openalex.org/W4411984999",
+        "https://openalex.org/W4417168287",
+        "https://openalex.org/W7154348476",
+        "https://openalex.org/W7161580562",
+        "https://openalex.org/W7163338019"
+      ],
+      "openalex_id": "https://openalex.org/W7225301726",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Society",
+        "Business"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:social sciences"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "The intrinsic case study draws on three evidentiary layers: in-depth interviews with six key actors on 9 June 2026; participant observation; and a coded documentary corpus of seventeen items carrying fourteen named speakers, nine of whom were not part of the leadership.",
+        "findings": "When analyzed through the lens of New Social Movement theory, the findings reveal four non-linear phases: traditional protest (2011–2020); multi-scalar advocacy alliances (2021–2022); a partial, contested victory (2022–2025), in which central-government revocations were never matched by district-level cancellation; and institutionalization through Indonesia's first Indigenous-owned corporation (2024), owned by 44 clans across roughly 52,765 hectares.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.1038/s44185-026-00166-1",
+      "title": "Genomic selection to enhance disease resilience in an endangered species",
+      "abstract": "Abstract Chytridiomycosis caused by the amphibian chytrid fungus ( Batrachochytrium dendrobatidis , Bd) is one of the most devastating wildlife diseases of our time 1,2 . With no effective methods to control its spread, captive breeding programs have become essential to prevent frog extinctions 3 , but serve only as a temporary safeguard until threats can be mitigated 4 . Although some species have shown partial recovery through evolving resistance 5 , this is unlikely to occur for small remnant populations and those confined to captivity. Here, we showcase the utility of genomic selection to enhance disease resilience in the southern corroboree frog ( Pseudophryne corroboree ), a species highly susceptible to Bd and now functionally extinct in the wild 6 . By analysing disease phenotypes and genomic datasets, we found that P. corroboree survival traits following Bd exposure are polygenic with low-moderate heritability. Response to selection models predict that genomic selection could increase mean survival time by approximately 9% in the next generation. Importantly, selective breeding incorporating genomic information can help maintain genetic diversity and more effectively reduce inbreeding. These findings demonstrate a viable pathway to shift captive assurance colonies from passive repositories to proactive conservation tools, offering a sustainable strategy to improve disease resilience and support long-term recovery of wildlife threatened by emerging pathogens.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1038/s44185-026-00166-1",
+      "authors": [
+        "Mikaeylah J. Davidson",
+        "Tiffany A. Kosch",
+        "Lee Berger",
+        "Michael McFadden",
+        "Deon J. Gilbert",
+        "Damian Goodall",
+        "David A. Hunter",
+        "Kyall Richard Zenger"
+      ],
+      "venue": "npj Biodiversity",
+      "provider": "OpenAlex",
+      "doi": "10.1038/s44185-026-00166-1",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Biology",
+      "source_topics": [
+        "Biochemistry, Genetics and Molecular Biology",
+        "Genetic and phenotypic traits in livestock",
+        "Amphibian and Reptile Biology",
+        "Genetic diversity and population structure"
+      ],
+      "open_access": true,
+      "references": [
+        "https://openalex.org/W2029384003",
+        "https://openalex.org/W2033151532",
+        "https://openalex.org/W2054582287",
+        "https://openalex.org/W2086799994",
+        "https://openalex.org/W2109935029",
+        "https://openalex.org/W2145647386",
+        "https://openalex.org/W2514616723",
+        "https://openalex.org/W2924886534",
+        "https://openalex.org/W2949231000",
+        "https://openalex.org/W3016213084",
+        "https://openalex.org/W3093457643",
+        "https://openalex.org/W4206335732",
+        "https://openalex.org/W4210913867",
+        "https://openalex.org/W4381430388",
+        "https://openalex.org/W4391845824",
+        "https://openalex.org/W4396608582",
+        "https://openalex.org/W4401517480",
+        "https://openalex.org/W4414751312",
+        "https://openalex.org/W7083009527",
+        "https://openalex.org/W7135080847"
+      ],
+      "openalex_id": "https://openalex.org/W7225329015",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Biology",
+        "Medicine"
+      ],
+      "category_confidence": 0.98,
+      "classification_evidence": [
+        "title:genomic",
+        "abstract:species",
+        "source:biochemistry, genetics and molecular biology",
+        "source:amphibian and reptile biology"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "By analysing disease phenotypes and genomic datasets, we found that P. corroboree survival traits following Bd exposure are polygenic with low-moderate heritability.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.1093/mnras/stag2096",
+      "title": "Extreme Hard X-ray Variability in the TeV Blazar Mrk 421: Insights from NuSTAR Observations",
+      "abstract": "Abstract In this work, we investigate the hard X-ray variability of the TeV blazar Mrk 421 over both long-term and intra-day timescales to gain insights into the particle acceleration and cooling mechanisms driving its emission. Using 27 NuSTAR observations spanning 2012 to 2024, we conduct detailed spectral and timing analyses. Our findings reveal pronounced flux variability, with changes by up to a factor of 200 over the decade and a 10-fold increase within a period of 15 days during a flaring episode. The flux distribution exhibits a lognormal profile, and a linear root-mean-square (RMS)–flux relation suggests a multiplicative variability process. Spectral analysis indicates that a log-parabolic model best describes most observations, with a strong linear anti-correlation between the photon index and curvature parameter. We also identify a positive correlation between the synchrotron peak energy and flux, accompanied by a subtle “harder-when-brighter” trend. These results align with standard blazar emission models, supporting particle acceleration via shock fronts or magnetic reconnection in the relativistic jet.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1093/mnras/stag2096",
+      "authors": [
+        "Gopal Bhatta",
+        "Eshaan Bhatta"
+      ],
+      "venue": "Monthly Notices of the Royal Astronomical Society",
+      "provider": "OpenAlex",
+      "doi": "10.1093/mnras/stag2096",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Astrophysics and Cosmic Phenomena",
+        "Astrophysical Phenomena and Observations",
+        "Gamma-ray bursts and supernovae"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W4410279448",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "Abstract In this work, we investigate the hard X-ray variability of the TeV blazar Mrk 421 over both long-term and intra-day timescales to gain insights into the particle acceleration and cooling mechanisms driving its emission.",
+        "method": "",
+        "findings": "Our findings reveal pronounced flux variability, with changes by up to a factor of 200 over the decade and a 10-fold increase within a period of 15 days during a flaring episode.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.33232/001c.173639",
+      "title": "Clustering redshift distribution calibration of weak lensing surveys using the DESI-DR1 spectroscopic dataset",
+      "abstract": "We estimate the source redshift distribution of current weak lensing surveys by applying the clustering-based redshift calibration technique, using the galaxy redshift sample provided by the Dark Energy Spectroscopic Instrument Data Release 1 (DESI-DR1). We cross-correlate the Bright Galaxy Survey (BGS), Luminous Red Galaxies (LRGs) and Emission Line Galaxies (ELGs) from DESI, within the redshift range 0.1 < z < 1.6 , with overlapping tomographic source samples from the Dark Energy Survey (DES), Kilo-Degree Survey (KiDS), and Hyper Suprime-Cam (HSC) survey. Using realistic mock catalogues, we test the stability of the clustering redshift signal to fitting scale, reference-sample choice, and the evolution of source galaxy bias. We calibrate a source galaxy bias correction from simulations with conservative (factor-of-two inflated) priors to account for modelling uncertainties, and we explicitly model and marginalise over magnification contributions, which become non-negligible at z ≳ 1 due to the depth of the DESI ELG sample. We then compare the resulting bias-weighted redshift distributions to previously calibrated redshift distributions from the literature, based on self-organising map (SOM) techniques, finding agreement within uncertainties for all surveys and tomographic bins. Our results demonstrate that clustering redshifts enabled by DESI’s unprecedented spectroscopic sample provide a robust, complementary, and independent constraint capable of reducing one of the dominant systematic uncertainties in weak lensing cosmology.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.33232/001c.173639",
+      "authors": [
+        "Rossana Ruggeri",
+        "J. Aguilar",
+        "C. Blake",
+        "Steven P. Ahlen",
+        "D. Bianchi",
+        "D. Brooks",
+        "Francisco Javier Castander",
+        "T. Claybaugh"
+      ],
+      "venue": "The Open Journal of Astrophysics",
+      "provider": "OpenAlex",
+      "doi": "10.33232/001c.173639",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Galaxies: Formation, Evolution, Phenomena",
+        "Cosmology and Gravitation Theories",
+        "Dark Matter and Cosmic Phenomena"
+      ],
+      "open_access": true,
+      "references": [
+        "https://openalex.org/W1793882623",
+        "https://openalex.org/W2547571468",
+        "https://openalex.org/W2547895327",
+        "https://openalex.org/W4297781979",
+        "https://openalex.org/W4413977557",
+        "https://openalex.org/W4414419132",
+        "https://openalex.org/W4414979987",
+        "https://openalex.org/W4415008689",
+        "https://openalex.org/W4415430910",
+        "https://openalex.org/W7125976770",
+        "https://openalex.org/W7129065227",
+        "https://openalex.org/W7154057906"
+      ],
+      "openalex_id": "https://openalex.org/W4417529493",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "abstract:cosmology",
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "We calibrate a source galaxy bias correction from simulations with conservative (factor-of-two inflated) priors to account for modelling uncertainties, and we explicitly model and marginalise over magnification contributions, which become non-negligible at z ≳ 1 due to the depth of the DESI ELG sample.",
+        "findings": "Our results demonstrate that clustering redshifts enabled by DESI’s unprecedented spectroscopic sample provide a robust, complementary, and independent constraint capable of reducing one of the dominant systematic uncertainties in weak lensing cosmology.",
+        "limitations": "We calibrate a source galaxy bias correction from simulations with conservative (factor-of-two inflated) priors to account for modelling uncertainties, and we explicitly model and marginalise over magnification contributions, which become non-negligible at z ≳ 1 due to the depth of the DESI ELG sample.",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.1103/r6ys-4mhk",
+      "title": "Relativistic effects in extreme-mass-ratio inspirals within scalar clouds: Eccentric and inclined orbits",
+      "abstract": "We study extreme-mass-ratio inspirals (EMRIs) evolving in a scalar cloud environment that may form through superradiant instabilities, using a fully relativistic perturbative framework that allows for eccentric and inclined orbits. EMRIs, consisting of a stellar-mass compact object inspiraling into a supermassive black hole, are key sources for space-based gravitational-wave detectors such as LISA. Previous relativistic studies of EMRIs in scalar clouds have been restricted to circular, equatorial motion. Here, instead, we focus on a Schwarzschild black hole background to incorporate eccentricity and orbital inclination. By computing the scalar energy and angular momentum scattered off to spatial infinity and absorbed at the event horizon, we show that orbital eccentricity can induce a dense spectrum of resonances near the last stable orbit, associated with strong relativistic apsidal precession. We further find that orbital inclination can significantly modify the orbital energy and angular momentum losses. In particular, we identify a critical inclination angle below which, at sufficiently small orbital radii, there is a net transfer of energy from the scalar cloud to the orbit. Moreover, for sufficiently large eccentricities, resonances associated with relativistic apsidal precession persist across the full range of inclinations, although their structure changes significantly between prograde and retrograde orbits. These results provide a foundation for future studies of EMRIs in scalar cloud environments on fully generic orbits around spinning black holes.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1103/r6ys-4mhk",
+      "authors": [
+        "Qi-Xuan Xu",
+        "Richard Brito",
+        "Riccardo Della Monica",
+        "Rodrigo Vicente",
+        "Chen Yuan"
+      ],
+      "venue": "Physical review. D/Physical review. D.",
+      "provider": "OpenAlex",
+      "doi": "10.1103/r6ys-4mhk",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Pulsars and Gravitational Waves Research",
+        "Black Holes and Theoretical Physics",
+        "Astrophysical Phenomena and Observations"
+      ],
+      "open_access": true,
+      "references": [
+        "https://openalex.org/W1955149223",
+        "https://openalex.org/W1967192403",
+        "https://openalex.org/W2005061724",
+        "https://openalex.org/W2010218176",
+        "https://openalex.org/W2025156223",
+        "https://openalex.org/W2047585401",
+        "https://openalex.org/W2128718137",
+        "https://openalex.org/W2159827406",
+        "https://openalex.org/W2160734274",
+        "https://openalex.org/W2192039719",
+        "https://openalex.org/W2282184371",
+        "https://openalex.org/W2606992163",
+        "https://openalex.org/W2724335234",
+        "https://openalex.org/W2796939409",
+        "https://openalex.org/W2798339244",
+        "https://openalex.org/W2946712054",
+        "https://openalex.org/W2970217841",
+        "https://openalex.org/W2973094771",
+        "https://openalex.org/W2995285827",
+        "https://openalex.org/W3006999236",
+        "https://openalex.org/W3019217772",
+        "https://openalex.org/W3037896898",
+        "https://openalex.org/W3087955281",
+        "https://openalex.org/W3127460196",
+        "https://openalex.org/W3128266197",
+        "https://openalex.org/W3135022267",
+        "https://openalex.org/W3159200441",
+        "https://openalex.org/W3200659361",
+        "https://openalex.org/W3214526390",
+        "https://openalex.org/W4211070313",
+        "https://openalex.org/W4225985597",
+        "https://openalex.org/W4281675180",
+        "https://openalex.org/W4310813514",
+        "https://openalex.org/W4365137761",
+        "https://openalex.org/W4385431789",
+        "https://openalex.org/W4385547397",
+        "https://openalex.org/W4387540441",
+        "https://openalex.org/W4388327516",
+        "https://openalex.org/W4391403242",
+        "https://openalex.org/W4402641024",
+        "https://openalex.org/W4402794693",
+        "https://openalex.org/W4402798006",
+        "https://openalex.org/W4402818393",
+        "https://openalex.org/W4407156582",
+        "https://openalex.org/W4410821477",
+        "https://openalex.org/W4411794807",
+        "https://openalex.org/W4414308419",
+        "https://openalex.org/W4414818252",
+        "https://openalex.org/W4415620879",
+        "https://openalex.org/W4416295099",
+        "https://openalex.org/W4416711590",
+        "https://openalex.org/W4417213536",
+        "https://openalex.org/W4417268244",
+        "https://openalex.org/W6884880931",
+        "https://openalex.org/W7125922647",
+        "https://openalex.org/W7131080546",
+        "https://openalex.org/W7133206528",
+        "https://openalex.org/W7154505928",
+        "https://openalex.org/W7160272118",
+        "https://openalex.org/W7161043942",
+        "https://openalex.org/W7163373112",
+        "https://openalex.org/W7168286072",
+        "https://openalex.org/W7172411326",
+        "https://openalex.org/W7223195645"
+      ],
+      "openalex_id": "https://openalex.org/W7165643042",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "We study extreme-mass-ratio inspirals (EMRIs) evolving in a scalar cloud environment that may form through superradiant instabilities, using a fully relativistic perturbative framework that allows for eccentric and inclined orbits.",
+        "method": "",
+        "findings": "By computing the scalar energy and angular momentum scattered off to spatial infinity and absorbed at the event horizon, we show that orbital eccentricity can induce a dense spectrum of resonances near the last stable orbit, associated with strong relativistic apsidal precession.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.1063/5.0345761",
+      "title": "Enhanced electron-beam lithography to reduce the frequency scatter of 200–400 GHz superconducting microstrip resonators for on-chip filterbank spectrometers",
+      "abstract": "Integrated superconducting spectrometers provide the instantaneous bandwidth, sensitivity, and scalable architecture required for large-scale spectroscopic surveys in submillimeter-wave astronomy and cosmology. However, the accuracy with which the resonant frequencies of superconducting microstrip bandpass filters can be spaced has limited the spectral resolution of these spectrometers with continuous spectral coverage to F/ΔF < 500. The origin of this frequency scatter has been largely unknown. In this work, we demonstrate a fourfold improvement in the frequency spacing of superconducting microstrip resonators by optimizing electron-beam lithography. We find that reducing the electron-beam step size also reduces the random frequency scatter and that avoiding main-field stitching across filter patterns can eliminate a systematic frequency shift between groups of resonators, indicating the different origins of these two modes of frequency deviation. These findings demonstrate that nanometer-scale control of lithographic processes is imperative for the realization of next-generation integrated superconducting spectrometers with higher spectral resolution.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1063/5.0345761",
+      "authors": [
+        "Leon G. G. Olde Scholtenhuis",
+        "David Johannes Thoen",
+        "J. Baselmans",
+        "K. Karatsu",
+        "L. H. Martin",
+        "S. Vollebregt",
+        "Akira Endo"
+      ],
+      "venue": "APL Engineering Physics",
+      "provider": "OpenAlex",
+      "doi": "10.1063/5.0345761",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Engineering",
+      "source_topics": [
+        "Engineering",
+        "Superconducting and THz Device Technology",
+        "Quantum Information and Cryptography",
+        "Astronomy and Astrophysical Research"
+      ],
+      "open_access": true,
+      "references": [
+        "https://openalex.org/W2126760679",
+        "https://openalex.org/W2811228723",
+        "https://openalex.org/W2953424004",
+        "https://openalex.org/W3045596053",
+        "https://openalex.org/W7161733044",
+        "https://openalex.org/W7165577758"
+      ],
+      "openalex_id": "https://openalex.org/W7165659861",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Engineering",
+        "Physics"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:engineering"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "We find that reducing the electron-beam step size also reduces the random frequency scatter and that avoiding main-field stitching across filter patterns can eliminate a systematic frequency shift between groups of resonators, indicating the different origins of these two modes of frequency deviation.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.1103/2nwh-4rmv",
+      "title": "Can distance duality violation save late-time solutions to the Hubble tension?",
+      "abstract": "The discrepancy between early- and late-Universe determinations of the Hubble constant may point to physics beyond $Λ$CDM or to unaccounted-for systematics. Numerous late-time modifications to the expansion history have been proposed to alleviate this discrepancy, with limited success. Recent works have shown that, when the sound-horizon and supernova calibrations are held fixed, any purely late-time resolution requires a violation of the cosmic distance duality relation (CDDR). Recasting the tension in the $r_d$-$M_B$ plane, we show explicitly that distance duality, together with BAO and uncalibrated supernova data and a fixed sound-horizon calibration, determines $H_0$ independently of the late-time expansion history. We then test the viability of the required CDDR violation by separately constraining reciprocity violation and photon number non-conservation, deriving a new constraint on reciprocity-violating distortions of angular-diameter distances from BAO and cosmic-chronometer data. Combining this result with existing photon-number-conservation constraints, we find that the level of distance-duality violation needed to resolve the tension is strongly disfavoured by current data. We therefore conclude that, for fixed sound-horizon and supernova calibrations, no modification confined to the late-time expansion history -- even one violating distance duality -- can resolve the Hubble tension, pointing instead toward early-Universe physics or unresolved local systematics.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1103/2nwh-4rmv",
+      "authors": [
+        "Yashi Tiwari",
+        "Ujjwal Upadhyay",
+        "Shao-Jiang Wang",
+        "Vivian Poulin"
+      ],
+      "venue": "Physical review. D/Physical review. D.",
+      "provider": "OpenAlex",
+      "doi": "10.1103/2nwh-4rmv",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Cosmology and Gravitation Theories",
+        "Galaxies: Formation, Evolution, Phenomena",
+        "Noncommutative and Quantum Gravity Theories"
+      ],
+      "open_access": true,
+      "references": [
+        "https://openalex.org/W1990490553",
+        "https://openalex.org/W1998470880",
+        "https://openalex.org/W2017210148",
+        "https://openalex.org/W2027598084",
+        "https://openalex.org/W2044577734",
+        "https://openalex.org/W2057605559",
+        "https://openalex.org/W2066431655",
+        "https://openalex.org/W2100655992",
+        "https://openalex.org/W2128372541",
+        "https://openalex.org/W2170679831",
+        "https://openalex.org/W2254108691",
+        "https://openalex.org/W2339590713",
+        "https://openalex.org/W2899280388",
+        "https://openalex.org/W2963125685",
+        "https://openalex.org/W2969158246",
+        "https://openalex.org/W2982660550",
+        "https://openalex.org/W3092104120",
+        "https://openalex.org/W3126769885",
+        "https://openalex.org/W3135850969",
+        "https://openalex.org/W3138760190",
+        "https://openalex.org/W3184920340",
+        "https://openalex.org/W4221144705",
+        "https://openalex.org/W4221167036",
+        "https://openalex.org/W4286702585",
+        "https://openalex.org/W4306850861",
+        "https://openalex.org/W4320497631",
+        "https://openalex.org/W4386304230",
+        "https://openalex.org/W4389763759",
+        "https://openalex.org/W4394953574",
+        "https://openalex.org/W4399889235",
+        "https://openalex.org/W4403170595",
+        "https://openalex.org/W4406379553",
+        "https://openalex.org/W4406665044",
+        "https://openalex.org/W4407591945",
+        "https://openalex.org/W4409278002",
+        "https://openalex.org/W4409921567",
+        "https://openalex.org/W4410535665",
+        "https://openalex.org/W4410636511",
+        "https://openalex.org/W4411166687",
+        "https://openalex.org/W4411314956",
+        "https://openalex.org/W4412079560",
+        "https://openalex.org/W4414946651",
+        "https://openalex.org/W4417210261",
+        "https://openalex.org/W6910464191",
+        "https://openalex.org/W6947898361",
+        "https://openalex.org/W7103978261",
+        "https://openalex.org/W7139013883",
+        "https://openalex.org/W7150875394",
+        "https://openalex.org/W7155488538",
+        "https://openalex.org/W7166554169",
+        "https://openalex.org/W7170061828"
+      ],
+      "openalex_id": "https://openalex.org/W7167928252",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics",
+        "Environment"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "Recasting the tension in the $r_d$-$M_B$ plane, we show explicitly that distance duality, together with BAO and uncalibrated supernova data and a fixed sound-horizon calibration, determines $H_0$ independently of the late-time expansion history.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.1140/epjc/s10052-026-16568-1",
+      "title": "Magnetic pressure anisotropy in ultra-dense white dwarfs: Landau quantization and neutronization effects",
+      "abstract": "Abstract Strong magnetic fields modify the thermodynamics of white dwarf (WD) matter by quantizing the transverse motion of degenerate electrons into Landau levels and splitting the pressure into components parallel and perpendicular to the magnetic field. We investigate how this microscopic pressure anisotropy affects ultra-dense WD sequences when Coulomb lattice contributions, electron capture thresholds, neutron drip limits, and nuclear composition are treated consistently in the equation of state (EoS). The stellar equilibrium structure is obtained by solving an anisotropic extension of the Tolman–Oppenheimer–Volkoff (TOV) equations, where $$P_r = P_\\parallel $$ P r = P ‖ and $$P_t = P_\\perp $$ P t = P ⊥ denote the radial and tangential pressures, respectively. We compare the post-electron-capture branches with their corresponding pre-capture sequences for pure $$^{12}\\textrm{C}$$ 12 C , $$^{16}\\textrm{O}$$ 16 O , $$^{20}\\textrm{Ne}$$ 20 Ne , and $$^{24}\\textrm{Mg}$$ 24 Mg compositions, as well as for fixed 50/50 C/O, Ne/O, and Mg/Ne mixtures. The EoS predicts $$P_\\perp < P_\\parallel $$ P ⊥ < P ‖ in density ranges where only a few Landau levels are occupied. Consequently, pressure anisotropy shifts the stellar sequences toward smaller radii, with only minor changes in the maximum masses. We also find that post-capture configurations cannot be interpreted from the mass–radius plane alone, since the corresponding $$M(\\rho _c)$$ M ( ρ c ) curves reveal portions with $$dM/d\\rho _c<0$$ d M / d ρ c < 0 that are flagged by the turning-point diagnostic after the maximum mass is reached. Our results show that strong magnetic fields significantly reduce the radii of low-mass WDs, placing the calculated branches in the same broad mass–radius domain as a selected observational sample, without constituting a specific observational identification or statistical validation, and suggesting that future high-precision observations of massive magnetic WDs could help assess the role of magnetic pressure anisotropy in determining their masses and radii.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1140/epjc/s10052-026-16568-1",
+      "authors": [
+        "Edson Otoniel",
+        "Juan M. Z. Pretel",
+        "Victor B. T. Alves",
+        "César V. Flores",
+        "Clésio E. Mota"
+      ],
+      "venue": "The European Physical Journal C",
+      "provider": "OpenAlex",
+      "doi": "10.1140/epjc/s10052-026-16568-1",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Stellar, planetary, and galactic studies",
+        "Pulsars and Gravitational Waves Research",
+        "Astrophysical Phenomena and Observations"
+      ],
+      "open_access": true,
+      "references": [
+        "https://openalex.org/W2487038599",
+        "https://openalex.org/W2529149646",
+        "https://openalex.org/W7163032188"
+      ],
+      "openalex_id": "https://openalex.org/W7171663492",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "We investigate how this microscopic pressure anisotropy affects ultra-dense WD sequences when Coulomb lattice contributions, electron capture thresholds, neutron drip limits, and nuclear composition are treated consistently in the equation of state (EoS).",
+        "method": "",
+        "findings": "Our results show that strong magnetic fields significantly reduce the radii of low-mass WDs, placing the calculated branches in the same broad mass–radius domain as a selected observational sample, without constituting a specific observational identification or statistical validation, and suggesting that future high-precision observations of massive magnetic WDs could help assess the role of magnetic pressure anisotropy in determining their masses and radii.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
+      "id": "10.1051/0004-6361/202662258",
+      "title": "Pulsar J1909+0749 and supernova remnant G42.1-0.2. A case of a pulsar that has exited the shell of its associated supernova remnant",
+      "abstract": "The ATNF pulsar catalogue currently features over 4300 Milky Way pulsars, but only 63 of them are possibly associated with a supernova remnant (SNR) arising from the same progenitor supernova explosion. Even rarer is the scenario in which the pulsar has escaped the physical extent of its corresponding SNR. We aim to identify the serendipitously discovered shell-type object G42.1-0.2 as an SNR. The known pulsar (PSR) J1909+0749 lies well outside the shell of SNR G42.1-0.2, but it has a cometary tail pointing towards the centre of the SNR; because of this positional coincidence, we propose that the SNR and the pulsar originated from the same supernova explosion. By measuring the flux densities of the shell G42.1-0.2 from ∼200 MHz to ∼6 GHz, we established the non-thermal nature of its emission. With the characteristic age of the pulsar, its distance from the Sun estimated from the dispersion measure (DM), and the angular separation between the pulsar and the centre of the shell, we inferred the evolutionary state of the SNR and the transverse velocity of the pulsar. Using proper motion measurements, we compared the SNR--pulsar direction with the velocity of the pulsar. The radio spectral index of the shell is -0.36 ± 0.08, confirming that the emission is primarily non-thermal synchrotron. The proper-motion measurements are not well constrained, but the amplitude and the direction are consistent with the interpretation that the SNR and the pulsar are associated. If the characteristic age and the DM-based distance represent the true age and the true distance of the pulsar and the SNR, the standard evolution equations suggest that the SNR must still be in the Sedov--Taylor phase and evolving in a medium with a density of about 1.5 cm -3 $. In addition, as a result of the PSR--SNR association, the transverse velocity of the pulsar PSR,J1909+0749 is estimated to be $∼1460 ^ km,s -1 , ranking it among the highest transverse velocities observed for pulsars in the Milky Way.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1051/0004-6361/202662258",
+      "authors": [
+        "R. Dokara",
+        "M. Kramer",
+        "A. Brunthaler",
+        "M. J. Keith",
+        "B. W. Stappers"
+      ],
+      "venue": "Astronomy and Astrophysics",
+      "provider": "OpenAlex",
+      "doi": "10.1051/0004-6361/202662258",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Astrophysics and Cosmic Phenomena",
+        "Gamma-ray bursts and supernovae",
+        "Pulsars and Gravitational Waves Research"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7223090002",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "We aim to identify the serendipitously discovered shell-type object G42.1-0.2 as an SNR.",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1051/0004-6361/202661806",
+      "title": "Dynamical plausibility of triple-assisted interaction in Be-star multiple systems",
+      "abstract": "Classical Be stars are rapidly rotating B-type stars surrounded by gaseous circumstellar disks. The origin of the angular momentum required to sustain their near-critical rotation remains uncertain. Binary interaction is a promising spin-up channel, and in hierarchical multiple systems a tertiary companion may drive the secular evolution of an unresolved inner binary. We investigated whether observed Be-star multiple systems are dynamically compatible with a triple-assisted interaction scenario, in which a resolved tertiary companion excites the eccentricity of an unresolved inner binary through the Kozai--Lidov mechanism and brings it closer to an interaction regime. We combined speckle-interferometric detections, reported inner periods, and proper-motion anomalies (PMas) to construct synthetic populations of hierarchical triples. Accepted configurations were required to be dynamically stable, to evolve in the secular regime, to have a Kozai--Lidov timescale shorter than the adopted main-sequence lifetime scale, and to reach an inner-periastron interaction proxy. For the best-constrained systems, we performed refined target-specific simulations using the adopted stellar masses, distances, periods, PMa scales, and speckle separations. HD 35079 and HD 55606 provide the cleanest period-plus-speckle dynamical matches: their observed inner periods and speckle separations are simultaneously reproduced by stable, secularly active triples. HD 205329 remains dynamically plausible, but its interpretation is astrometrically cautionary because it depends on the PMa constraint. HD 41335 is a diagnostic case: the period-plus-speckle and PMa-plus-speckle constraints are viable separately, whereas the simultaneous period, PMa, and speckle constraints yield no accepted configurations under the adopted tolerances. Several PMa-plus-speckle systems, including HD 37330, HD 41600, HD 205329, and HD 71510, are observationally promising hierarchical-triple candidates, but their interpretation is more dependent on the astrometric PMa constraint. As an independent consistency check, we estimated the angular-momentum budget required to spin up the Be star and found a median fractional requirement of Δ M_ ̊m req /M under the adopted assumptions. Several observed Be-star multiple systems admit dynamically plausible Kozai--Lidov-active configurations in which a resolved tertiary companion can drive an unresolved inner binary towards interaction. These systems are therefore prime targets for continued speckle, spectroscopic, and astrometric monitoring, as well as for future binary-evolution modelling of triple-assisted Be-star spin-up.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1051/0004-6361/202661806",
+      "authors": [
+        "C. A. Guerrero",
+        "O. V. Maryeva",
+        "M. Kraus"
+      ],
+      "venue": "Astronomy and Astrophysics",
+      "provider": "OpenAlex",
+      "doi": "10.1051/0004-6361/202661806",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Stellar, planetary, and galactic studies",
+        "Astrophysics and Star Formation Studies",
+        "Astrophysical Phenomena and Observations"
+      ],
+      "open_access": true,
+      "references": [],
+      "openalex_id": "https://openalex.org/W7224130738",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "For the best-constrained systems, we performed refined target-specific simulations using the adopted stellar masses, distances, periods, PMa scales, and speckle separations.",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.1051/0004-6361/202662837",
+      "title": "A compact NH_2D source without an NH_3 counterpart in the S187 high-mass star-forming region",
+      "abstract": "Our goal is to investigate a so far only tentatively detected compact NH_2D source devoid of a notable NH_3 counterpart located rather close to the luminous IRAS 01202+6133 source (the projected distance is łesssim0.3 pc) in the S187 high-mass star-forming region. A high ammonia deuteration in such an environment is unusual. We performed observations of this area with the 20 m radio telescope of the Onsala Space Observatory (OSO) in several frequency ranges from ∼72 to ∼112 GHz. The area was mapped at the lower frequencies. At the higher frequencies, only the position of the NH_2D emission peak was observed. The data were analyzed using non-LTE modeling. The data confirm a compact NH_2D source with a size of łesssim0.2 pc. In addition, emission from about 20 molecules was detected, but only the DCO+$(1--0) peak coincides with the NH_2D clump. The clump is not associated with any known astronomical source or an NH$_3 emission peak, but the dust continuum map shows a local peak at approximately the same position. The gas kinetic temperature derived from various indicators is ∼20--30 K, which is possibly the temperature of the surrounding material. The intrinsic NH_2D line width (∼0.4̨ms) implies a clump with subsonic or transonic turbulence. The ortho/para NH_2D line intensity ratio is consistent with an abundance ratio of 3, which is in line with what is expected based on the spin statistics. The NH_2D/NH_3 abundance ratio may be ∼1. In general, the data hint at a compact cold gravitationally stable dense core within the warm environment, which may comprise pristine material. However, a verification with observations at a higher angular resolution is needed for confirmation.",
+      "date": "2026-11-06",
+      "url": "https://doi.org/10.1051/0004-6361/202662837",
+      "authors": [
+        "Е. А. Трофимова",
+        "И. И. Зинченко",
+        "C. Henkel",
+        "A. G. Pazukhin",
+        "A. F. Punanova",
+        "P. M. Zemlyanukha"
+      ],
+      "venue": "Astronomy and Astrophysics",
+      "provider": "OpenAlex",
+      "doi": "10.1051/0004-6361/202662837",
+      "publication_type": "Journal article / research work — verify review status",
+      "category": "Physics",
+      "source_topics": [
+        "Physics and Astronomy",
+        "Astrophysics and Star Formation Studies",
+        "Galaxies: Formation, Evolution, Phenomena",
+        "Molecular Spectroscopy and Structure"
+      ],
+      "open_access": true,
+      "references": [
+        "https://openalex.org/W7160822633"
+      ],
+      "openalex_id": "https://openalex.org/W7224749143",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Physics"
+      ],
+      "category_confidence": 0.5,
+      "classification_evidence": [
+        "source:physics and astronomy"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": true
+    },
+    {
       "id": "10.1186/s40359-026-05930-3",
       "title": "What is compassion connected to, and does it differ by gender and age? A network analysis of compassion, self-compassion, mindfulness, empathy and mental health",
       "abstract": "Abstract Compassion is an emotional state experienced in response to witnessing the suffering of others, accompanied by an internal motivation to help. When directed toward the self, it is referred to as self-compassion. Previous research suggests that compassion and self-compassion are closely related to mindfulness and empathy, contributing to reductions in anxiety and depression and to the enhancement of positive affect. Accordingly, this study employed network analysis to explore the complex structure of interactions among these psychological variables. A total of 1,020 Korean adults completed measures of compassion, self-compassion, mindfulness, empathy, well-being, and negative affect (depression, anxiety, and stress). An EBICglasso network was estimated in R (version 4.5.1). Centrality indices were computed, and subgroup networks were constructed by gender and age to compare structural differences. The results showed that compassion was closely connected to empathy, whereas self-compassion was more strongly linked to mindfulness and well-being; the capacities to feel, tolerate, and alleviate suffering emerged as central nodes. In the gender-based networks, compassion and self-compassion among men tended to be organized primarily around cognitive factors, whereas women exhibited a pattern in which the behavioral motivation for compassion was activated relatively immediately, even in the absence of emotional responding. In the age-based networks, the influence of suffering tolerance was most pronounced in middle-aged adults, while the role of empathy diminished and the role of mindfulness expanded in older adults. By examining compassion at the level of its constituent elements and visualizing the interaction structure among related variables, this study provides an empirical foundation for extending theoretical understanding and for developing tailored intervention strategies.",
@@ -82693,55 +83769,6 @@
       "has_citation_metadata": false
     },
     {
-      "id": "10.1111/iwj.71080",
-      "title": "Difficult Clinical Encounters in Chronic Wound Care: An Interview Study of Nurses' Experiences and Approaches.",
-      "abstract": "Although difficult social interaction patterns are scientifically addressed in other medical fields, it is an under-researched topic in wound care. A knowledge gap exists pertaining to what kind of interpersonal problems occur between patients with chronic wounds, their relatives and nurses. In an exploratory interview study, we analyzed 37 interviews with nurses from different settings to explore how they perceive and approach difficult encounters with patients with chronic wounds. A content analysis conducted with MAXQDA revealed three broad themes of difficult nurse-patient interactions. First, conflicts included aggression, violence, insults, arguments, unrealistic demands, discrimination, lying, complaints, and general unfriendly behaviour. Often, nurses function as a kind of outlet for patients' annoyance. Second, non-adherence was associated with perceiving treatment as difficult. Third, difficult but non-conflictual situations were also common, that is, various and multilayered issues which complicate treatment. In addition, an overview of what respondents considered an ideal wound care practitioner is provided. Interventions could target self-care, nonviolent communication, and health literacy.",
-      "date": "2026-11-01",
-      "url": "https://doi.org/10.1111/iwj.71080",
-      "authors": [
-        "Hackert B",
-        "Weger U",
-        "Stürmer EK"
-      ],
-      "venue": "International wound journal",
-      "provider": "Europe PMC",
-      "doi": "10.1111/iwj.71080",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Medicine",
-      "source_topics": [],
-      "open_access": true,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Medicine"
-      ],
-      "category_confidence": 0.39,
-      "classification_evidence": [
-        "abstract:patients"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "In an exploratory interview study, we analyzed 37 interviews with nurses from different settings to explore how they perceive and approach difficult encounters with patients with chronic wounds.",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
       "id": "10.1111/dar.70258",
       "title": "Illicitly Traded Tobacco Use Among Samples of People Who Regularly Use Illegal Drugs in Australia, 2024-2025.",
       "abstract": "Introduction Australia's illicit tobacco trade poses major challenges, with evidence of increasing use. We examined: (i) use of illicitly traded tobacco (ITT) and reasons for use among two populations of people who use drugs in Australia; and (ii) factors associated with ITT use, versus exclusive licit tobacco use, in 2024 and 2025. Methods Cross-sectional samples of people who regularly (i.e., ≥monthly) used illicit stimulants (Ecstasy and Related Drugs Reporting System (EDRS); n = 1430) or injected drugs (Illicit Drug Reporting System (IDRS); n = 1749) were recruited April-July in 2024 and 2025. Multivariable logistic regression identified factors associated with past 6-month ITT use. Results In both samples of people who use drugs, the proportion using ITT among those who had recently used tobacco increased between 2024 and 2025: from 38% to 65% (p Discussion and conclusions Increases in ITT use among these two populations of people who use illicit drugs are concerning. Efforts to restrict availability should prioritise supply-side controls, alongside treatment and demand-reduction strategies.",
@@ -94253,643 +95280,6 @@
       "explanation": {
         "question": "",
         "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.21203/rs.3.rs-11282227/v1",
-      "title": "A Morphological Dual-Staining Framework for Standardized Detection of Cell Death in the Microalga Dunaliella salina",
-      "abstract": "Abstract The absence of a simple, universal protocol to detect algal cell death is a major bottleneck in aquatic ecology and carbon cycle research. This study bridges this gap by establishing a practical diagnostic framework based on parallel 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) and iodine staining, concurrently probing the two pillars of photoautotrophic vitality—metabolic activity (via respiratory electron transport) and photosynthetic storage integrity. Using the halotolerant, wall-less model Dunaliella salina , we applied the method to environmentally relevant stressors. It clearly distinguished viable cells and consistently classified four distinct death phenotypes: apoptosis-like, necrotic, plasmolysis, and a novel secretion-type death from microbial fouling. Notably, light-induced necrosis exhibited morphological hallmarks of singlet oxygen-mediated killing, analogous to Type II Photodynamic Therapy. Crucially, identical death signatures were detected in natural populations from Maharloo Hypersaline Lake, confirming ecological validity. Beyond providing a robust, field-adaptable toolkit, our findings expose a critical disciplinary gap: the lack of standardized nomenclature and diagnostic criteria for cell death in carbon-fixing unicellular organisms. As these organisms mediate nearly half of global carbon fixation, quantifying their mortality is essential for improving carbon fixation and growth models, accurately predicting carbon fluxes, assessing the resilience of aquatic carbon sinks, and evaluating climate change impacts. We therefore propose an international consortium on Cell Death in Carbon-Fixing Unicellular Organisms to standardize definitions of cell death phenotypes, unify methodologies through this dual-staining protocol, explicitly incorporate mortality into carbon fixation and growth models, and translate laboratory-based viability metrics into predictive tools for ecosystem- and photobioreactor-scale carbon management. Our framework provides the essential methodological foundation for this global standardization effort.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.21203/rs.3.rs-11282227/v1",
-      "authors": [
-        "Barmshuri M",
-        "Sadeghi S",
-        "Kholdebarin B",
-        "Faghih Z",
-        "Ranjbaran L"
-      ],
-      "venue": "",
-      "provider": "Europe PMC",
-      "doi": "10.21203/rs.3.rs-11282227/v1",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Environment",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Environment",
-        "Business"
-      ],
-      "category_confidence": 0.39,
-      "classification_evidence": [
-        "abstract:ecological"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "Beyond providing a robust, field-adaptable toolkit, our findings expose a critical disciplinary gap: the lack of standardized nomenclature and diagnostic criteria for cell death in carbon-fixing unicellular organisms.",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.31234/osf.io/zacwm_v3",
-      "title": "Is it Difficult to be a People-Pleaser? An Item Response-Theoretical Examination of the People Pleasing Scale",
-      "abstract": "The phenomenon of people-pleasing (i.e., the tendency to sacrifice one’s own needs and obligations to help others) has recently attracted considerable attention in popular psychology. Empirical research has been devoted only recently to the development and validation of suitable measurement tools such as the People Pleasing Scale (Blötner, 2026; https://doi.org/10.1007/s12144-026-09519-2). The measure provides desirable psychometric properties from the perspective of Classical Test Theory, but in this framework, several statistical assumptions about item and scale characteristics remain untested. To address this gap, we subjected the People Pleasing Scale to item response-theoretical examinations as per the polytomous Graded Response Model (N = 2,538). The three-factor solution (Responsibility, Neglect of Own Needs, and Others’ Expectations) elicited sufficient model and item fit and predominant support for the assumption of local independence. Its three subscales provided favorable item discrimination and threshold parameters indicating that endorsement of the highest response categories requires only moderately elevated levels of people-pleasing. Seven of the 10 items provided information across comparatively broad regions of the latent trait continuum, albeit with lower peak information. These findings illustrate candidate items for future scale shortening without substantial loss of measurement precision.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.31234/osf.io/zacwm_v3",
-      "authors": [
-        "Blötner C",
-        "Werner J"
-      ],
-      "venue": "",
-      "provider": "Europe PMC",
-      "doi": "10.31234/osf.io/zacwm_v3",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Psychology",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Psychology"
-      ],
-      "category_confidence": 0.39,
-      "classification_evidence": [
-        "abstract:psychology"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.31234/osf.io/h8ztf_v2",
-      "title": "Appreciating Ambiguity in Art: The effects of semantic distance and insight confidence on aesthetic appreciation",
-      "abstract": "Previous work in psychology of aesthetics suggests that people tend to appreciate artworks they subjectively perceive as ambiguous. Yet ambiguity of an artwork is typically measured through viewers’ own ratings or qualitative measures which are well suited to within-person questions, but they do not, on their own, describe how much viewers disagree about what a work means. Defining ambiguity as the degree to which an artwork affords multiple interpretations, we introduce a computational, description-based measure that quantifies this multiplicity as the semantic distance between viewers’ descriptions. We complemented this with a metacognitive measure, insight confidence, which captures how confident viewers are in their own interpretations. We examined how these measures relate to aesthetic appreciation, operationalised as interest, emotional intensity, and cognitive affect. In an online study (N = 123), participants viewed artworks for 6 seconds and for each individual artwork either described them, rated their insight confidence and provided cognitive affect ratings, or they provided interest and emotional intensity ratings. Across artworks, those eliciting more divergent descriptions (greater semantic distance) received lower mean insight confidence. Contrary to preregistered predictions, such artworks also received lower aesthetic appreciation. These results indicate aesthetic appreciation is more strongly related to how certain a viewer is about what they are viewing rather than the degree of ambiguity of an artwork. Methodologically, the approach offers a way to quantify the divergence of open-ended verbal interpretations across viewers, alongside a measure of viewers' confidence in their own interpretation.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.31234/osf.io/h8ztf_v2",
-      "authors": [
-        "Ravi Rao R",
-        "mulckhuyse m",
-        "van Elk M",
-        "Walker F"
-      ],
-      "venue": "",
-      "provider": "Europe PMC",
-      "doi": "10.31234/osf.io/h8ztf_v2",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Psychology",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Psychology"
-      ],
-      "category_confidence": 0.39,
-      "classification_evidence": [
-        "abstract:psychology"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "In an online study (N = 123), participants viewed artworks for 6 seconds and for each individual artwork either described them, rated their insight confidence and provided cognitive affect ratings, or they provided interest and emotional intensity ratings.",
-        "findings": "These results indicate aesthetic appreciation is more strongly related to how certain a viewer is about what they are viewing rather than the degree of ambiguity of an artwork.",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.31234/osf.io/qv3nw_v2",
-      "title": "More Visibility for Diversity? A Systematic Review of LGBTQ+ Representation in Educational Psychology Journals",
-      "abstract": "Students identifying as lesbian, gay, bisexual, transgender, queer, or otherwise non-heterosexual or non-cisgender (LGBTQ+) are increasingly represented. However, they still face additional challenges in educational settings, so Educational Psychology needs to research these issues. In this preregistered systematic scientometric literature review, we investigate (a) the extent of LGBTQ+ centered research in Educational Psychology journals, (b) common themes and trends, and discuss systematic gaps for future research. After searching all 41,992 articles on ERIC, published in the most impactful (Q1 and Q2) Educational Psychology journals, we combined scientometric-quantitative and qualitative methods to review 68 eligible articles. We found a surge in publications from 2000 onward, driven by special issues. For almost half of these high-impact journals, we found no published articles on LGBTQ+ issues on ERIC; most publish only a few per thousand, even though this topic falls within their scope. Most often, these articles were empirical, correlational, and US-based, with inconsistent measures of LGBTQ+ identities. Through qualitative thematic analysis, we identified seven research themes and highlighted pertinent research gaps. To strengthen the evidence base in the field, future research should conduct rigorous longitudinal and intervention studies with culturally diverse samples and adhere to open science standards.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.31234/osf.io/qv3nw_v2",
-      "authors": [
-        "Emslander V",
-        "Kluge OA",
-        "Niepel C"
-      ],
-      "venue": "",
-      "provider": "Europe PMC",
-      "doi": "10.31234/osf.io/qv3nw_v2",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Psychology",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Psychology"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "title:psychology",
-        "abstract:psychology"
-      ],
-      "explanation": {
-        "question": "In this preregistered systematic scientometric literature review, we investigate (a) the extent of LGBTQ+ centered research in Educational Psychology journals, (b) common themes and trends, and discuss systematic gaps for future research.",
-        "method": "",
-        "findings": "For almost half of these high-impact journals, we found no published articles on LGBTQ+ issues on ERIC; most publish only a few per thousand, even though this topic falls within their scope.",
-        "limitations": "In this preregistered systematic scientometric literature review, we investigate (a) the extent of LGBTQ+ centered research in Educational Psychology journals, (b) common themes and trends, and discuss systematic gaps for future research.",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.64898/2026.10.28.762036",
-      "title": "Climate change and extreme weather events to intensify West Nile virus activity",
-      "abstract": "Vector-borne zoonotic diseases pose a substantive risk to public health worldwide, yet predicting outbreaks at scales useful for public health response remains a critical challenge. Transmitted by Culex mosquitoes, West Nile virus is the leading cause of arboviral disease in the United States, progressing to neuroinvasive disease in approximately 1% of infections. Arizona's record-breaking 2021 outbreak, with 1,715 reported human cases and 127 deaths exemplifies this growing burden. Using a decade of mosquito surveillance data coupled with time-lagged weather patterns in a random forest framework, we developed spatial models predicting Culex abundance and West Nile virus occurrence across Arizona at weekly temporal and fine spatial resolution. Our weighted models classified viral occurrence with 98.9% accuracy and explained 65.3% of weekly variation in county-level human cases, with human cases lagging modeled activity by one week. Neither mosquito abundance nor viral occurrence declined at the extreme temperatures characteristic of Arizona summers, suggesting that thermal refugia sustain transmission. Drought-monsoon cycling, rather than temperature alone, emerged as the primary driver of West Nile activity, and projections through 2100 indicate intensifying activity under all climate change scenarios.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.64898/2026.10.28.762036",
-      "authors": [
-        "Bliss DK",
-        "Fischer G",
-        "Ernst K",
-        "Schumaker N",
-        "Riehle MA",
-        "Hilborn E",
-        "DeFlorio-Barker S",
-        "Combrink L"
-      ],
-      "venue": "",
-      "provider": "Europe PMC",
-      "doi": "10.64898/2026.10.28.762036",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Environment",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Environment"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "title:climate",
-        "abstract:climate"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.21203/rs.3.rs-11516193/v1",
-      "title": "Nominal and real cigarette Price trends from a global dataset, 2008-2024 and implications for the World Health Organization's 3 by 35 initiative to tax unhealthy products",
-      "abstract": "Abstract In July 2025, WHO launched the “3 by 35” Initiative calling on countries to increase real prices of tobacco, alcohol, and sugary drinks by at least 50% by 2035 to secure an additional $ 1 trillion in public revenue. We analyzed trend changes in countries’ nominal and inflation-adjusted retail cigarette prices over windows ranging from 2 to 16 years over the period 2008-2024, derived from nine editions of the World Health Organization Report on the Global Tobacco Epidemic. We found over 20% of nominal cigarettes prices (and up to 40% in WHO’s African region) were sticky, that is, unchanged across successive periods. Between 2008 and 2024, inflation-adjusted international dollar cigarette prices rose at a least squares annual trend growth rate of 2·9% (95% UI 2·8–3·0%).We found real price increases of 50% or more are rare over the short term, but over a third of countries achieved this over 10-year, often without implementing a conscious strategy to raise taxes. This, combined with the finding of a strong link between excise taxes and prices, suggests that it is feasible to achieve, and even surpass WHO’s 3 by 35 call to action for tobacco if countries strategize and accelerate tobacco tax increases.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.21203/rs.3.rs-11516193/v1",
-      "authors": [
-        "Cherukupalli R",
-        "Sandoval G",
-        "Perucic A",
-        "Goodchild M",
-        "Paul J"
-      ],
-      "venue": "",
-      "provider": "Europe PMC",
-      "doi": "10.21203/rs.3.rs-11516193/v1",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Unclassified",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [],
-      "category_confidence": 0,
-      "classification_evidence": [],
-      "explanation": {
-        "question": "",
-        "method": "We analyzed trend changes in countries’ nominal and inflation-adjusted retail cigarette prices over windows ranging from 2 to 16 years over the period 2008-2024, derived from nine editions of the World Health Organization Report on the Global Tobacco Epidemic.",
-        "findings": "Between 2008 and 2024, inflation-adjusted international dollar cigarette prices rose at a least squares annual trend growth rate of 2·9% (95% UI 2·8–3·0%).We found real price increases of 50% or more are rare over the short term, but over a third of countries achieved this over 10-year, often without implementing a conscious strategy to raise taxes.",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.21203/rs.3.rs-11035954/v1",
-      "title": "COVID-19 lockdown duration and transitions in family intergenerational support patterns: Evidence from the China Family Panel Studies",
-      "abstract": "Abstract The family is the primary informal insurance mechanism through which economies buffer individual and aggregate risks, yet whether a major crisis activates intergenerational mutual aid or, instead, weakens intergenerational ties through physical isolation and resource strain remains unclear. Existing studies mostly examine changes in a single support dimension in isolation, or the simple before-versus-after correlation, and often rely on small, short-run samples, leaving the overall effect of the shock on the configuration of intergenerational support poorly understood. Using four waves (2016–2022) of the China Family Panel Studies (CFPS), we first classify intergenerational support into four cross-wave comparable patterns—Reciprocal, Filial-support, Interactive, and Detached—through latent class analysis, and then apply a multi-group difference-in-differences design to identify the causal effect of lockdown intensity on transitions between support patterns, its dynamic path, and its heterogeneity by household resources. We find that prolonged lockdowns shift households away from one-way support or detachment toward two-way reciprocity: the effect increases in lockdown intensity, is concentrated in the most strictly locked-down regions, and raises the post-pandemic probability of being Reciprocal by about 4.8 and 5.1 percentage points on average. The effect is delayed, being close to zero in the shock year (2020) and significant only by 2022. The shift toward reciprocity is widespread across income groups, whereas transitions into Filial-support are highly concentrated among low-income households. Overall, a major public-health shock triggers an adaptive reconfiguration of intergenerational support patterns, but its direction, lag, and form depend on shock intensity and household resources; the family, as an informal safety net, is resource-asymmetric, all the more so for vulnerable households. JEL Classification: J12; D19; I18; J14",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.21203/rs.3.rs-11035954/v1",
-      "authors": [
-        "He J"
-      ],
-      "venue": "",
-      "provider": "Europe PMC",
-      "doi": "10.21203/rs.3.rs-11035954/v1",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Unclassified",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [],
-      "category_confidence": 0,
-      "classification_evidence": [],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "We find that prolonged lockdowns shift households away from one-way support or detachment toward two-way reciprocity: the effect increases in lockdown intensity, is concentrated in the most strictly locked-down regions, and raises the post-pandemic probability of being Reciprocal by about 4.8 and 5.1 percentage points on average.",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.21203/rs.3.rs-10468576/v1",
-      "title": "Beyond Digital Access: Algorithmic Inclusion and Universal Access for Older Adults on Digital Platforms",
-      "abstract": "Abstract Purpose This study examines how algorithm-driven platforms reshape universal access for older adults after they have entered digital environments. It asks how platform design, recommendation systems, commercial targeting, and digital-by-default services create barriers to informed and autonomous participation. Methods A qualitative and explanatory design combines a narrative review, policy-document analysis, and mechanism-oriented comparison. Evidence was organized across four recurring settings: information access, health communication, online consumption, and digital public services. The analysis links technological accessibility, user capability, and rights protection. Results Four recurrent barriers were identified: narrowed information exposure through algorithmic filtering; amplified risk and misplaced trust in health communication; targeted consumer inducement accompanied by difficult redress; and participation exclusion created by digital-by-default public services. These barriers are reinforced by attention-based business models, reductionist profiling, superficial age-friendly design, and uneven family and community support. Conclusion Universal access requires more than readable interfaces or basic operational support. Algorithmic inclusion depends on understandable recommendation processes, meaningful user control, reversible personalization, accessible human assistance, and effective remedies. Policy, design, community support, intergenerational assistance, and older adults’ participation in evaluation should be treated as complementary elements of inclusive platform governance.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.21203/rs.3.rs-10468576/v1",
-      "authors": [
-        "Li C",
-        "Li J",
-        "Jin X",
-        "Zhang Y"
-      ],
-      "venue": "",
-      "provider": "Europe PMC",
-      "doi": "10.21203/rs.3.rs-10468576/v1",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Society",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Society"
-      ],
-      "category_confidence": 0.39,
-      "classification_evidence": [
-        "abstract:community"
-      ],
-      "explanation": {
-        "question": "Abstract Purpose This study examines how algorithm-driven platforms reshape universal access for older adults after they have entered digital environments.",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.21203/rs.3.rs-11341655/v1",
-      "title": "Antimycobacterial activity and preliminary characterization of a 2-thio-malonylurea derivative against clinically relevant Mycobacterium species",
-      "abstract": "Abstract Mycobacterial infections remain a significant public health concern, particularly those caused by environmental and non-tuberculous mycobacteria (NTM). This study aimed to design, synthesize 2–11 , and evaluate 2-thio-malonylurea compounds as potential antimycobacterial agents. The synthesized compounds were subjected to in silico evaluation using SwissADME and screened for antibacterial activity against Gram-positive bacteria. The most active derivative was subsequently evaluated against clinically relevant Mycobacterium species, and its effects on mycobacterial morphology and mammalian cell viability were investigated by scanning electron microscopy (SEM) and cytotoxicity assays, respectively. LQFM238 ( 7 ) exhibited the strongest antibacterial activity among the compounds tested, showing activity against both Gram-positive bacterial species, with MIC values of 125 µg/mL against S. aureus and 250 µg/mL against E. faecalis . It showed antimycobacterial activity against M. tuberculosis H37Ra (MIC 62.5 µg/mL), M. avium (MIC 25 µg/mL), M. abscessus subsp. bolletii (MIC 50 µg/mL), and M. abscessus subsp. abscessus (MIC 50 µg/mL), whereas MIC value ≥ 100 µg/mL were observed for M. intracellulare . SEM revealed marked morphological alterations after exposure to 500 µg/mL for 24 h. Cytotoxic effects were observed only at 41.67 µg/mL, with selectivity indices of 4.15 for M. avium and 2.08 for both M. abscessus strains. LQFM238 ( 7 ) demonstrated promising antimycobacterial activity, particularly against M. avium and clinical M. abscessus strains.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.21203/rs.3.rs-11341655/v1",
-      "authors": [
-        "Moreira PC",
-        "Machado AS",
-        "Pinto VS",
-        "Lião LM",
-        "Gontijo BS",
-        "Neto JRdC",
-        "Pereira JX",
-        "Lima GRC"
-      ],
-      "venue": "",
-      "provider": "Europe PMC",
-      "doi": "10.21203/rs.3.rs-11341655/v1",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Biology",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Biology"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "title:species",
-        "abstract:bacteria"
-      ],
-      "explanation": {
-        "question": "This study aimed to design, synthesize 2–11 , and evaluate 2-thio-malonylurea compounds as potential antimycobacterial agents.",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1080/02770903.2026.2751829",
-      "title": "Parent perspectives on the potential use of smart inhalers for asthma management in children: a qualitative interview study.",
-      "abstract": "Objective Achieving adequate adherence to preventer medication remains a challenge in the management of pediatric asthma. A minimum of 75% adherence is recommended to achieve adequate clinical control, however actual adherence rates are often lower and are influenced by the unpredictability of family life and competing demands. Smart inhalers aim to support adherence to preventer medications by monitoring use and providing medication reminders, as well as tracking reliever use. This study explored the perceptions of parents of children aged 5-9 years with recent uncontrolled asthma regarding the potential usefulness of smart inhalers to manage their children's asthma, and perceived barriers and facilitators to their use. Methods Semi-structured interviews were conducted via Zoom with parents residing in New South Wales, Australia. Interviews explored parents' perspectives about barriers to asthma management, awareness and perceived need for smart inhalers, desired features and functionalities, attitudes toward data sharing, perceived support requirements and cost considerations. Data were analyzed using a hybrid inductive analysis approach. Ten parents participated (children aged 5-8); none had previously used a smart inhaler to manage their child's asthma. Results Overall attitudes toward smart inhalers were positive. Four primary themes were identified: perceived benefits of smart inhalers, including access to reliable medication data to share with healthcare providers; barriers to adoption, including concerns about technology difficulties; cost considerations with affordability influencing the likelihood of uptake; and implementation needs including the need for support for initial set up. Conclusions Parents generally viewed smart inhalers as a promising tool for managing childhood asthma. Study findings suggest that successful implementation will require consideration of cost, ease of use, and adequate support for use.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.1080/02770903.2026.2751829",
-      "authors": [
-        "Cooke L",
-        "Noble N",
-        "Bryant J",
-        "Curtis J",
-        "Newman E",
-        "Vaughan D",
-        "Zwar N",
-        "Goddard B"
-      ],
-      "venue": "The Journal of asthma : official journal of the Association for the Care of Asthma",
-      "provider": "Europe PMC",
-      "doi": "10.1080/02770903.2026.2751829",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Business",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Business"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "title:management",
-        "abstract:management"
-      ],
-      "explanation": {
-        "question": "Smart inhalers aim to support adherence to preventer medications by monitoring use and providing medication reminders, as well as tracking reliever use.",
-        "method": "Interviews explored parents' perspectives about barriers to asthma management, awareness and perceived need for smart inhalers, desired features and functionalities, attitudes toward data sharing, perceived support requirements and cost considerations.",
-        "findings": "Study findings suggest that successful implementation will require consideration of cost, ease of use, and adequate support for use.",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1080/10962247.2026.2737847",
-      "title": "Fossil fuel use, urban air pollution, and health in rapidly growing African cities: Implications for sustainable and low-emission urban development.",
-      "abstract": "Rapid urbanization and persistent reliance on fossil fuels in African cities have intensified ambient air pollution, posing significant public health and environmental challenges. This critical systematic review with policy synthesis, conducted in accordance with PRISMA 2020 reporting principles, synthesizes evidence on fossil fuel sources, urban air quality trends, health impacts, structural drivers, and policy responses while identifying evidence gaps and opportunities for integrated interventions. Diesel-powered road transport, backup generators, and household energy use emerge as dominant sources of particulate matter, nitrogen oxides, black carbon, and volatile organic compounds, disproportionately affecting children, the elderly, and low-income populations. Observed pollution levels often exceed World Health Organization guidelines, yet monitoring networks are sparse and unevenly distributed, limiting exposure assessment. Structural and institutional factors including urban sprawl, energy insecurity, weak fuel standards, and fragmented governance amplify emissions and health burdens. Policy synthesis indicates opportunities for co-benefits through transport electrification, clean cooking transitions, renewable mini-grids, and integrated urban planning, with interventions capable of simultaneously improving air quality, population health, and climate mitigation outcomes. Evidence-policy gaps highlight the need for cross-sectoral coordination, enhanced monitoring infrastructure, and health-informed energy and transport strategies. This review is intended to provide an evidence-informed policy synthesis for national and city governments, urban planners, environmental regulators, public health agencies, and development partners. By integrating evidence across energy, transport, health, and urban planning, it identifies practical pathways for reducing fossil-fuel dependence while improving air quality, population health, climate resilience, and sustainable urban development in rapidly growing African cities. Implications : This review identifies fossil-fuel-powered transport, diesel generators, and household energy use as major contributors to urban air pollution and related health risks in rapidly growing African cities. Priority actions include cleaner fuels, stronger vehicle and fuel standards, expanded air-quality monitoring, public transport reform and electrification, clean cooking transitions, and renewable mini-grids. Integrating health evidence into urban energy and transport planning can reduce pollution exposure, protect vulnerable populations, and support low-emission, equitable, and climate-resilient urban development.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.1080/10962247.2026.2737847",
-      "authors": [
-        "Mundu MM",
-        "Seje NT",
-        "Sempewo JI",
-        "Bunu UO",
-        "Uti DE"
-      ],
-      "venue": "Journal of the Air & Waste Management Association (1995)",
-      "provider": "Europe PMC",
-      "doi": "10.1080/10962247.2026.2737847",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Environment",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Environment"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "title:pollution",
-        "abstract:pollution"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "This critical systematic review with policy synthesis, conducted in accordance with PRISMA 2020 reporting principles, synthesizes evidence on fossil fuel sources, urban air quality trends, health impacts, structural drivers, and policy responses while identifying evidence gaps and opportunities for integrated interventions.",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1016/j.bpj.2026.10.028",
-      "title": "Guiding principles for modelling cellular transport homeostasis.",
-      "abstract": "Cellular transport homeostasis evolved as a universal strategy linking the dynamic interactions between membrane transport, metabolism and biosynthesis in all cells. The entangled nature of these interactions, together with the effects from additional processes influencing homeostatic variables generate complexities that render intuition an unreliable interpreter and predictor of cell responses often prompting for modelling help. The main variables in transport homeostasis are membrane potentials, cell volume, ion and neutral solute fluxes through active and passive membrane transporters, cytoplasmic amounts and concentrations of soluble ions and neutral solutes, charge and concentrations of impermeant cytoplasmic solutes, charge and osmotic coefficient of cytoplasmic proteins, and cytoplasmic H+, Ca2+ and Mg2+ buffering. Models of cellular transport homeostasis developed to explain puzzling, unexpected or conflicting observations in epithelia, red blood cells, malaria-infected red blood cells, reticulocytes, sickle cells, and plant guard cells proved essential for explaining underlying mechanisms in many experimental, physiological and pathological contexts and for elucidating conflicts greatly expanding our knowledge of the cell systems investigated thus far. The transport homeostasis loop is an ancient circuit that preserves cellular integrity. In this cycle, metabolic ATP powers families of membrane pumps that sustain ionic gradients across plasma membranes. These gradients act as secondary sources of energy for the passive transport of ions through channels and through ion-coupled solute carriers. These, in turn, supply the substrates for metabolic ATP production and for the biosynthesis of proteins, lipids, RNA and DNA that replace decayed membrane transporters, closing the transport homeostasis loop. This review outlines the foundational principles applied when developing models of this dynamic circuit and of the achievements resulting from their application in different cell types.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.1016/j.bpj.2026.10.028",
-      "authors": [
-        "Lew VL"
-      ],
-      "venue": "Biophysical journal",
-      "provider": "Europe PMC",
-      "doi": "10.1016/j.bpj.2026.10.028",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Unclassified",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [],
-      "category_confidence": 0,
-      "classification_evidence": [],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1002/eat.70252",
-      "title": "Smartphone and Highly Visual Social Media Use Following Acute Treatment for Anorexia Nervosa: Associations With Eating Disorder Severity and Clinical Impairment.",
-      "abstract": "Anorexia nervosa (AN) has high relapse risk following acute treatment. Though highly visual social media (HVSM; e.g., Instagram, TikTok) use is associated with higher eating disorder (ED) psychopathology, little research has examined HVSM use during this vulnerable period. This study characterized digital engagement of women recovering from AN and investigated associations between digital engagement and ED psychopathology. Participants were N = 90 cisgender women discharged from acute AN treatment within the past 2 months, recruited for a pilot trial evaluating a digital relapse-prevention tool. Baseline surveys assessed smartphone and HVSM use, content-specific engagement, and ED psychopathology (Eating Disorder Examination-Questionnaire; Clinical Impairment Assessment). Spearman correlations and multivariable regression models were used to evaluate relationships between these variables. Instagram was the most used platform (93.3%), followed by Facebook, YouTube, Snapchat, and TikTok. Controlling for covariates, HVSM use was significantly associated with ED severity (b = 0.441, 95% CI [0.108, 0.774]) and clinical impairment (b = 3.443, 95% CI [0.602, 6.285]). Viewing and posting ED content on HVSM were each associated with greater ED severity; viewing ED content was additionally associated with clinical impairment. Engagement with ED recovery content was not associated with ED psychopathology and did not attenuate associations between HVSM use and ED psychopathology. HVSM use and ED content engagement were associated with elevated ED psychopathology in women recently discharged from AN treatment. Descriptive patterns suggest algorithmic delivery of ED content through greater reported exposure than intentional following. Clinicians may consider assessing and planning HVSM behaviors during treatment and the post-acute recovery period.",
-      "date": "2026-10-30",
-      "url": "https://doi.org/10.1002/eat.70252",
-      "authors": [
-        "Mohr MB",
-        "Howe CP",
-        "Lew D",
-        "Laboe AA",
-        "Gullo NA",
-        "Firebaugh ML",
-        "Bardone-Cone AM",
-        "Pike KM"
-      ],
-      "venue": "The International journal of eating disorders",
-      "provider": "Europe PMC",
-      "doi": "10.1002/eat.70252",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Unclassified",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [],
-      "category_confidence": 0,
-      "classification_evidence": [],
-      "explanation": {
-        "question": "",
-        "method": "Participants were N = 90 cisgender women discharged from acute AN treatment within the past 2 months, recruited for a pilot trial evaluating a digital relapse-prevention tool.",
         "findings": "",
         "limitations": "",
         "why_it_matters": "",
