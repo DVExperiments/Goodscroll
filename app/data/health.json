@@ -1,19 +1,17 @@
 {
   "version": "1.6.0",
-  "updated_at": "2026-11-07T22:02:32+00:00",
+  "updated_at": "2026-11-08T06:21:17+00:00",
   "items": 1600,
-  "new_records": 446,
-  "new_unique_vs_previous": 14,
+  "new_records": 530,
+  "new_unique_vs_previous": 0,
   "sources": {
     "OpenAlex": 71,
-    "Crossref": 0,
+    "Crossref": 84,
     "arXiv": 135,
     "Europe PMC": 240
   },
-  "errors": {
-    "Crossref": "HTTP Error 429: Too Many Requests"
-  },
-  "fallback_retained": true,
+  "errors": {},
+  "fallback_retained": false,
   "by_category": {
     "Environment": 215,
     "Design": 28,
@@ -42,11 +40,11 @@
     "with_open_access_indicator": 956,
     "with_citation_metadata": 228,
     "preprints": 326,
-    "last_7_days": 1584,
+    "last_7_days": 1514,
     "last_30_days": 1600,
     "last_90_days": 1600,
-    "duplicate_or_replaced_candidates": 412,
-    "excluded_by_category_or_total_caps": 34,
+    "duplicate_or_replaced_candidates": 432,
+    "excluded_by_category_or_total_caps": 98,
     "classification_uncertain": 866,
     "without_explicit_findings": 1029,
     "by_primary_topic": {
@@ -72,60 +70,67 @@
       "requests": [
         {
           "status": 200,
-          "bytes": 682456,
-          "elapsed_ms": 882
+          "bytes": 682457,
+          "elapsed_ms": 783
         },
         {
           "status": 200,
-          "bytes": 707828,
-          "elapsed_ms": 726
+          "bytes": 707829,
+          "elapsed_ms": 430
         },
         {
           "status": 200,
           "bytes": 660059,
-          "elapsed_ms": 714
+          "elapsed_ms": 314
         },
         {
           "status": 200,
           "bytes": 612432,
-          "elapsed_ms": 780
+          "elapsed_ms": 318
         },
         {
           "status": 200,
           "bytes": 593072,
-          "elapsed_ms": 662
+          "elapsed_ms": 248
         },
         {
           "status": 200,
-          "bytes": 874570,
-          "elapsed_ms": 651
+          "bytes": 874571,
+          "elapsed_ms": 443
         },
         {
           "status": 200,
           "bytes": 608496,
-          "elapsed_ms": 721
+          "elapsed_ms": 367
         }
       ],
       "error": null
     },
     "Crossref": {
-      "accepted_before_dedup": 0,
+      "accepted_before_dedup": 84,
       "requests": [
         {
           "status": 200,
           "bytes": 589704,
-          "elapsed_ms": 722
+          "elapsed_ms": 568
         },
         {
           "status": 200,
-          "bytes": 765815,
-          "elapsed_ms": 743
+          "bytes": 779859,
+          "elapsed_ms": 594
         },
         {
-          "error": "HTTP Error 429: Too Many Requests"
+          "status": 200,
+          "bytes": 630152,
+          "elapsed_ms": 368
+        },
+        {
+          "status": 200,
+          "bytes": 220701,
+          "elapsed_ms": 168
         }
       ],
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": null
     },
     "arXiv": {
       "accepted_before_dedup": 135,
@@ -133,17 +138,17 @@
         {
           "status": 200,
           "bytes": 109152,
-          "elapsed_ms": 358
+          "elapsed_ms": 512
         },
         {
           "status": 200,
           "bytes": 109140,
-          "elapsed_ms": 469
+          "elapsed_ms": 368
         },
         {
           "status": 200,
           "bytes": 124793,
-          "elapsed_ms": 323
+          "elapsed_ms": 209
         }
       ],
       "error": null
@@ -154,22 +159,22 @@
         {
           "status": 200,
           "bytes": 440204,
-          "elapsed_ms": 1968
+          "elapsed_ms": 1419
         },
         {
           "status": 200,
-          "bytes": 376777,
-          "elapsed_ms": 1307
+          "bytes": 376760,
+          "elapsed_ms": 2182
         },
         {
           "status": 200,
           "bytes": 360528,
-          "elapsed_ms": 1259
+          "elapsed_ms": 24124
         },
         {
           "status": 200,
           "bytes": 473738,
-          "elapsed_ms": 1304
+          "elapsed_ms": 830
         }
       ],
       "error": null
