@@ -767,6 +767,858 @@
       "has_citation_metadata": false
     },
     {
+      "id": "10.21203/rs.3.rs-11577530/v1",
+      "title": "How to survive as mountain dwellers: palaeopathological study of European leopards",
+      "abstract": "Abstract Previous morphofunctional analyses linked Pleistocene leopards from the eastern Pyrenees to rocky mountainous habitats, within a broader interpretation of European leopard ecology. Such environments are expected to increase exposure to falls, missteps and difficult landings during locomotion and prey capture. Here we develop the palaeopathological dimension of this interpretation by examining two pathological leopard ( Panthera pardus ) forelimb elements from Late Pleistocene European cave assemblages: a radius from Grotte de la Carrière, France, and a fifth metacarpal from Tut de Fustanyà, Iberia. External morphology and computed-tomography images reveal pronounced diaphyseal enlargement, irregular periosteal bone formation, cortical reorganization and persistent deformation, most consistent with remodeled fractures. Substantial reparative bone documents survival beyond the acute injury and through an extended phase of osseous repair. Comparisons with pathological leopards, lynxes, cave lions and saber-toothed felids support the diagnostic assessment and place these injuries within a broader record of skeletal trauma. We propose that the fractures reflect the mechanical risks of locomotion and hunting in steep, rocky terrain. The pathological evidence adds an individual life-history dimension to the postcranial adaptations previously recognized in European leopards. Integrating the lesions with the morphological and environmental evidence, we interpret them as potential traumatic consequences of the mountain-associated way of life proposed for European Pleistocene leopards. Their extensive repair also documents the capacity of injured individuals to survive within this demanding ecological setting.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.21203/rs.3.rs-11577530/v1",
+      "authors": [
+        "Madurell-Malapeira J",
+        "Prat-Vericat M",
+        "Bartolini-Lucenti S",
+        "Fidalgo D",
+        "Serdyuk NV",
+        "Lavrov A",
+        "Rufí I",
+        "Messeguer E"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.21203/rs.3.rs-11577530/v1",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Environment",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Environment"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:environmental"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/a7kdx_v9",
+      "title": "The Forecasting Proficiency Test: A General Use Assessment of Forecasting Ability",
+      "abstract": "Accurate predictions about the future are crucial for optimizing policy choices, but finding skilled forecasters is challenging. Prior work relied on forecasting tournaments to identify generalist \"superforecasters\" who made accurate predictions across domains, but these tournaments take months to complete and require large concurrent samples to compare performance among individuals. We solve these problems by developing a one-hour Forecasting Proficiency Test (FPT) that explains 75% of the variance in forecasters' accuracy about a wide variety of events. The FPT provides standardized percentile scores normed to a large (N=1,147) test development sample based on a combination of reusable real-world forecasting questions and standalone cognitive tests. Which questions and tests are included is highly customizable. Forecasting questions are the best predictors of forecasting proficiency, but cognitive tests help stabilize score distributions and facilitate score exchangeability across different custom test versions even as forecasting questions and resolution dates change. The FPT is primarily a practical tool for decision-makers who rely on accurate predictions to make decisions. However, it is based on one of the largest dedicated psychometric studies ever conducted on human forecasting, which also provides insight into the cognitive mechanisms that drive forecasting proficiency and guidance for future researchers interested in studying the psychology of forecasting.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/a7kdx_v9",
+      "authors": [
+        "Himmelstein M",
+        "Zhu SM",
+        "Petrov N",
+        "Karger E",
+        "Helmer J",
+        "Livnat S",
+        "Hedley P",
+        "Bennett A"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/a7kdx_v9",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Psychology",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Psychology"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:psychometric"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/wjpz8_v1",
+      "title": "Measuring Cognitive Demands in Professional Esports",
+      "abstract": "Practice may improve certain cognitive skills more than others because those skills are called upon more frequently during an activity. Professional esports provides a means of measuring these demands during gameplay because match records capture the information available to players and their responses as events unfold. This study introduces the Telemetry and Replay Analysis of Cognitive Exposure (TRACE) framework, which measures seven dimensions of cognitive demand in professional esports. The analysis used records from 314 professional DOTA 2 matches, covering 558 distinct player accounts and approximately 2,184 player-hours of competition. TRACE defines four measures at the player level (cognitive control capacity, task switching, inhibitory control, and dynamic attention) and three measures at the team level (visuospatial working memory and updating, decision-making under uncertainty, and feedback learning). Hierarchical Bayesian models estimated each dimension in its original units and on a common percentile scale, accounting for differences among teams, matches, and hero-role combinations. By identifying comparable situations across matches, TRACE can quantify how often players encounter a given demand and how they respond when it arises. This transforms routinely recorded match replays into a source of large-scale behavioral data for cognitive psychology.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/wjpz8_v1",
+      "authors": [
+        "Zhou C",
+        "Qiu B"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/wjpz8_v1",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Psychology",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Psychology"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:psychology"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "TRACE defines four measures at the player level (cognitive control capacity, task switching, inhibitory control, and dynamic attention) and three measures at the team level (visuospatial working memory and updating, decision-making under uncertainty, and feedback learning).",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/wjpz8",
+      "title": "Measuring Cognitive Demands in Professional Esports",
+      "abstract": "Practice may improve certain cognitive skills more than others because those skills are called upon more frequently during an activity. Professional esports provides a means of measuring these demands during gameplay because match records capture the information available to players and their responses as events unfold. This study introduces the Telemetry and Replay Analysis of Cognitive Exposure (TRACE) framework, which measures seven dimensions of cognitive demand in professional esports. The analysis used records from 314 professional DOTA 2 matches, covering 558 distinct player accounts and approximately 2,184 player-hours of competition. TRACE defines four measures at the player level (cognitive control capacity, task switching, inhibitory control, and dynamic attention) and three measures at the team level (visuospatial working memory and updating, decision-making under uncertainty, and feedback learning). Hierarchical Bayesian models estimated each dimension in its original units and on a common percentile scale, accounting for differences among teams, matches, and hero-role combinations. By identifying comparable situations across matches, TRACE can quantify how often players encounter a given demand and how they respond when it arises. This transforms routinely recorded match replays into a source of large-scale behavioral data for cognitive psychology.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/wjpz8",
+      "authors": [
+        "Zhou C",
+        "Qiu B"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/wjpz8",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Psychology",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Psychology"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:psychology"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "TRACE defines four measures at the player level (cognitive control capacity, task switching, inhibitory control, and dynamic attention) and three measures at the team level (visuospatial working memory and updating, decision-making under uncertainty, and feedback learning).",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/23w84_v2",
+      "title": "Introducing the One-Shot Download Task: Testing the validity of a new and simple measure of online pro-environmental behavior",
+      "abstract": "AbstractMeasures of actual pro-environmental behaviour are increasingly in environmental psychology due to their increased ecological validity over self-report measures. Here we introduce a new such measure, the One-Shot Download Task (OSD), a brief online behavioural measure in which participants choose between incurring personal costs (completing a tedious task) or environmental costs (downloading unnecessary files associated with carbon emissions). Two studies were conducted (Study 1: N = 104; Study 2: N = 96) that assessed the OSD’s criterion validity by examining associations with measures of eco-anxiety, environmentally minded consumer behaviour and environmental attitudes, while Study 2 also tested whether social influence in the form of exposure to “watching eyes” stimuli increased pro-environmental choices in the task. It was found that OSD scores positively correlated with environmentally minded consumer behaviour and the Preservation dimension of environmental attitudes, but not with eco-anxiety or Utilization attitudes. Furthermore, participants exposed to watching eyes selected significantly more environmentally friendly options (higher scores on the OSD). These findings provide initial evidence for the validity of the OSD as a measure of actual pro-environmental behaviour, demonstrating expected relationships with established environmental constructs and sensitivity to social influence. Given its simplicity, low cost, and accessibility, the OSD offers a practical addition to the growing range of behavioural measures available to environmental psychological researchers, although further validation is warranted.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/23w84_v2",
+      "authors": [
+        "Farrelly D",
+        "Lippitt T",
+        "Thompson H"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/23w84_v2",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Environment",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Environment"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "title:environmental",
+        "abstract:environmental"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "Here we introduce a new such measure, the One-Shot Download Task (OSD), a brief online behavioural measure in which participants choose between incurring personal costs (completing a tedious task) or environmental costs (downloading unnecessary files associated with carbon emissions).",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/23w84",
+      "title": "Introducing the One-Shot Download Task: Testing the validity of a new and simple measure of online pro-environmental behavior",
+      "abstract": "AbstractMeasures of actual pro-environmental behaviour are increasingly in environmental psychology due to their increased ecological validity over self-report measures. Here we introduce a new such measure, the One-Shot Download Task (OSD), a brief online behavioural measure in which participants choose between incurring personal costs (completing a tedious task) or environmental costs (downloading unnecessary files associated with carbon emissions). Two studies were conducted (Study 1: N = 104; Study 2: N = 96) that assessed the OSD’s criterion validity by examining associations with measures of eco-anxiety, environmentally minded consumer behaviour and environmental attitudes, while Study 2 also tested whether social influence in the form of exposure to “watching eyes” stimuli increased pro-environmental choices in the task. It was found that OSD scores positively correlated with environmentally minded consumer behaviour and the Preservation dimension of environmental attitudes, but not with eco-anxiety or Utilization attitudes. Furthermore, participants exposed to watching eyes selected significantly more environmentally friendly options (higher scores on the OSD). These findings provide initial evidence for the validity of the OSD as a measure of actual pro-environmental behaviour, demonstrating expected relationships with established environmental constructs and sensitivity to social influence. Given its simplicity, low cost, and accessibility, the OSD offers a practical addition to the growing range of behavioural measures available to environmental psychological researchers, although further validation is warranted.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/23w84",
+      "authors": [
+        "Farrelly D",
+        "Lippitt T",
+        "Thompson H"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/23w84",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Environment",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Environment"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "title:environmental",
+        "abstract:environmental"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "Here we introduce a new such measure, the One-Shot Download Task (OSD), a brief online behavioural measure in which participants choose between incurring personal costs (completing a tedious task) or environmental costs (downloading unnecessary files associated with carbon emissions).",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/ab3hf_v2",
+      "title": "Perceived treatability is not evidence of diagnostic validity and benefit: A response to Hastings and Hahn on borderline personality disorder",
+      "abstract": "Hastings and Hahn report that a borderline personality disorder (BPD) label can improve selected treatment beliefs among clinical psychology trainees. However, more favourable clinician expectations should not be interpreted as evidence that receiving the diagnosis benefits patients. Perceived treatability, treatment efficacy, treatment safety, and patient benefit are distinct constructs. This distinction is particularly important given documented negative effects associated with dialectical behaviour therapy and broader limitations in the systematic assessment and reporting of treatment-related harm in psychotherapy research. Hastings and Hahn's vignette design also presupposes rather than evaluates the legitimacy of the BPD construct and cannot address diagnostic bias, harms arising from classification, or the lived consequences of diagnosis and subsequent care. Their findings therefore demonstrate a change in selected clinician beliefs, not improved care or net patient benefit. Claims of diagnostic benefit require evidence addressing treatment safety, patient-defined outcomes, diagnostic validity and bias, and lived experience.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/ab3hf_v2",
+      "authors": [
+        "Cobbaert L"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/ab3hf_v2",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Psychology",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Psychology",
+        "Medicine"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:psychology"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "This distinction is particularly important given documented negative effects associated with dialectical behaviour therapy and broader limitations in the systematic assessment and reporting of treatment-related harm in psychotherapy research.",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/ab3hf",
+      "title": "Perceived treatability is not evidence of diagnostic validity and benefit: A response to Hastings and Hahn on borderline personality disorder",
+      "abstract": "Hastings and Hahn report that a borderline personality disorder (BPD) label can improve selected treatment beliefs among clinical psychology trainees. However, more favourable clinician expectations should not be interpreted as evidence that receiving the diagnosis benefits patients. Perceived treatability, treatment efficacy, treatment safety, and patient benefit are distinct constructs. This distinction is particularly important given documented negative effects associated with dialectical behaviour therapy and broader limitations in the systematic assessment and reporting of treatment-related harm in psychotherapy research. Hastings and Hahn's vignette design also presupposes rather than evaluates the legitimacy of the BPD construct and cannot address diagnostic bias, harms arising from classification, or the lived consequences of diagnosis and subsequent care. Their findings therefore demonstrate a change in selected clinician beliefs, not improved care or net patient benefit. Claims of diagnostic benefit require evidence addressing treatment safety, patient-defined outcomes, diagnostic validity and bias, and lived experience.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/ab3hf",
+      "authors": [
+        "Cobbaert L"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/ab3hf",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Psychology",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Psychology",
+        "Medicine"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:psychology"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "This distinction is particularly important given documented negative effects associated with dialectical behaviour therapy and broader limitations in the systematic assessment and reporting of treatment-related harm in psychotherapy research.",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/z7g6s_v2",
+      "title": "TO MONETIZE OR NOT: INFLUENCE OF INDIVIDUAL DIFFERENCES AND GENDER IN MONETARY VALUATION OF MEANINGFUL EXPERIENCES",
+      "abstract": "Money is a universal measure of value that influences most decisions. For centuries, humans have used it to exchange goods and experiences. Research in psychology and behavioral economics, however, shows that there may be limits to what individuals are willing to exchange for money. This study examined the monetary values people assign to personal experiences, and whether willingness to engage in monetary valuation differs between males and females. Five hundred and twenty-nine participants completed an online survey in which they provided the minimum amount of monetary compensation it would require to complete ten separate hypothetical scenarios, with the option to refuse any task. The hypothetical tasks ranged from temporary restrictions and social isolation to public disclosure, loss of memories and permanent identity changes. Based on the results from previous economic decision-making studies, we hypothesized that females would refuse to price tasks more than males and that males would request higher compensation for priced tasks. We also hypothesized that permanent or identity-altering tasks would result in higher refusal rates than temporary ones in both genders. Whether resistance to monetary valuation is a consistent individual tendency was also examined. Our results showed that participants who refused to price one hypothetical task were more likely to refuse other tasks. While no gender differences were observed for any task regarding the monetary value requested, females refused significantly more tasks than males (4.43 vs. 3.17, p < .001). Refusal rates were highest for permanent or identity-altering tasks and lowest for temporary tasks. Lastly, refusal rates for loss of digital pictures/videos were nearly identical to losing contact with friends and family. Together, these findings suggest that monetary valuation involves two separate decisions: whether or not to assign a monetary value and, if so, how much to request. Individuals differ consistently in their willingness to engage in monetary valuation, and gender influences the decision to engage rather than with the amount requested.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/z7g6s_v2",
+      "authors": [
+        "Beale JA",
+        "Murphy AZ"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/z7g6s_v2",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Psychology",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Psychology"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:psychology"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "Five hundred and twenty-nine participants completed an online survey in which they provided the minimum amount of monetary compensation it would require to complete ten separate hypothetical scenarios, with the option to refuse any task.",
+        "findings": "Together, these findings suggest that monetary valuation involves two separate decisions: whether or not to assign a monetary value and, if so, how much to request.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/z7g6s",
+      "title": "TO MONETIZE OR NOT: INFLUENCE OF INDIVIDUAL DIFFERENCES AND GENDER IN MONETARY VALUATION OF MEANINGFUL EXPERIENCES",
+      "abstract": "Money is a universal measure of value that influences most decisions. For centuries, humans have used it to exchange goods and experiences. Research in psychology and behavioral economics, however, shows that there may be limits to what individuals are willing to exchange for money. This study examined the monetary values people assign to personal experiences, and whether willingness to engage in monetary valuation differs between males and females. Five hundred and twenty-nine participants completed an online survey in which they provided the minimum amount of monetary compensation it would require to complete ten separate hypothetical scenarios, with the option to refuse any task. The hypothetical tasks ranged from temporary restrictions and social isolation to public disclosure, loss of memories and permanent identity changes. Based on the results from previous economic decision-making studies, we hypothesized that females would refuse to price tasks more than males and that males would request higher compensation for priced tasks. We also hypothesized that permanent or identity-altering tasks would result in higher refusal rates than temporary ones in both genders. Whether resistance to monetary valuation is a consistent individual tendency was also examined. Our results showed that participants who refused to price one hypothetical task were more likely to refuse other tasks. While no gender differences were observed for any task regarding the monetary value requested, females refused significantly more tasks than males (4.43 vs. 3.17, p < .001). Refusal rates were highest for permanent or identity-altering tasks and lowest for temporary tasks. Lastly, refusal rates for loss of digital pictures/videos were nearly identical to losing contact with friends and family. Together, these findings suggest that monetary valuation involves two separate decisions: whether or not to assign a monetary value and, if so, how much to request. Individuals differ consistently in their willingness to engage in monetary valuation, and gender influences the decision to engage rather than with the amount requested.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/z7g6s",
+      "authors": [
+        "Beale JA",
+        "Murphy AZ"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/z7g6s",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Psychology",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Psychology"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:psychology"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "Five hundred and twenty-nine participants completed an online survey in which they provided the minimum amount of monetary compensation it would require to complete ten separate hypothetical scenarios, with the option to refuse any task.",
+        "findings": "Together, these findings suggest that monetary valuation involves two separate decisions: whether or not to assign a monetary value and, if so, how much to request.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/a7kdx",
+      "title": "The Forecasting Proficiency Test: A General Use Assessment of Forecasting Ability",
+      "abstract": "Accurate predictions about the future are crucial for optimizing policy choices, but finding skilled forecasters is challenging. Prior work relied on forecasting tournaments to identify generalist \"superforecasters\" who made accurate predictions across domains, but these tournaments take months to complete and require large concurrent samples to compare performance among individuals. We solve these problems by developing a one-hour Forecasting Proficiency Test (FPT) that explains 75% of the variance in forecasters' accuracy about a wide variety of events. The FPT provides standardized percentile scores normed to a large (N=1,147) test development sample based on a combination of reusable real-world forecasting questions and standalone cognitive tests. Which questions and tests are included is highly customizable. Forecasting questions are the best predictors of forecasting proficiency, but cognitive tests help stabilize score distributions and facilitate score exchangeability across different custom test versions even as forecasting questions and resolution dates change. The FPT is primarily a practical tool for decision-makers who rely on accurate predictions to make decisions. However, it is based on one of the largest dedicated psychometric studies ever conducted on human forecasting, which also provides insight into the cognitive mechanisms that drive forecasting proficiency and guidance for future researchers interested in studying the psychology of forecasting.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/a7kdx",
+      "authors": [
+        "Himmelstein M",
+        "Zhu SM",
+        "Petrov N",
+        "Karger E",
+        "Helmer J",
+        "Livnat S",
+        "Hedley P",
+        "Bennett A"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/a7kdx",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Psychology",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Psychology"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:psychometric"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/dsutg_v2",
+      "title": "Navigating Safety in Reproductive Health Self-Care Interventions in Ghana: A Qualitative Study",
+      "abstract": "IntroductionReproductive health self-care interventions are growing rapidly in Ghana, but there is limited evidence on the quality-of-care provisions that ensure safety for end-users and health professionals. This study explored how quality of care and safety are experienced and maintained within reproductive health self-care interventions in Ghana, using a self-care-specific conceptual framework.Materials and MethodsUsing an exploratory qualitative approach, underpinned by the Quality-of-Care Framework for Self-Care, we interviewed 29 end-users and 19 professionals, comprising health providers, program managers, digital referral agents, and community facilitators across Accra, Tamale, Cape Coast, and Sunyani. The study spanned six sexual and reproductive health and rights (SRHR) domains: family planning, abortion, HIV/STI, maternal and child health, general SRHR, and cervical cancer. Data was analysed using thematic analysis techniques in Dedoose, grounded in both deductive and inductive principles.ResultsKey outcomes include the following: Technical Competency – Despite barriers, end-users felt sufficiently empowered to access self-care services. although professionals required continuous capacity strengthening to keep pace with the evolving ecosystem; Client Safety – End-users preferred access to medical eligibility information, but professionals were while professionals expressed concerns about potential misuse; Information Exchange – Information on family planning self-care services was more openly available than across other SRHR domains; Interpersonal Connection and Choice – End-users reported more positive experiences with remote services than facility-based care, although professionals faced operational constraints that affected consistent delivery of quality care; Continuity of Care – Follow-up care was better integrated across health facilities than alternate service delivery points, with periodic stockouts disrupting continuity efforts.ConclusionIn exploring how quality of care and safety are experienced and maintained within reproductive health self-care interventions in Ghana, this study found that end-users and professionals have adopted interim measures to maintain some level of safety amid policy and institutional inadequacies. However, the sustainability of these measures is uncertain, posing a serious risk to public health if not prioritised in the short term.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/dsutg_v2",
+      "authors": [
+        "Manu KA",
+        "Stutterheim SE",
+        "Adjei C",
+        "Schneider F"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/dsutg_v2",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine",
+        "Environment",
+        "Society"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:cervical cancer"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/ajeyn_v1",
+      "title": "Predictors of knowledge of ticks, tick-borne diseases and engagement in protective behaviours: an analysis of survey data from England",
+      "abstract": "BackgroundTicks pose a considerable threat to both animal and human health, with tick-borne diseases presenting substantial economic and public health burdens. Although engaging in protective behaviours can reduce the risk of tick bites, and subsequently disease risk, factors that are associated with uptake of such behaviours, and knowledge of ticks and tick-borne diseases, are underexplored within England. Method An online survey was conducted with 1,400 adults residing in England. Multiple linear regression analyses were performed for the outcomes of knowledge of ticks and tick-borne diseases, and engagement with protective behaviours. Results Participants had a mean knowledge score of 20 out of a possible 35 (57.14% correct responses), and participants engaged in fewer than two protective behaviours on average. Many participants provided ‘don’t know’ responses to questions, with 62.05% of participants providing at least one ‘don’t know’ response. Among those who had heard of ticks, knowledge of ticks was associated with higher perceived severity of disease, self-efficacy, social norms and self-reported knowledge. Engagement with protective behaviour was positively associated with belonging to a Black ethnic group, a suspected previous tick encounter, seeing or hearing information about ticks and higher knowledge about ticks and tick-borne diseases. There were no other sociodemographic factors associated with knowledge of ticks, or engagement in protective behaviours.ConclusionsThese findings provide insight into the factors associated with knowledge of ticks and engagement in protective behaviours in a sample of adults from England. However, these results also highlight that knowledge about ticks and tick-borne diseases is incomplete in the English population. Further work is needed to design and evaluate interventions aimed at increasing knowledge about ticks and TBDs and assess their impact on engagement in protective behaviours.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/ajeyn_v1",
+      "authors": [
+        "Masterton S",
+        "Chan L",
+        "Middlewick A",
+        "Olver J",
+        "Hansford K",
+        "Smith LE"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/ajeyn_v1",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:public health"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "Results Participants had a mean knowledge score of 20 out of a possible 35 (57.14% correct responses), and participants engaged in fewer than two protective behaviours on average.",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/ajeyn",
+      "title": "Predictors of knowledge of ticks, tick-borne diseases and engagement in protective behaviours: an analysis of survey data from England",
+      "abstract": "BackgroundTicks pose a considerable threat to both animal and human health, with tick-borne diseases presenting substantial economic and public health burdens. Although engaging in protective behaviours can reduce the risk of tick bites, and subsequently disease risk, factors that are associated with uptake of such behaviours, and knowledge of ticks and tick-borne diseases, are underexplored within England. Method An online survey was conducted with 1,400 adults residing in England. Multiple linear regression analyses were performed for the outcomes of knowledge of ticks and tick-borne diseases, and engagement with protective behaviours. Results Participants had a mean knowledge score of 20 out of a possible 35 (57.14% correct responses), and participants engaged in fewer than two protective behaviours on average. Many participants provided ‘don’t know’ responses to questions, with 62.05% of participants providing at least one ‘don’t know’ response. Among those who had heard of ticks, knowledge of ticks was associated with higher perceived severity of disease, self-efficacy, social norms and self-reported knowledge. Engagement with protective behaviour was positively associated with belonging to a Black ethnic group, a suspected previous tick encounter, seeing or hearing information about ticks and higher knowledge about ticks and tick-borne diseases. There were no other sociodemographic factors associated with knowledge of ticks, or engagement in protective behaviours.ConclusionsThese findings provide insight into the factors associated with knowledge of ticks and engagement in protective behaviours in a sample of adults from England. However, these results also highlight that knowledge about ticks and tick-borne diseases is incomplete in the English population. Further work is needed to design and evaluate interventions aimed at increasing knowledge about ticks and TBDs and assess their impact on engagement in protective behaviours.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/ajeyn",
+      "authors": [
+        "Masterton S",
+        "Chan L",
+        "Middlewick A",
+        "Olver J",
+        "Hansford K",
+        "Smith LE"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/ajeyn",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:public health"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "Results Participants had a mean knowledge score of 20 out of a possible 35 (57.14% correct responses), and participants engaged in fewer than two protective behaviours on average.",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/rpk86_v1",
+      "title": "Rethinking Smartphones and Sleep: A Fine-Grained Within-Person Analysis of Evening Smartphone Use and Sleep",
+      "abstract": "Inadequate sleep is a public health concern associated with adverse health and well-being outcomes. Evening smartphone use is frequently cited as a potential contributor, prompting widespread recommendations to avoid it. However, rigorous evidence to support these recommendations is limited. Using device-based smartphone use data and experience sampling data collected over 10 days, we examined within-person associations between evening smartphone use and five self-reported sleep-related outcomes: shuteye time, sleep latency, sleep duration, difficulty to fall asleep, and sleep quality. We examined these associations in two samples (N = 184 and N = 185) to test replicability. To investigate robustness and temporal dynamics, we assessed smartphone use across four equal-length time windows covering different segments of the evening. Across both samples and all time windows, greater-than-usual evening smartphone use was consistently associated with earlier shuteye time. Associations with the other sleep-related outcomes were less consistent, with most estimates indicating no significant relationship. Overall, our findings align with previous intensive longitudinal research that has likewise found little evidence of concerning associations between evening smartphone use and sleep. Our results challenge the assumption that evening smartphone use is inherently harmful to sleep and underscore the need to reconsider blanket recommendations to avoid it.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/rpk86_v1",
+      "authors": [
+        "große Deters F",
+        "Salo K",
+        "Häusser JA",
+        "Milek A"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/rpk86_v1",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:public health"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "Overall, our findings align with previous intensive longitudinal research that has likewise found little evidence of concerning associations between evening smartphone use and sleep.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/rpk86",
+      "title": "Rethinking Smartphones and Sleep: A Fine-Grained Within-Person Analysis of Evening Smartphone Use and Sleep",
+      "abstract": "Inadequate sleep is a public health concern associated with adverse health and well-being outcomes. Evening smartphone use is frequently cited as a potential contributor, prompting widespread recommendations to avoid it. However, rigorous evidence to support these recommendations is limited. Using device-based smartphone use data and experience sampling data collected over 10 days, we examined within-person associations between evening smartphone use and five self-reported sleep-related outcomes: shuteye time, sleep latency, sleep duration, difficulty to fall asleep, and sleep quality. We examined these associations in two samples (N = 184 and N = 185) to test replicability. To investigate robustness and temporal dynamics, we assessed smartphone use across four equal-length time windows covering different segments of the evening. Across both samples and all time windows, greater-than-usual evening smartphone use was consistently associated with earlier shuteye time. Associations with the other sleep-related outcomes were less consistent, with most estimates indicating no significant relationship. Overall, our findings align with previous intensive longitudinal research that has likewise found little evidence of concerning associations between evening smartphone use and sleep. Our results challenge the assumption that evening smartphone use is inherently harmful to sleep and underscore the need to reconsider blanket recommendations to avoid it.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/rpk86",
+      "authors": [
+        "große Deters F",
+        "Salo K",
+        "Häusser JA",
+        "Milek A"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/rpk86",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:public health"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "Overall, our findings align with previous intensive longitudinal research that has likewise found little evidence of concerning associations between evening smartphone use and sleep.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.31234/osf.io/dsutg",
+      "title": "Navigating Safety in Reproductive Health Self-Care Interventions in Ghana: A Qualitative Study",
+      "abstract": "IntroductionReproductive health self-care interventions are growing rapidly in Ghana, but there is limited evidence on the quality-of-care provisions that ensure safety for end-users and health professionals. This study explored how quality of care and safety are experienced and maintained within reproductive health self-care interventions in Ghana, using a self-care-specific conceptual framework.Materials and MethodsUsing an exploratory qualitative approach, underpinned by the Quality-of-Care Framework for Self-Care, we interviewed 29 end-users and 19 professionals, comprising health providers, program managers, digital referral agents, and community facilitators across Accra, Tamale, Cape Coast, and Sunyani. The study spanned six sexual and reproductive health and rights (SRHR) domains: family planning, abortion, HIV/STI, maternal and child health, general SRHR, and cervical cancer. Data was analysed using thematic analysis techniques in Dedoose, grounded in both deductive and inductive principles.ResultsKey outcomes include the following: Technical Competency – Despite barriers, end-users felt sufficiently empowered to access self-care services. although professionals required continuous capacity strengthening to keep pace with the evolving ecosystem; Client Safety – End-users preferred access to medical eligibility information, but professionals were while professionals expressed concerns about potential misuse; Information Exchange – Information on family planning self-care services was more openly available than across other SRHR domains; Interpersonal Connection and Choice – End-users reported more positive experiences with remote services than facility-based care, although professionals faced operational constraints that affected consistent delivery of quality care; Continuity of Care – Follow-up care was better integrated across health facilities than alternate service delivery points, with periodic stockouts disrupting continuity efforts.ConclusionIn exploring how quality of care and safety are experienced and maintained within reproductive health self-care interventions in Ghana, this study found that end-users and professionals have adopted interim measures to maintain some level of safety amid policy and institutional inadequacies. However, the sustainability of these measures is uncertain, posing a serious risk to public health if not prioritised in the short term.",
+      "date": "2026-11-14",
+      "url": "https://doi.org/10.31234/osf.io/dsutg",
+      "authors": [
+        "Manu KA",
+        "Stutterheim SE",
+        "Adjei C",
+        "Schneider F"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.31234/osf.io/dsutg",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine",
+        "Environment",
+        "Society"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:cervical cancer"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
       "id": "10.5281/zenodo.20961078",
       "title": "ROLE OF INSECTS IN AGRICULTURE AND ENVIRONMENT",
       "abstract": "Abstract: Insects are among the most ancient and successful organisms on Earth, having existed for over 400 million years. They form the most diverse group of living organisms, constituting more than 75% of all known animal species. Found in almost every habitat, insects play essential roles in agriculture, natural ecosystems, climate regulation, biodiversity maintenance, and food webs. Their interactions with plants, animals, and microorganisms create intricate ecological networks that support life on Earth. In the context of agriculture, insects occupy a unique dual position: they are both indispensable allies and challenging adversaries. Beneficial insects contribute to pollination, soil formation, nutrient cycling, and natural pest regulation, thereby facilitating sustainable agricultural productivity. Conversely, insect pests cause extensive crop losses, transmit plant diseases, and damage stored food, resulting in significant economic impacts globally. In an era of rapid climate change, land-use transformation, and pesticide overuse, the conservation and management of insect populations have become crucial. Understanding their ecological functions and integrating this knowledge into agricultural practices is a key step toward achieving sustainability, food security, and environmental resilience. Keywords: Environment, ecology, balance, ecosystem",
@@ -23226,6 +24078,61 @@
         "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
       },
       "quality_flags": [],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.64898/2026.11.09.765288",
+      "title": "Genetic diversity of Plasmodium falciparum and Plasmodium malariae and its association with infectivity of Anopheles coluzzii in the Mfou Health District, Central Region of Cameroon",
+      "abstract": "Background: Malaria remains a major public health challenge in Cameroon, with sustained transmission particularly in forest-savannah transition zones. Although Plasmodium falciparum is the predominant malaria parasite, non-falciparum species such as P. malariae also contribute to the human infectious reservoir and to onward transmission. Parasite genetic diversity and multiplicity of infection (MOI) are recognized determinants of malaria transmission and may influence the prevalence and intensity of infection in mosquito vectors. However, whether parasite genetic diversity and MOI differentially influence the infectivity of P. falciparum and P. malariae to local Anopheles coluzzii populations remains poorly characterized. This knowledge gap is particularly relevant in the Mfou Health District, where malaria transmission persists and both P. falciparum and non-falciparum infections occur. Methods A cross-sectional survey was conducted between September 2022 and November 2023 in twelve primary schools in the Mfou Health District. Finger-prick blood samples were collected from children aged 3-17 years and examined by microscopy to identify Plasmodium infections and gametocyte carriers. Gametocyte-positive participants were enrolled in direct membrane feeding assays (DMFA) using locally reared Anopheles coluzzii. Blood samples were tested under two conditions: whole blood (WB) and replacement with naïve AB serum. Mosquito infection outcomes were assessed at the oocyst (day 7) and sporozoite stages (day 14). Parasite species were confirmed by quantitative PCR (qPCR), and genetic diversity was assessed using seven microsatellite loci, together with msp1 and msp2 markers for P. falciparum and pmmsp1 for P. malariae. MOI and expected heterozygosity (He) were calculated, and their associations with mosquito infection prevalence and intensity were evaluated using generalized linear models. Results Among 2,807 children screened, 2,111 (75.2%) were infected with Plasmodium, and 388 (18.4%) carried gametocytes. A total of 169 children aged 4-13 years were selected for membrane feeding assays using Anopheles coluzzii, of whom 68% successfully infected mosquitoes. Among 10,872 dissected mosquitoes, 20.2% were infected at the oocyst stage, with both infection prevalence and intensity being higher in mosquitoes fed on AB serum-reconstituted blood than with whole blood. Sporozoite-stage infections were detected in 5.8% of mosquitoes, predominantly under AB serum conditions. Mosquito infection prevalence and intensity increased with gametocyte density, although submicroscopic gametocyte carriers were also infectious. P. falciparum exhibited high genetic diversity (MOI 2.4 ± 0.8; He 0.72 ± 0.07), while P. malariae showed limited diversity (MOI 0.11-0.21; He ≈ 0). Mixed-species and polyclonal infections were associated with enhanced infection outcomes. Moreover, the msp2 FC27 allelic family in P. falciparum and the 800-bp pmmsp1 allele in P. malariae were associated with oocyst development. Overall, parasite genetic diversity, multiplicity of infection, and species composition were positively associated with mosquito infectivity, with only minor seasonal variation observed. Conclusion Malaria transmission in Mfou is sustained by genetically diverse and multiclonal P. falciparum infections, with P. malariae also contributing to the human infectious reservoir. The association of parasite genetic diversity, MOI, and allele-specific factors with mosquito infectivity underscores the importance of addressing asymptomatic and multiclonal infections in malaria control strategies.",
+      "date": "2026-11-13",
+      "url": "https://doi.org/10.64898/2026.11.09.765288",
+      "authors": [
+        "Nanssong Vomo CT",
+        "Mbida-Mbida JA",
+        "ibrahima I",
+        "Bouopda Tuedom AG",
+        "Tumamo Fotso B",
+        "Kiam cb",
+        "Onguene C",
+        "Ayong L"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.64898/2026.11.09.765288",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine",
+        "Biology"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:public health"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "Gametocyte-positive participants were enrolled in direct membrane feeding assays (DMFA) using locally reared Anopheles coluzzii.",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
       "evidence_label": "Publication record / review unverified",
       "has_abstract": true,
       "has_doi": true,
@@ -60190,61 +61097,6 @@
       "has_citation_metadata": false
     },
     {
-      "id": "10.1523/jneurosci.1200-26.2026",
-      "title": "The Noncanonical Hippocampus: Shared and Distinct Features of the CA2-FC-IG Hippocampal System.",
-      "abstract": "The hippocampal CA2 region has received considerable interest in recent decades, earning a functional understanding beyond the previously held view as a small transitional zone. However, related hippocampal structures called the fasciola cinereum (FC) and indusium griseum (IG) have been largely neglected to date. While CA2, FC, and IG are typically presented as discontinuous structures on conventional atlases, recent work unveils a surprisingly high degree of overlapping gene expression and anatomical continuity, raising questions of their shared versus distinct functions. Here we review the molecular, anatomical, physiological, and behavioral features of each area, to begin to address whether these regions are subcomponents of a greater hippocampal structure or independent entities with distinct contributions to physiology and disease. Early evidence supports that the CA2-FC-IG axis is indeed a cohesive network unified by shared molecular and anatomical profiles, although regional differences in structure and function need to be taken into account. Notably, transcriptomics has revealed multiple subclusters within this complex of structures with no region-specific cell types, raising the need to understand whether cell types or anatomical subfields are the main functional units of this system. This conceptualization of these noncanonical hippocampal areas as a unified, multifaceted system raises many questions discussed here, along with the need for coordinated investigation across regions in future work.",
-      "date": "2026-11-11",
-      "url": "https://doi.org/10.1523/jneurosci.1200-26.2026",
-      "authors": [
-        "Farrell JS",
-        "Esfahany KN",
-        "Kandemir B",
-        "Alexander GM",
-        "Dudek SM",
-        "Incontro S",
-        "Nguyen QA",
-        "Vélez González HN"
-      ],
-      "venue": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
-      "provider": "Europe PMC",
-      "doi": "10.1523/jneurosci.1200-26.2026",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Medicine",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Medicine",
-        "Biology"
-      ],
-      "category_confidence": 0.39,
-      "classification_evidence": [
-        "abstract:disease"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
       "id": "10.1523/jneurosci.1196-26.2026",
       "title": "Illuminating the Diversity of Electrical Synapse Form and Function.",
       "abstract": "While the nervous system is organized by two main types of connections between neurons, electrical and chemical synapses, most studies focus upon the contribution of the molecularly complex and functionally diverse chemical synapse. Electrical synapses, in contrast, are perceived as simple, neuronal gap junction channels between contacts, often thought to be replaced in early development by more sophisticated chemical synapses. However, recent work and new tools push for the redefining of electrical synapse molecular architecture and function to allow for an updated interpretation of their ongoing contributions to neural circuit formation and function. Here, we describe fresh insight into neuronal gap junction structure, function, and molecular composition within invertebrate (nematodes, drosophila) and vertebrate (zebrafish, rabbit, rodent) model organisms across a variety of time periods and brain regions. Through molecular, genetic, connectomic, and functional explorations, our results argue for a new appreciation of electrical synapse heterogeneity. Based on these and other points of emerging new evidence, we argue for increased consideration of electrical synapses as complex and diverse structures which interact with chemical synapses to drive circuit formation and function.",
@@ -60346,54 +61198,6 @@
       "has_citation_metadata": false
     },
     {
-      "id": "10.1523/jneurosci.1351-26.2026",
-      "title": "Glial Regulation of Motor Circuit Formation, Function, and Regeneration.",
-      "abstract": "From simple planaria to humans, proper assembly and maintenance of motor circuits is key to organismal survival. Each year, ∼250,000-500,000 individuals suffer a spinal cord injury with little hope of successful recovery. Moreover, motor circuits are a primary target of prevalent neurodegenerative conditions like ALS and Parkinson's disease. Thus, understanding the mechanisms that build, maintain, and rebuild motor circuits is of substantial clinical interest. Recent data indicate that glia, a heterogeneous group of non-neuronal cells within the nervous system, directly communicate with neurons to tune motor circuit dynamics. We now know glia are often active drivers of neural development and pathology, rather than passive bystanders. This mini-review will highlight recent advances in our understanding of how diverse glial cell types promote proper construction, function, and deconstruction of the key circuits that drive motor behavior.",
-      "date": "2026-11-11",
-      "url": "https://doi.org/10.1523/jneurosci.1351-26.2026",
-      "authors": [
-        "Ackerman SD",
-        "Fontenas L"
-      ],
-      "venue": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
-      "provider": "Europe PMC",
-      "doi": "10.1523/jneurosci.1351-26.2026",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Medicine",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Medicine"
-      ],
-      "category_confidence": 0.39,
-      "classification_evidence": [
-        "abstract:disease"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
       "id": "10.1523/jneurosci.1190-26.2026",
       "title": "The Neural Correlates of Sickness.",
       "abstract": "The brain protects animals during infection by detecting immune activity, coordinating behavioral and physiological defenses, anticipating potential infectious threats, and limiting excessive inflammation. Collectively termed sickness, these centrally organized responses include changes in body temperature, activity, energy balance, appetite, fluid intake, social behavior, neuroendocrine function, and autonomic output. Rather than constituting a single uniform state, sickness is generated by distributed and partially dissociable neural pathways that translate immune signals into responses appropriate to the nature and stage of an infection. Work presented at a symposium at the 2026 Society for Neuroscience meeting highlights how humoral and cranial sensory pathways detect ongoing immune responses; how social cues, expectations, and prior experience prepare the organism for anticipated threats; and how endocrine and autonomic circuits constrain inflammation and promote recovery. Together, these findings establish the brain as an active regulator of immunity across the full course of illness.",
@@ -60440,58 +61244,6 @@
         "category_uncertain",
         "findings_not_explicit_in_abstract"
       ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1523/jneurosci.1320-26.2026",
-      "title": "Thalamic Reticular Nucleus Excitability and Cholinergic Signaling are Disrupted in a Mouse Model of Alzheimer's Disease Neuropathology.",
-      "abstract": "The thalamic reticular nucleus (TRN) forms powerful GABAergic connections with thalamic nuclei that regulate sleep, attention, and sensory processing. TRN neurons receive dense cholinergic innervation from the basal forebrain and brainstem, dynamically shaping TRN function across brain states. We previously showed reduced TRN activity and sleep deficits in amyloid precursor protein transgenic mice (APP mice), implicating TRN dysfunction as an early contributor to Alzheimer's disease (AD) pathophysiology. Here, using slice electrophysiology in mice of both sexes, we determined whether changes in intrinsic membrane properties or cholinergic synaptic transmission contribute to TRN hypoactivity in APP mice. We found that TRN neurons located in the inner core and outer shell regions undergo substantial increases in excitability after the first postnatal month. In mature animals, core neurons exhibited higher firing rates and diverse firing patterns, including persistent firing, whereas shell neurons fired at lower rates and displayed more homogeneous firing patterns without persistent activity. Firing diversity in core neurons was mediated in part by low-threshold T-type Ca²⁺ channels. Cholinergic synaptic activation, mediated predominantly by basal forebrain afferents, produced biphasic excitatory-inhibitory postsynaptic responses in both core and shell neurons, with the ratio of postsynaptic excitation and inhibition varying across postsynaptic targets. Overall, cholinergic activation suppressed TRN firing. In APP mice, core neurons showed reduced intrinsic excitability and cholinergic afferents evoked postsynaptic responses with a larger muscarinic receptor-mediated inhibitory component, leading to delayed TRN firing. Together, these findings identify both intrinsic and cholinergic synaptic mechanisms that may contribute to TRN dysfunction during early AD. Significance Statement Alzheimer's disease (AD) is typically diagnosed after cognitive symptoms emerge when treatments are less effective, highlighting the need to understand preclinical disease mechanisms. Cholinergic signaling and slow-wave sleep are disrupted before symptom onset, but the mechanisms underlying these changes remain poorly understood. Because the thalamic reticular nucleus (TRN) receives strong cholinergic input and mediates sleep-related rhythms, it is well positioned to contribute to early AD pathophysiology. We previously found reduced TRN activity and disrupted sleep in an AD mouse model. Here, we show that intrinsic excitability and cholinergic synaptic signaling are altered in TRN neurons during preclinical AD. These changes may contribute to thalamic dysfunction and sleep disturbances, providing a potential circuit mechanism linking early AD pathology to disease progression.",
-      "date": "2026-11-11",
-      "url": "https://doi.org/10.1523/jneurosci.1320-26.2026",
-      "authors": [
-        "Rivera-Ramirez N",
-        "O'Malley JJ",
-        "Jagirdar R",
-        "Campbell JR",
-        "Silva-Pérez M",
-        "Stephens GS",
-        "Chin J",
-        "Beierlein M"
-      ],
-      "venue": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
-      "provider": "Europe PMC",
-      "doi": "10.1523/jneurosci.1320-26.2026",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Medicine",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Medicine"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "title:disease",
-        "abstract:disease"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "We found that TRN neurons located in the inner core and outer shell regions undergo substantial increases in excitability after the first postnatal month.",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [],
       "evidence_label": "Publication record / review unverified",
       "has_abstract": true,
       "has_doi": true,
@@ -60686,159 +61438,6 @@
         "question": "",
         "method": "",
         "findings": "We observed aberrant elevation of the mGluR5-NR2B interactions in the striatum of 6-hydroxydopamine (6-OHDA)-lesioned parkinsonian rats exhibiting LID.",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1016/j.expneurol.2026.116124",
-      "title": "Disease-modifying therapies in development for post-traumatic epilepsy.",
-      "abstract": "Post-traumatic epilepsy (PTE) is a chronic neurological disorder that develops following traumatic brain injury (TBI), a condition affecting nearly 69 million people worldwide. PTE accounts for 20% of acquired epilepsies and is characterized by spontaneous recurrent seizures and long-term neurological deficits. Current antiseizure medications primarily suppress early seizures but do not prevent epileptogenesis or improve neurological dysfunction. This review critically evaluates the current landscape of disease-modifying therapies for PTE with an emphasis on pathophysiological basis, therapeutic pipeline and challenges in developing antiepileptogenic drugs for preventing PTE and improving long-term neurological outcomes after TBI. Epileptogenesis following TBI is driven by dynamic interactions among neuronal, glial, vascular, immune, metabolic, and epigenetic pathways that evolve from the acute injury phase through the latent period to chronic epilepsy. Consequently, therapeutic interventions differ in optimal timing and target objectives of acute neuroprotection, prevention of epileptogenesis, or modification of established epilepsy and its comorbidities. Promising disease-modifying approaches include epigenetic modulators, anti-inflammatory & immunomodulatory agents, JAK-STAT inhibitors, mTOR inhibitors, antioxidant & mitochondrial-targeted therapies, tau-directed interventions, adenosine augmentation, neurosteroids, and regenerative cell-based therapies. Among these, epigenetic therapy targeting histone deacetylases has emerged as a particularly attractive strategy. Pharmacological inhibition of histone deacetylase has demonstrated robust disease-modifying effects in experimental PTE by normalizing aberrant histone deacetylase activity, suppressing neuroinflammation, reducing seizure burden, and attenuating biomarkers of epileptogenic progression. Despite multiple approaches in development, no therapy has yet demonstrated clinical efficacy for preventing human PTE. Major translation barriers include the heterogeneity of PTE, limitations of experimental models, inconsistent biomarker validation, and challenges in clinical studies. Future progress will require standardized paradigms, rigorous preclinical evaluation, biomarker-guided clinical trials, and optimization of disease-modifying therapies capable of preventing epilepsy and improving long-term neurological outcomes after brain injury.",
-      "date": "2026-11-11",
-      "url": "https://doi.org/10.1016/j.expneurol.2026.116124",
-      "authors": [
-        "Reddy DS"
-      ],
-      "venue": "Experimental neurology",
-      "provider": "Europe PMC",
-      "doi": "10.1016/j.expneurol.2026.116124",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Medicine",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Medicine"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "title:disease",
-        "abstract:disease"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "Future progress will require standardized paradigms, rigorous preclinical evaluation, biomarker-guided clinical trials, and optimization of disease-modifying therapies capable of preventing epilepsy and improving long-term neurological outcomes after brain injury.",
-        "findings": "",
-        "limitations": "Major translation barriers include the heterogeneity of PTE, limitations of experimental models, inconsistent biomarker validation, and challenges in clinical studies.",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1053/j.ajkd.2026.07.018",
-      "title": "The Burden of Occult Cerebrovascular Disease in CKD: A Scoping Review.",
-      "abstract": "Rationale & objective Occult cerebrovascular diseases (OCCD) including extracranial and intracranial atherosclerotic disease (ECAD and ICAD) and cerebral small vessel disease (CSVD) are asymptomatic cerebrovascular abnormalities associated with future risk of stroke and dementia. Although chronic kidney disease (CKD) is strongly associated with adverse brain health outcomes, the breadth of evidence regarding OCCD in people with CKD has not been comprehensively characterized. This scoping review summarizes the available literature on OCCD among adults with CKD without clinically overt cerebrovascular disease. Sources of evidence PubMed, EMBASE, Web of Science, and Scopus were searched for studies published between January 2000 and July 2025. Eligibility criteria Peer-reviewed studies reporting the frequency or characteristics of OCCD manifestations in adults with CKD without a known history of stroke or transient ischemic attack. Charting methods Two reviewers independently screened studies and extracted data on study characteristics, CKD definitions, neuroimaging modalities, and reported OCCD findings. Methodological quality was assessed using a modified Newcastle-Ottawa Scale. Results Forty-six studies comprising 5,153 participants with CKD were included. Study populations varied substantially with respect to CKD stage, dialysis status, study design, and imaging methodology. Two studies evaluating ICAD reported moderate-to-severe intracranial stenosis in approximately one-quarter of participants with CKD. Across studies evaluating ECAD, the frequency of significant extracranial carotid stenosis ranged from approximately 3% in patients with non-dialysis-dependent CKD to 28% among patients receiving dialysis. Thirty-eight studies evaluated manifestations of CSVD, including cerebral microbleeds, silent cerebral infarctions, white matter hyperintensities, and enlarged perivascular spaces. Several studies suggested a greater burden of CSVD manifestations among patients with advanced CKD or dialysis dependence. Reported frequencies varied considerably across studies. Limitations Considerable heterogeneity in study populations, CKD definitions, imaging protocols, and outcome ascertainment methods limited direct comparison across studies. Conclusions Occult cerebrovascular abnormalities are frequently reported across diverse CKD populations, particularly among patients with advanced kidney disease. Variation in the prevalence of abnormalities may reflect differences in CKD severity, participant characteristics, neuroimaging protocols, and outcome definitions. These findings highlight the need for standardized neuroimaging approaches and prospective studies to better characterize the clinical implications of OCCD in CKD.",
-      "date": "2026-11-11",
-      "url": "https://doi.org/10.1053/j.ajkd.2026.07.018",
-      "authors": [
-        "Vasaghi-Gharamaleki M",
-        "Jazayeri SB",
-        "Pillai A",
-        "Johansen KL",
-        "Murray AM",
-        "Sedaghat S",
-        "Sabayan B"
-      ],
-      "venue": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
-      "provider": "Europe PMC",
-      "doi": "10.1053/j.ajkd.2026.07.018",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Medicine",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Medicine"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "title:disease",
-        "abstract:disease"
-      ],
-      "explanation": {
-        "question": "Rationale & objective Occult cerebrovascular diseases (OCCD) including extracranial and intracranial atherosclerotic disease (ECAD and ICAD) and cerebral small vessel disease (CSVD) are asymptomatic cerebrovascular abnormalities associated with future risk of stroke and dementia.",
-        "method": "Two studies evaluating ICAD reported moderate-to-severe intracranial stenosis in approximately one-quarter of participants with CKD.",
-        "findings": "",
-        "limitations": "Limitations Considerable heterogeneity in study populations, CKD definitions, imaging protocols, and outcome ascertainment methods limited direct comparison across studies.",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1016/j.canlet.2026.218960",
-      "title": "TAT-Cx43<sub>266-283</sub> limits recurrence-associated features and improves survival after tumor resection in preclinical glioblastoma models.",
-      "abstract": "Glioblastoma (GBM) remains an incurable disease with an extremely poor prognosis. Tumor resection represents a first-line treatment when possible, but most patients suffer tumor recurrence, the primary cause of mortality. One of the functions of connexin43 (Cx43), a gap junction-forming subunit that also has a role in channel-independent signaling, is the inhibition of Src, an oncoprotein involved in tumor progression and recurrence. We previously developed a Cx43 mimetic peptide TAT-Cx43 266-283 that recapitulates the inhibition of Src and exerts antitumor effects in patient-derived and mouse in vitro and in vivo models, and here we aimed to explore its effect in GBM recurrence. Analysis of clinical datasets shows a marked increase of Src activity after the standard of care treatments, suggesting that targeting Src activity could prevent GBM recurrence. Importantly, we found that the combination of tumor resection and TAT-Cx43 266-283 extended survival in two syngeneic, immunocompetent GBM resection models, which recapitulated key complementary histological features of GBM. TAT-Cx43 266-283 in combination with tumor resection increased tumor cell apoptosis and decreased important hallmarks of GBM recurrence by targeting the specific dominant features in each model, such as aberrant vascularization or tumor infiltration. These effects occurred alongside the recruitment of tumor-associated macrophages and microglia (TAMs) to tumor border and their shift towards an antitumor phenotype. Our findings suggest the possible involvement of the immune system in the antitumor effects of TAT-Cx43 266-283 and reveal the efficacy and safety of the intracavitary application of TAT-Cx43 266-283 after tumor resection, supporting its potential in a clinical setting.",
-      "date": "2026-11-11",
-      "url": "https://doi.org/10.1016/j.canlet.2026.218960",
-      "authors": [
-        "Álvarez-Vázquez A",
-        "Martínez-Fernández M",
-        "Jiménez-Madrona E",
-        "Volovetz J",
-        "Fraile-Martín S",
-        "Chan SE",
-        "González-Sánchez R",
-        "Kay KE"
-      ],
-      "venue": "Cancer letters",
-      "provider": "Europe PMC",
-      "doi": "10.1016/j.canlet.2026.218960",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Medicine",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Medicine"
-      ],
-      "category_confidence": 0.39,
-      "classification_evidence": [
-        "abstract:disease"
-      ],
-      "explanation": {
-        "question": "We previously developed a Cx43 mimetic peptide TAT-Cx43 266-283 that recapitulates the inhibition of Src and exerts antitumor effects in patient-derived and mouse in vitro and in vivo models, and here we aimed to explore its effect in GBM recurrence.",
-        "method": "",
-        "findings": "Our findings suggest the possible involvement of the immune system in the antitumor effects of TAT-Cx43 266-283 and reveal the efficacy and safety of the intracavitary application of TAT-Cx43 266-283 after tumor resection, supporting its potential in a clinical setting.",
         "limitations": "",
         "why_it_matters": "",
         "basis": "extractive_abstract",
@@ -61233,57 +61832,6 @@
       },
       "quality_flags": [
         "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1016/j.neuroscience.2026.11.018",
-      "title": "From insulin resistance to neurovascular breakdown: mTOR signaling as a convergence point in Alzheimer's disease.",
-      "abstract": "Alzheimer's disease (AD), the leading cause of dementia, is increasingly recognized as a metabolic disorder characterized by disrupted insulin and insulin-like growth factor-1 signaling in the brain, a concept now referred to as type 3 diabetes. Central to this perspective is the insulin receptor substrate-1/phosphoinositide 3-kinase/protein kinase B/mechanistic target of rapamycin (IRS-1/PI3K/Akt/mTOR) cascade, which acts as the primary convergence point linking systemic insulin resistance to neurodegeneration. Impaired insulin signaling in astrocytes, neurons, microglia, and cerebral endothelial cells disrupts glucose metabolism, energy production, and amyloid-β (Aβ) clearance, while promoting tau hyperphosphorylation through glycogen synthase kinase-3β activation. Chronic mTOR hyperactivation exacerbates these dysfunctions by suppressing autophagy, impairing insulin sensitivity, and compromising blood-brain barrier (BBB) integrity through tight junction disassembly, pericyte loss, and endothelial senescence. These processes collectively establish a self-perpetuating cycle of metabolic dysfunction, protein aggregation, neuroinflammation, and vascular breakdown. Neuron-derived extracellular vesicles have emerged as a promising non-invasive biomarker platform for monitoring central insulin resistance and therapeutic response in real time. Metabolically targeted interventions, including intranasal insulin, glucagon-like peptide-1 receptor agonists, and mTOR inhibitors such as rapamycin, demonstrate encouraging preclinical and early clinical efficacy in restoring insulin sensitivity, reducing tau and Aβ pathology, and preserving BBB function. However, challenges related to delivery and dosing remain significant barriers to clinical translation. Continued investigation into neurovascular unit and multi-target combination therapies may facilitate the development of effective, biomarker-guided treatments for AD.",
-      "date": "2026-11-11",
-      "url": "https://doi.org/10.1016/j.neuroscience.2026.11.018",
-      "authors": [
-        "Sharma C",
-        "Basak M",
-        "Dhungel A",
-        "Hazam PK",
-        "Deka T"
-      ],
-      "venue": "Neuroscience",
-      "provider": "Europe PMC",
-      "doi": "10.1016/j.neuroscience.2026.11.018",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Medicine",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Medicine"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "title:disease",
-        "abstract:disease"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
         "findings_not_explicit_in_abstract"
       ],
       "evidence_label": "Publication record / review unverified",
@@ -103316,1019 +103864,6 @@
       },
       "quality_flags": [
         "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": true
-    },
-    {
-      "id": "10.4018/979-8-3693-6492-5.ch012",
-      "title": "Technological Frontiers in Animal Ecology and Conservation",
-      "abstract": "The accelerating biodiversity crisis requires innovative technologies to better understand and conserve animal populations and their habitats. This chapter explores how advances in remote sensing, artificial intelligence (AI), genomics, and bio-logging are transforming animal ecology and wildlife conservation. AI-powered remote sensing enables large-scale monitoring of habitat degradation, species distribution, population abundance, and illegal activities such as poaching. Genomic approaches provide non-invasive tools to assess genetic diversity, population connectivity, and detect elusive species. Bio-logging technologies generate detailed information on animal movement, behavior, health, and responses to environmental change. Despite these advances, widespread adoption is constrained by high costs, technical expertise requirements, and challenges in integrating diverse datasets. Standardized, collaborative, and cost-effective approaches are essential to translate these technologies into proactive and effective conservation strategies.",
-      "date": "2026-11-06",
-      "url": "https://doi.org/10.4018/979-8-3693-6492-5.ch012",
-      "authors": [
-        "Hansa Gul",
-        "Zahida Nasreen",
-        "Iqra Javed",
-        "Muhammad Umar Khan"
-      ],
-      "venue": "IGI Global eBooks",
-      "provider": "OpenAlex",
-      "doi": "10.4018/979-8-3693-6492-5.ch012",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Environment",
-      "source_topics": [
-        "Environmental Science",
-        "Wildlife Ecology and Conservation",
-        "Conservation, Ecology, Wildlife Education",
-        "Environmental DNA in Biodiversity Studies"
-      ],
-      "open_access": false,
-      "references": [
-        "https://openalex.org/W1889345310",
-        "https://openalex.org/W1975951935",
-        "https://openalex.org/W1986673759",
-        "https://openalex.org/W2040057823",
-        "https://openalex.org/W2055032654",
-        "https://openalex.org/W2109240323",
-        "https://openalex.org/W2170244367",
-        "https://openalex.org/W2462537849",
-        "https://openalex.org/W2491840642",
-        "https://openalex.org/W2507785638",
-        "https://openalex.org/W2621094631",
-        "https://openalex.org/W2756596096",
-        "https://openalex.org/W2759134929",
-        "https://openalex.org/W2802282671",
-        "https://openalex.org/W2910700109",
-        "https://openalex.org/W2920205809",
-        "https://openalex.org/W2952919268",
-        "https://openalex.org/W3030806230",
-        "https://openalex.org/W3131388338",
-        "https://openalex.org/W3135232378",
-        "https://openalex.org/W3154570199",
-        "https://openalex.org/W3169685355",
-        "https://openalex.org/W3204895032",
-        "https://openalex.org/W3207627039",
-        "https://openalex.org/W3212592475",
-        "https://openalex.org/W3216538500",
-        "https://openalex.org/W4200212377",
-        "https://openalex.org/W4226018123",
-        "https://openalex.org/W4244272033",
-        "https://openalex.org/W4283796555",
-        "https://openalex.org/W4378576247",
-        "https://openalex.org/W4389471010",
-        "https://openalex.org/W4399732075",
-        "https://openalex.org/W4402496634",
-        "https://openalex.org/W4403105093",
-        "https://openalex.org/W4404265081",
-        "https://openalex.org/W4407918182"
-      ],
-      "openalex_id": "https://openalex.org/W7225401800",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Environment"
-      ],
-      "category_confidence": 0.79,
-      "classification_evidence": [
-        "title:conservation",
-        "abstract:biodiversity",
-        "source:environmental science"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": true
-    },
-    {
-      "id": "10.3389/fenvs.2026.1945868",
-      "title": "From welfare to the environment: social policy, natural resources, and ecological sustainability in G20 economies",
-      "abstract": "Ecological degradation has emerged as a critical challenge to achieving sustainable development, particularly in G20 economies where economic growth, social welfare objectives, and environmental constraints frequently interact. Using annual data for 17 G20 countries over 2000–2021, this study examines the effects of social welfare (SCWF), economic policy uncertainty (ECPX), trade openness (TROP), life expectancy (LIEX), natural resource rents (NARN), and tourism (TRSM) on ecological footprints (ECFP). Employing a Pooled Mean Group–Autoregressive Distributed Lag (PMG-ARDL) model, the analysis captures both short-run dynamics and long-run equilibrium relationships while accounting for cross-sectional dependence and heterogeneity across countries. The findings reveal that natural resource rents and social welfare expansion significantly increase ecological footprints, indicating that resource-intensive development and consumption-oriented welfare systems can undermine environmental sustainability. Life expectancy and economic policy uncertainty are negatively associated with ecological footprints. These estimates do not establish causal effects or demonstrate the influence of environmental regulation, which is not measured in the model. Trade openness exerts mixed effects, increasing environmental pressure in the short run but promoting ecological sustainability in the long run, whereas tourism consistently intensifies ecological degradation. These findings highlight the complex trade-offs between economic prosperity, social progress, and environmental protection in G20 economies. From an SDG perspective, the results provide important implications for achieving SDG 8 (Decent Work and Economic Growth), SDG 12 (Responsible Consumption and Production), SDG 13 (Climate Action), and SDG 15 (Life on Land). The study advocates integrated policy frameworks that promote sustainable resource management, environmentally responsible tourism, and balanced welfare strategies to support long-term ecological resilience and sustainable development.",
-      "date": "2026-11-06",
-      "url": "https://doi.org/10.3389/fenvs.2026.1945868",
-      "authors": [
-        "Weiyu He",
-        "Martijn Sander"
-      ],
-      "venue": "Frontiers in Environmental Science",
-      "provider": "OpenAlex",
-      "doi": "10.3389/fenvs.2026.1945868",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Environment",
-      "source_topics": [
-        "Economics, Econometrics and Finance",
-        "Energy, Environment, Economic Growth",
-        "Sustainable Development and Environmental Policy",
-        "Environmental Impact and Sustainability"
-      ],
-      "open_access": true,
-      "references": [
-        "https://openalex.org/W618876054",
-        "https://openalex.org/W1543166152",
-        "https://openalex.org/W2412249060",
-        "https://openalex.org/W2597377019",
-        "https://openalex.org/W2724986845",
-        "https://openalex.org/W2731430890",
-        "https://openalex.org/W2886958756",
-        "https://openalex.org/W2899497913",
-        "https://openalex.org/W2902894908",
-        "https://openalex.org/W2936368213",
-        "https://openalex.org/W2945048691",
-        "https://openalex.org/W2949060443",
-        "https://openalex.org/W2950881370",
-        "https://openalex.org/W2951823637",
-        "https://openalex.org/W2971758867",
-        "https://openalex.org/W2981159874",
-        "https://openalex.org/W2992022098",
-        "https://openalex.org/W3004337982",
-        "https://openalex.org/W3014470223",
-        "https://openalex.org/W3016453396",
-        "https://openalex.org/W3024235545",
-        "https://openalex.org/W3027161249",
-        "https://openalex.org/W3033668293",
-        "https://openalex.org/W3035232193",
-        "https://openalex.org/W3036597228",
-        "https://openalex.org/W3038211404",
-        "https://openalex.org/W3040498480",
-        "https://openalex.org/W3080253822",
-        "https://openalex.org/W3081349475",
-        "https://openalex.org/W3081441813",
-        "https://openalex.org/W3083536041",
-        "https://openalex.org/W3084088864",
-        "https://openalex.org/W3088117561",
-        "https://openalex.org/W3088423943",
-        "https://openalex.org/W3091063923",
-        "https://openalex.org/W3095373171",
-        "https://openalex.org/W3095694836",
-        "https://openalex.org/W3103477070",
-        "https://openalex.org/W3106853833",
-        "https://openalex.org/W3122418679",
-        "https://openalex.org/W3122427787",
-        "https://openalex.org/W3126081245",
-        "https://openalex.org/W3128104549",
-        "https://openalex.org/W3135712022",
-        "https://openalex.org/W3137905081",
-        "https://openalex.org/W3161561427",
-        "https://openalex.org/W3174581812",
-        "https://openalex.org/W3175333695",
-        "https://openalex.org/W3193868992",
-        "https://openalex.org/W3206232867",
-        "https://openalex.org/W3214764155",
-        "https://openalex.org/W4200027323",
-        "https://openalex.org/W4200272620",
-        "https://openalex.org/W4210399704",
-        "https://openalex.org/W4213030720",
-        "https://openalex.org/W4220953135",
-        "https://openalex.org/W4235571227",
-        "https://openalex.org/W4236964980",
-        "https://openalex.org/W4243164716",
-        "https://openalex.org/W4283261808",
-        "https://openalex.org/W4283363751",
-        "https://openalex.org/W4289520131",
-        "https://openalex.org/W4318761820",
-        "https://openalex.org/W4320403988",
-        "https://openalex.org/W4321485627",
-        "https://openalex.org/W4327599681",
-        "https://openalex.org/W4361222149",
-        "https://openalex.org/W4365136681",
-        "https://openalex.org/W4391618339",
-        "https://openalex.org/W4391887621",
-        "https://openalex.org/W4392672796",
-        "https://openalex.org/W4392948512",
-        "https://openalex.org/W4399177197",
-        "https://openalex.org/W4401284428",
-        "https://openalex.org/W4403517000",
-        "https://openalex.org/W4405860101",
-        "https://openalex.org/W4406497031",
-        "https://openalex.org/W4406681955",
-        "https://openalex.org/W4409342342",
-        "https://openalex.org/W7125985303",
-        "https://openalex.org/W7156721510",
-        "https://openalex.org/W7157668714",
-        "https://openalex.org/W7163146203"
-      ],
-      "openalex_id": "https://openalex.org/W7225403052",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Environment",
-        "Society"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "title:ecological",
-        "abstract:ecological"
-      ],
-      "explanation": {
-        "question": "Using annual data for 17 G20 countries over 2000–2021, this study examines the effects of social welfare (SCWF), economic policy uncertainty (ECPX), trade openness (TROP), life expectancy (LIEX), natural resource rents (NARN), and tourism (TRSM) on ecological footprints (ECFP).",
-        "method": "",
-        "findings": "The findings reveal that natural resource rents and social welfare expansion significantly increase ecological footprints, indicating that resource-intensive development and consumption-oriented welfare systems can undermine environmental sustainability.",
-        "limitations": "Using annual data for 17 G20 countries over 2000–2021, this study examines the effects of social welfare (SCWF), economic policy uncertainty (ECPX), trade openness (TROP), life expectancy (LIEX), natural resource rents (NARN), and tourism (TRSM) on ecological footprints (ECFP).",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": true
-    },
-    {
-      "id": "10.30546/224578.012.2026.583",
-      "title": "Critical Raw Materials in the Investment Spotlight: Commitments of Foreign Investors and Azerbaijan’s Regulatory Perspective",
-      "abstract": "In recent years, the primary focus of international political debates has been on raw materials essential for economic development.The demand for raw materials critical to the production of modern technological tools, such as cobalt, platinum and lithium, is increasing globally.In general, the processing, development and production of critical raw materials constitute stages of the supply chain and are carried out over a long period, involving enormous investment.For this reason, the intention of foreign investors to make large profits in a short period of time leads to a careless approach to internationally accepted requirements, such as respect for human life, health and the environment.In particular, the dependence of developing countries' economies on these investments leads to a \"turning a blind eye\" to such violations in those countries and, as a result, to violations of many international obligations assumed by states.Based on the above, the \"sustainable\" development of the critical raw materials sector is significant for ensuring the well-being of the local population and protecting the environment.This article examines the obligations of foreign investors in this sector and analyzes, in detail, international experience.At the same time, the Critical Raw Materials Act and other European Union documents, which provide the most detailed regulations in this area, are reviewed with respect to their scope of application, the entities they regulate and the obligations they impose on investors and relevant gaps are identified.Additionally, the article examines the availability of critical raw materials in the Republic of Azerbaijan, the regulation of the investment climate in this area and the legal obligations of foreign investors. AnnotasiyaSon dövrlərdə beynəlxalq siyasi mübahisələrin əsas mərkəzində iqtisadi inkişaf üçün həyati əhəmiyyət daşıyan xammallar dayanır.Kobalt, platinium, litium kimi müasir texnoloji alətlərin istehsalında kritik dərəcədə önəmli xammallara tələbat qlobal səviyyədə artmaqdadır.Ümumilikdə, kritik xammalların emalı, işlənməsi və istehsalatı təchizat zəncirinin mərhələlərini təşkil edir və uzun müddətə, külli miqdarda investisiyaların cəlbi ilə həyata keçirilməkdədir.Bu səbəblə xarici investorların qısa dövr ərzində böyük mənfəət əldə etmək niyyəti onların insan həyat və sağlamlığına hörmət, ətraf mühitin mühafizəsi kimi beynəlxalq sferada qəbul edilmiş tələblərə laqeyd yanaşmasına səbəb olur.",
-      "date": "2026-11-06",
-      "url": "https://doi.org/10.30546/224578.012.2026.583",
-      "authors": [
-        "Sevil Haziyeva"
-      ],
-      "venue": "Baku State University Law Review",
-      "provider": "OpenAlex",
-      "doi": "10.30546/224578.012.2026.583",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Society",
-      "source_topics": [
-        "Social Sciences",
-        "International Arbitration and Investment Law",
-        "Mining and Resource Management",
-        "Corporate Law and Human Rights"
-      ],
-      "open_access": true,
-      "references": [],
-      "openalex_id": "https://openalex.org/W7225404381",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Society",
-        "Environment"
-      ],
-      "category_confidence": 0.5,
-      "classification_evidence": [
-        "source:social sciences"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.30649/jrkt.v8i2.165",
-      "title": "Kelimpahan epifit sebagai indikator dalam indeks ekologi kesehatan lamun: studi kasus Pantai Sanur Bali",
-      "abstract": "Seagrass ecosystems are essential components of tropical coastal environments, providing critical services such as carbon sequestration, shoreline protection, and habitat for marine biodiversity. In Indonesia, these ecosystems face increasing threats from anthropogenic activities, particularly in tourism-heavy regions like Sanur, Bali. While numerous studies have assessed seagrass cover, limited attention has been paid to the role of epiphytic communities as indicators of environmental health. This research addresses this gap by evaluating the ecological health of seagrass meadows through the Seagrass Ecological Quality Index (SEQI) and epiphyte structure across five sites in Sanur. The study aimed to determine how variations in seagrass and epiphyte characteristics reflect broader ecosystem conditions under different environmental pressures. Using a transect-quadrat method, data were collected on seagrass species richness, cover, water clarity, and the percent cover of macroalgae and epiphytes. Epiphytes were microscopically identified and classified. The findings reveal that Thalassia hemprichii, Enhalus acoroides, and Halophila ovalis dominate the region. SEQI scores ranged from 0.5669 to 0.6636, categorizing all sites as having moderate ecological condition. Bacillariophyceae dominance in Samuh reflects healthier conditions, while Cyanophyceae prevalence in other sites indicates eutrophication. This study highlights the utility of seagrass–epiphyte associations as sensitive bioindicators of ecosystem quality. The integration of SEQI and epiphyte analysis provides a cost-effective, scalable approach for monitoring shallow marine environments. These insights contribute to ecosystem-based management strategies vital for the conservation and restoration of coastal habitats in Indonesia.",
-      "date": "2026-11-06",
-      "url": "https://doi.org/10.30649/jrkt.v8i2.165",
-      "authors": [
-        "Satya Atmaja",
-        "Ida Ayu Ngurah Deepika Ishana",
-        "Alice Aprillia",
-        "Putu Galuh Wijayanti",
-        "Dwi Nafilah Hisasmita",
-        "Fawaz Maula Abdul Wazir"
-      ],
-      "venue": "Jurnal Riset Kelautan Tropis (Journal of Tropical Marine Research) (J-Tropimar)",
-      "provider": "OpenAlex",
-      "doi": "10.30649/jrkt.v8i2.165",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Biology",
-      "source_topics": [
-        "Earth and Planetary Sciences",
-        "Marine and coastal plant biology",
-        "Marine Biology and Ecology Research",
-        "Coral and Marine Ecosystems Studies"
-      ],
-      "open_access": true,
-      "references": [],
-      "openalex_id": "https://openalex.org/W7225407709",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Biology"
-      ],
-      "category_confidence": 0.79,
-      "classification_evidence": [
-        "abstract:species",
-        "source:marine and coastal plant biology",
-        "source:marine biology and ecology research"
-      ],
-      "explanation": {
-        "question": "The study aimed to determine how variations in seagrass and epiphyte characteristics reflect broader ecosystem conditions under different environmental pressures.",
-        "method": "",
-        "findings": "The findings reveal that Thalassia hemprichii, Enhalus acoroides, and Halophila ovalis dominate the region.",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.3390/d18110689",
-      "title": "Mapping Biodiversity Research on Urban Forests and Green Spaces: Conceptual and Intellectual Structures and Country-Level Collaboration",
-      "abstract": "Research at the interface of biodiversity conservation, urban forestry, and urban green space spans ecology, forestry, landscape planning, environmental management, and public health, making its intellectual structure difficult to apprehend through narrative review alone. This study maps a corpus of 3747 documents published from 2006 to 17 August 2026, retrieved from the OpenAlex API on 13 October 2026 after integrity checking and deduplication. Performance analysis, country-level collaboration networks, lexical co-occurrence on titles and abstracts (abstract coverage 82.6% after supplementation), strategic mapping, thematic evolution, co-citation, and bibliographic coupling were computed with scripts released with the article; stochastic community partitions were evaluated over 200 seeded runs. Across the complete years 2006–2025, retrieved annual output increased at a compound annual rate of 15.89%. The corpus spans 1316 journals and affiliations in 124 countries. China leads publication output, whereas Germany and the USA occupy the strongest brokerage positions in the collaboration network. Author-derived text resolves six lexical clusters (modularity = 0.442), in which health and planning vocabulary joins climate and green-infrastructure terms and carbon vocabulary joins tree and plant species, and co-citation of the 200 most cited references identifies six communities (modularity = 0.507). More than half of the corpus (54.9%) enters only through green-space terms, and removing these documents changes the lexical partition substantially; a replica of a prior green-space mapping shows that urban-forestry terms distinguish the corpus. The mapped literature is increasingly connected to climate, health, and planning agendas.",
-      "date": "2026-11-06",
-      "url": "https://doi.org/10.3390/d18110689",
-      "authors": [
-        "Lyes Rahmani",
-        "Abdelmalek Benaradj",
-        "Radia Bouarroudj",
-        "Soraya Kadri",
-        "Wided Ratiba Biara",
-        "Nassira Messafri"
-      ],
-      "venue": "Diversity",
-      "provider": "OpenAlex",
-      "doi": "10.3390/d18110689",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Environment",
-      "source_topics": [
-        "Environmental Science",
-        "Urban Arborization and Environmental Studies",
-        "Urban Green Space and Health",
-        "scientometrics and bibliometrics research"
-      ],
-      "open_access": true,
-      "references": [
-        "https://openalex.org/W284025563",
-        "https://openalex.org/W1486484692",
-        "https://openalex.org/W1553673002",
-        "https://openalex.org/W1993158459",
-        "https://openalex.org/W2030516572",
-        "https://openalex.org/W2066131315",
-        "https://openalex.org/W2094605934",
-        "https://openalex.org/W2095375472",
-        "https://openalex.org/W2095822147",
-        "https://openalex.org/W2097467169",
-        "https://openalex.org/W2102644839",
-        "https://openalex.org/W2109527455",
-        "https://openalex.org/W2122058323",
-        "https://openalex.org/W2130011179",
-        "https://openalex.org/W2131407644",
-        "https://openalex.org/W2131681506",
-        "https://openalex.org/W2135455887",
-        "https://openalex.org/W2150220236",
-        "https://openalex.org/W2157388519",
-        "https://openalex.org/W2159659225",
-        "https://openalex.org/W2246372546",
-        "https://openalex.org/W2287789805",
-        "https://openalex.org/W2411654968",
-        "https://openalex.org/W2487496134",
-        "https://openalex.org/W2496773367",
-        "https://openalex.org/W2555118871",
-        "https://openalex.org/W2581177395",
-        "https://openalex.org/W2739100911",
-        "https://openalex.org/W2744214446",
-        "https://openalex.org/W2755950973",
-        "https://openalex.org/W2790527616",
-        "https://openalex.org/W2791092464",
-        "https://openalex.org/W2799646770",
-        "https://openalex.org/W2812445013",
-        "https://openalex.org/W2814367405",
-        "https://openalex.org/W2897249806",
-        "https://openalex.org/W2947141751",
-        "https://openalex.org/W2964603480",
-        "https://openalex.org/W2985850470",
-        "https://openalex.org/W3005600142",
-        "https://openalex.org/W3012467893",
-        "https://openalex.org/W3023516657",
-        "https://openalex.org/W3084298360",
-        "https://openalex.org/W3114366349",
-        "https://openalex.org/W3121544722",
-        "https://openalex.org/W3139000925",
-        "https://openalex.org/W3139378816",
-        "https://openalex.org/W3153817790",
-        "https://openalex.org/W3160856016",
-        "https://openalex.org/W3163289714",
-        "https://openalex.org/W3169231528",
-        "https://openalex.org/W3216255298",
-        "https://openalex.org/W4220943807",
-        "https://openalex.org/W4283372443",
-        "https://openalex.org/W4297236455",
-        "https://openalex.org/W4303696528",
-        "https://openalex.org/W4318685275",
-        "https://openalex.org/W4318756832",
-        "https://openalex.org/W4378976350",
-        "https://openalex.org/W4384925697",
-        "https://openalex.org/W4391658149",
-        "https://openalex.org/W4391884287",
-        "https://openalex.org/W4392181048",
-        "https://openalex.org/W4396214724",
-        "https://openalex.org/W4399925940",
-        "https://openalex.org/W4399991117",
-        "https://openalex.org/W4403236901",
-        "https://openalex.org/W4404733771",
-        "https://openalex.org/W4409343438",
-        "https://openalex.org/W4409425006",
-        "https://openalex.org/W4414613015"
-      ],
-      "openalex_id": "https://openalex.org/W7225409896",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Environment"
-      ],
-      "category_confidence": 0.79,
-      "classification_evidence": [
-        "title:biodiversity",
-        "abstract:biodiversity",
-        "source:environmental science"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": true
-    },
-    {
-      "id": "10.1186/s42055-026-00130-8",
-      "title": "The impact of population growth on land-use: a system dynamics model for sustainable land-use planning in the Elgon Region of Uganda",
-      "abstract": "Land-use and land-cover change poses major environmental challenge in regions where population growth increasingly drives encroachment into ecologically sensitive landscapes. This challenge arises from the dynamics of interacting feedbacks among; demographic change, declining household land size, ecosystem degradation, and delayed institutional responses. Previous studies in the context of Uganda, have investigated these factors, either independently or in pairs, but not holistically. This study developed a system dynamics model to examine the impact of population-driven land-use dynamics in the landslide prone Elgon region of Uganda. A System dynamics method was used to simulate long-term system behaviour under alternative policy intervention scenarios for sustainable land-use planning. Results indicate that the steady increase in the number of households and decline in land per household are the dominant drivers of encroachment into wetlands and forests. Population growth drives significant conversion of natural ecosystems, with forest cover declining from 317 km² in 2020 to 247 km² (22.08%) by 2050 under business-as-usual scenario, amidst rising demand for agricultural land, housing, fuelwood, and infrastructure. Wetland follows a similar trajectory, decreasing sharply from 47.7 km² to 28.3 km² (40.67%) over the same scenario. These trends are reinforced by weak institutional capacity, limited enforcement, low community participation, and inadequate coordination among conservation actors, which collectively undermine effective policy implementation. The findings also highlight the risks of business-as-usual land management and underscore the need for strengthened institutional enforcement, and coordinated conservation interventions. By explicitly capturing feedback-driven dynamics and long-term system responses, the model offers a policy-relevant decision-support tool for evaluating alternative interventions and guiding sustainable land-use planning in population-pressured regions.",
-      "date": "2026-11-06",
-      "url": "https://doi.org/10.1186/s42055-026-00130-8",
-      "authors": [
-        "Isdore Paterson Guma",
-        "Agnes Rwashana Semwanga",
-        "Benedict Oyo",
-        "Daniel Waiswa"
-      ],
-      "venue": "Sustainable Earth Reviews",
-      "provider": "OpenAlex",
-      "doi": "10.1186/s42055-026-00130-8",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Environment",
-      "source_topics": [
-        "Environmental Science",
-        "Land Use and Ecosystem Services",
-        "Conservation, Biodiversity, and Resource Management",
-        "Complex Systems and Decision Making"
-      ],
-      "open_access": true,
-      "references": [
-        "https://openalex.org/W1630317088",
-        "https://openalex.org/W1815391834",
-        "https://openalex.org/W2018736216",
-        "https://openalex.org/W2057309252",
-        "https://openalex.org/W2058963764",
-        "https://openalex.org/W2065414659",
-        "https://openalex.org/W2100578358",
-        "https://openalex.org/W2145303294",
-        "https://openalex.org/W2167725455",
-        "https://openalex.org/W2170793689",
-        "https://openalex.org/W2296068557",
-        "https://openalex.org/W2564943392",
-        "https://openalex.org/W2734683486",
-        "https://openalex.org/W2778443766",
-        "https://openalex.org/W3024442641",
-        "https://openalex.org/W3083997656",
-        "https://openalex.org/W3136025509",
-        "https://openalex.org/W3171900300",
-        "https://openalex.org/W4211243518",
-        "https://openalex.org/W4220718869",
-        "https://openalex.org/W4248638890",
-        "https://openalex.org/W4280517788",
-        "https://openalex.org/W4283362239",
-        "https://openalex.org/W4296518591",
-        "https://openalex.org/W4307268612",
-        "https://openalex.org/W4307945569",
-        "https://openalex.org/W4308625497",
-        "https://openalex.org/W4318484857",
-        "https://openalex.org/W4389392549",
-        "https://openalex.org/W4391140764",
-        "https://openalex.org/W4392716920",
-        "https://openalex.org/W4401340096",
-        "https://openalex.org/W4402614059",
-        "https://openalex.org/W4404568629",
-        "https://openalex.org/W4408829554",
-        "https://openalex.org/W4411109551",
-        "https://openalex.org/W4411913002",
-        "https://openalex.org/W4416694835",
-        "https://openalex.org/W4417196106",
-        "https://openalex.org/W7092360511",
-        "https://openalex.org/W7158150951"
-      ],
-      "openalex_id": "https://openalex.org/W7225410202",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Environment"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "abstract:environmental",
-        "source:environmental science"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "Results indicate that the steady increase in the number of households and decline in land per household are the dominant drivers of encroachment into wetlands and forests.",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": true
-    },
-    {
-      "id": "10.29261/pakvetj/2026.226",
-      "title": "Aquatic Animal Health Management through DNA Barcoding and Morphological Identification of Labeo rohita and Cirrhinus mrigala from the River Chenab, Pakistan",
-      "abstract": "The study evaluated genetic and morphological diversity of two economically significant major carp species namely, Labeo rohita, and Cirrhinus mrigala, inhabiting the River Chenab (Chiniot Pull L1, Trimmu Barrage L2 and Head Muhammad Wala L3) Punjab, Pakistan.Fish specimens were identified structurally, and the mitochondrial COI gene sequence was utilized for genetic analysis.MEGA 11 and the K2P model were used to construct Maximum Likelihood (ML) phylogenetic trees.Using an online QR code generator, QR codes were made for accurate fish identification.With an average length of 664 base pairs (bp), 60 mitochondrial COI barcode sequences were obtained.Transitional mutations were more common than transversions.Each species showed one haplotype (H = 1), haplotype diversity (Hd) = 0.00 and nucleotide diversity (Pi) = 0.00 in the analyzed COI region.In nucleotide composition GC content (45.5%) was lower than the AT content (54.5%).The evolutionary tree showed degree of resemblance in the limit of 99% for sequences of Labeo rohita and Cirrhinus mrigala, which grouped in two clades because they were in the two genera but the same family.In the current study, DNA barcoding has demonstrated that it is a reliable approach for species identification.The molecular data generated in this study provides baseline information on species-level identification and intraspecific genetic variation of the examined carps, which may support future investigations of fish health observation, aquaculture management and fisheries monitoring.",
-      "date": "2026-11-06",
-      "url": "https://doi.org/10.29261/pakvetj/2026.226",
-      "authors": [],
-      "venue": "Pakistan Veterinary Journal",
-      "provider": "OpenAlex",
-      "doi": "10.29261/pakvetj/2026.226",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Biology",
-      "source_topics": [
-        "Agricultural and Biological Sciences",
-        "Fish Biology and Ecology Studies",
-        "Environmental DNA in Biodiversity Studies",
-        "Identification and Quantification in Food"
-      ],
-      "open_access": true,
-      "references": [
-        "https://openalex.org/W2005269734",
-        "https://openalex.org/W2025729842",
-        "https://openalex.org/W2099901798",
-        "https://openalex.org/W2171405751",
-        "https://openalex.org/W2341590406",
-        "https://openalex.org/W2742294579",
-        "https://openalex.org/W2807874223",
-        "https://openalex.org/W2925675354",
-        "https://openalex.org/W2971349506",
-        "https://openalex.org/W2982687801",
-        "https://openalex.org/W3043183638",
-        "https://openalex.org/W4210463370",
-        "https://openalex.org/W4280559215",
-        "https://openalex.org/W4378472377",
-        "https://openalex.org/W4386225820",
-        "https://openalex.org/W4391377441",
-        "https://openalex.org/W4391872937",
-        "https://openalex.org/W4401657478"
-      ],
-      "openalex_id": "https://openalex.org/W7225410807",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Biology",
-        "Business"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "abstract:species",
-        "source:fish biology and ecology studies"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": true
-    },
-    {
-      "id": "10.1017/s0030605325102391",
-      "title": "Otters appear to have declined throughout Ireland amid increased pressures on water quality, but remain ubiquitous",
-      "abstract": "Abstract Governments must report on the conservation status of species designated as protected. We assessed changes in the Near Threatened Eurasian otter Lutra lutra population throughout Ireland (the whole island) from the 1980s to the 2020s using four National Otter Surveys (6,060 sites surveyed) and citizen science data (10,980 records). In 2023–2024, otters were recorded at 65% (95% CI 62–68%) of sites in the Republic of Ireland and 66% (95% CI 58–74%) of sites in Northern Ireland. Rivers, lakes and coasts were included in the surveys. Long-term trends in the population estimate indicate a decline of 24−27% (or 3−18% after correction for negative methodological biases). Short-term trends indicated changes of −7% to +2% in the Republic of Ireland and −26% to −27% in Northern Ireland. Otters remain widespread, having been recorded in 95% of hectads (10 × 10 km squares), with no range reduction. They prefer wide, fast-flowing rivers with rocky substrates, unmaintained banks, and riparian woodlands (trees and shrubs), and are positively associated with angling (probably because of salmonid prey) but negatively with peatlands. Eleven pressures were identified, notably site disturbance, including agricultural pollution, siltation and water abstraction, which increased over time. No single pressure threatens otters nationally, but cumulative effects on water quality and ecosystems likely contributed to the decline. Future research should account for potential negative methodological biases, disaggregating detection from occupancy probability to capture the magnitude of any change more accurately, and future surveys should adopt techniques less vulnerable to biases (e.g. environmental DNA detection in water samples).",
-      "date": "2026-11-06",
-      "url": "https://doi.org/10.1017/s0030605325102391",
-      "authors": [
-        "Neil Reid",
-        "Karina Dingerkus",
-        "Richard Stone",
-        "Kendrew Colhoun",
-        "Lisa Maddox",
-        "Ferdia Marnell"
-      ],
-      "venue": "Oryx",
-      "provider": "OpenAlex",
-      "doi": "10.1017/s0030605325102391",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Environment",
-      "source_topics": [
-        "Environmental Science",
-        "Wildlife Ecology and Conservation",
-        "Ecology and biodiversity studies",
-        "Fish Ecology and Management Studies"
-      ],
-      "open_access": true,
-      "references": [
-        "https://openalex.org/W1964670816",
-        "https://openalex.org/W1982418512",
-        "https://openalex.org/W1984460384",
-        "https://openalex.org/W1989110365",
-        "https://openalex.org/W1993643238",
-        "https://openalex.org/W1995725465",
-        "https://openalex.org/W2009055995",
-        "https://openalex.org/W2021890376",
-        "https://openalex.org/W2027951447",
-        "https://openalex.org/W2051579187",
-        "https://openalex.org/W2053788905",
-        "https://openalex.org/W2075499955",
-        "https://openalex.org/W2083577756",
-        "https://openalex.org/W2103090196",
-        "https://openalex.org/W2153591546",
-        "https://openalex.org/W2158616726",
-        "https://openalex.org/W2168244002",
-        "https://openalex.org/W2399523624",
-        "https://openalex.org/W2791637375",
-        "https://openalex.org/W3007981055",
-        "https://openalex.org/W3092768445",
-        "https://openalex.org/W3119431438",
-        "https://openalex.org/W3195491842",
-        "https://openalex.org/W4226186854",
-        "https://openalex.org/W4385697442",
-        "https://openalex.org/W4386517384",
-        "https://openalex.org/W4388221460",
-        "https://openalex.org/W4390628673",
-        "https://openalex.org/W4392999372",
-        "https://openalex.org/W4393181829",
-        "https://openalex.org/W4400254780",
-        "https://openalex.org/W4401304591",
-        "https://openalex.org/W4403900033"
-      ],
-      "openalex_id": "https://openalex.org/W7225415282",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Environment"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "abstract:conservation",
-        "source:environmental science"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "Eleven pressures were identified, notably site disturbance, including agricultural pollution, siltation and water abstraction, which increased over time.",
-        "limitations": "Future research should account for potential negative methodological biases, disaggregating detection from occupancy probability to capture the magnitude of any change more accurately, and future surveys should adopt techniques less vulnerable to biases (e.g. environmental DNA detection in water samples).",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": true
-    },
-    {
-      "id": "10.1103/ggy5-dr4w",
-      "title": "Quantgraph: A receding-horizon quantum graph solver",
-      "abstract": "Dynamic programming is a cornerstone of graph-based optimization. While effective, it scales unfavorably with problem size. In this work, we present QuantGraph, a two-stage quantum-enhanced framework that casts local and global graph-optimization problems as quantum searches over discrete trajectory spaces. The solver is designed to operate efficiently by first finding a sequence of locally optimal transitions in the graph (local stage), without considering full trajectories. The accumulated cost of these transitions acts as a threshold that prunes the search space (up to 60% reduction for certain examples). The subsequent global stage, based on this threshold, refines the solution. Both stages utilize variants of the Grover-adaptive-search algorithm. To achieve scalability and robustness, we draw on principles from control theory and embed QuantGraph's global stage within a receding-horizon model-predictive-control scheme. This classical layer stabilizes and guides the quantum search, improving precision and reducing computational burden. In practice, the resulting closed-loop system exhibits robust behavior and lower overall complexity. Notably, for a fixed query budget, QuantGraph attains a 2x increase in control-discretization precision while still benefiting from Grover-search's inherent quadratic speedup compared to classical methods.",
-      "date": "2026-11-06",
-      "url": "https://doi.org/10.1103/ggy5-dr4w",
-      "authors": [
-        "Pranav Vaidhyanathan",
-        "Aristotelis Papatheodorou",
-        "David R. M. Arvidsson-Shukur",
-        "Mark T. Mitchison",
-        "Natalia Ares",
-        "Ioannis Havoutis"
-      ],
-      "venue": "Physical Review Applied",
-      "provider": "OpenAlex",
-      "doi": "10.1103/ggy5-dr4w",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "AI & Computing",
-      "source_topics": [
-        "Computer Science",
-        "Quantum Computing Algorithms and Architecture",
-        "Complexity and Algorithms in Graphs",
-        "Quantum Information and Cryptography"
-      ],
-      "open_access": true,
-      "references": [
-        "https://openalex.org/W1893161742",
-        "https://openalex.org/W2910305173",
-        "https://openalex.org/W2952684570",
-        "https://openalex.org/W4396986598",
-        "https://openalex.org/W4405785158",
-        "https://openalex.org/W4408062577",
-        "https://openalex.org/W4414843555"
-      ],
-      "openalex_id": "https://openalex.org/W7116117524",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "AI & Computing",
-        "Physics"
-      ],
-      "category_confidence": 0.59,
-      "classification_evidence": [
-        "abstract:programming",
-        "source:computer science"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": true
-    },
-    {
-      "id": "10.3847/1538-4357/ae8a42",
-      "title": "When the Shadow Meets Its Measure: Assessing the Feasibility of Submillimeter Black Hole Shadow Imaging in Megamaser-disk Active Galactic Nuclei",
-      "abstract": "Abstract Well-modeled water megamaser disks offer a path to black hole shadow (BHS) tests of strong-field gravity beyond Sgr A* and M87*: their very long baseline interferometry (VLBI) angular dynamics precisely constrains M • / D , the maser-disk orientation, and the dynamical center within the maser reference frame, thereby predicting the fiducial Schwarzschild BHS angular size without an externally adopted distance. We assess 21 megamaser galaxies as BHS targets using published maser measurements to calculate BHS angular sizes and baseline requirements. We combine new Submillimeter Array (SMA) continuum observations with archival Atacama Large Millimeter/submillimeter Array (ALMA) and Very Large Array (VLA) measurements to estimate arcsecond-scale 230 GHz flux densities and identify the strongest nuclear-region sources for higher-resolution follow-up. We also estimate the maximum dust and extended-jet contributions, examine limited variability measurements, and, for the leading candidate NGC 4258, evaluate the astrometry required to detect a spin-dependent offset between the BHS center and the maser dynamical center. Only NGC 4258 has an adopted BHS angular size resolvable with an Earth–L2 baseline; the other adopted sizes require longer baselines, while an Earth–L4/L5 separation would be sufficient for all. Five sources reach S 230 ≳ 10 mJy. However, whether the observed 230 GHz emission arises on BHS scales and is sufficiently optically thin to reveal a BHS remains unknown throughout the sample. NGC 4258’s submillimeter excess is consistent with a thin disk transitioning to an advection-dominated flow; its spin-offset test remains infeasible with present maser astrometry.",
-      "date": "2026-11-06",
-      "url": "https://doi.org/10.3847/1538-4357/ae8a42",
-      "authors": [
-        "RomanBurridge",
-        "Geoffrey C. Bower"
-      ],
-      "venue": "The Astrophysical Journal",
-      "provider": "OpenAlex",
-      "doi": "10.3847/1538-4357/ae8a42",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Physics",
-      "source_topics": [
-        "Physics and Astronomy",
-        "Astrophysical Phenomena and Observations",
-        "Galaxies: Formation, Evolution, Phenomena",
-        "Radio Astronomy Observations and Technology"
-      ],
-      "open_access": true,
-      "references": [
-        "https://openalex.org/W1611444072",
-        "https://openalex.org/W1761502999",
-        "https://openalex.org/W1851451509",
-        "https://openalex.org/W1882873716",
-        "https://openalex.org/W1882938068",
-        "https://openalex.org/W1889479808",
-        "https://openalex.org/W1970362891",
-        "https://openalex.org/W1971852876",
-        "https://openalex.org/W1973166832",
-        "https://openalex.org/W1975146052",
-        "https://openalex.org/W1978214904",
-        "https://openalex.org/W1980625659",
-        "https://openalex.org/W1981111503",
-        "https://openalex.org/W1991530383",
-        "https://openalex.org/W1992902705",
-        "https://openalex.org/W1994243387",
-        "https://openalex.org/W1998335201",
-        "https://openalex.org/W2017309675",
-        "https://openalex.org/W2025638792",
-        "https://openalex.org/W2028773653",
-        "https://openalex.org/W2029343094",
-        "https://openalex.org/W2031592379",
-        "https://openalex.org/W2032648777",
-        "https://openalex.org/W2037320091",
-        "https://openalex.org/W2041561966",
-        "https://openalex.org/W2042190859",
-        "https://openalex.org/W2048587018",
-        "https://openalex.org/W2048732533",
-        "https://openalex.org/W2049319759",
-        "https://openalex.org/W2050276909",
-        "https://openalex.org/W2051221023",
-        "https://openalex.org/W2056900218",
-        "https://openalex.org/W2062826061",
-        "https://openalex.org/W2067381051",
-        "https://openalex.org/W2068330657",
-        "https://openalex.org/W2069414247",
-        "https://openalex.org/W2072586064",
-        "https://openalex.org/W2074528146",
-        "https://openalex.org/W2081541618",
-        "https://openalex.org/W2082989180",
-        "https://openalex.org/W2084472499",
-        "https://openalex.org/W2091950275",
-        "https://openalex.org/W2095642765",
-        "https://openalex.org/W2105360599",
-        "https://openalex.org/W2120010050",
-        "https://openalex.org/W2120683449",
-        "https://openalex.org/W2121946583",
-        "https://openalex.org/W2123267088",
-        "https://openalex.org/W2124811735",
-        "https://openalex.org/W2126651226",
-        "https://openalex.org/W2140329643",
-        "https://openalex.org/W2140587776",
-        "https://openalex.org/W2146026248",
-        "https://openalex.org/W2146572000",
-        "https://openalex.org/W2155288520",
-        "https://openalex.org/W2155421027",
-        "https://openalex.org/W2159478752",
-        "https://openalex.org/W2233952683",
-        "https://openalex.org/W2342025015",
-        "https://openalex.org/W2410896803",
-        "https://openalex.org/W2473432458",
-        "https://openalex.org/W2498882777",
-        "https://openalex.org/W2518946222",
-        "https://openalex.org/W2539783130",
-        "https://openalex.org/W2624583534",
-        "https://openalex.org/W2836754761",
-        "https://openalex.org/W2962730841",
-        "https://openalex.org/W2963985183",
-        "https://openalex.org/W2967392395",
-        "https://openalex.org/W3000414701",
-        "https://openalex.org/W3020959975",
-        "https://openalex.org/W3030081457",
-        "https://openalex.org/W3036425742",
-        "https://openalex.org/W3084642752",
-        "https://openalex.org/W3095763296",
-        "https://openalex.org/W3112831814",
-        "https://openalex.org/W3122891909",
-        "https://openalex.org/W3136145875",
-        "https://openalex.org/W3157313734",
-        "https://openalex.org/W3160011729",
-        "https://openalex.org/W3192384027",
-        "https://openalex.org/W3201575894",
-        "https://openalex.org/W3208299491",
-        "https://openalex.org/W3209415222",
-        "https://openalex.org/W4200022354",
-        "https://openalex.org/W4200486006",
-        "https://openalex.org/W4200561882",
-        "https://openalex.org/W4280611431",
-        "https://openalex.org/W4285501378",
-        "https://openalex.org/W4302194178",
-        "https://openalex.org/W4306746410",
-        "https://openalex.org/W4311519013",
-        "https://openalex.org/W4312186341",
-        "https://openalex.org/W4315433660",
-        "https://openalex.org/W4324332219",
-        "https://openalex.org/W4353102942",
-        "https://openalex.org/W4377107712",
-        "https://openalex.org/W4383263485",
-        "https://openalex.org/W4383557548",
-        "https://openalex.org/W4385636356",
-        "https://openalex.org/W4388007539",
-        "https://openalex.org/W4390692926",
-        "https://openalex.org/W4393260542",
-        "https://openalex.org/W4395118052",
-        "https://openalex.org/W4399664965",
-        "https://openalex.org/W4399758615",
-        "https://openalex.org/W4401798760",
-        "https://openalex.org/W4403793250",
-        "https://openalex.org/W4406277914",
-        "https://openalex.org/W4409054379",
-        "https://openalex.org/W4410326822",
-        "https://openalex.org/W4410496902",
-        "https://openalex.org/W4416417180",
-        "https://openalex.org/W7163744508",
-        "https://openalex.org/W7223723930"
-      ],
-      "openalex_id": "https://openalex.org/W7118128532",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Physics"
-      ],
-      "category_confidence": 0.5,
-      "classification_evidence": [
-        "source:physics and astronomy"
-      ],
-      "explanation": {
-        "question": "We assess 21 megamaser galaxies as BHS targets using published maser measurements to calculate BHS angular sizes and baseline requirements.",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": true
-    },
-    {
-      "id": "10.1140/epjc/s10052-026-16547-6",
-      "title": "Tests of general relativity in pseudo-Newtonian approach",
-      "abstract": "Abstract We investigate the extent to which pseudo-Newtonian gravitational potentials can reproduce classic tests of general relativity without resorting to full general relativistic formalisms. This is useful for the researchers seeking intuitive insight into relativistic gravity. Focusing on the perihelion precession of Mercury, gravitational redshift, and gravitational light bending, we derive analytical expressions for orbital precession and demonstrate that, with suitable physically acceptable parameters, pseudo-Newtonian approaches can accurately reproduce the observed perihelion advance and gravitational redshift. However, we confirm that no single potential consistently captures all relativistic effects. In particular, while certain parameters yield agreement with general relativity for planetary motion and redshift, they fail to reproduce gravitational lensing over a broad range of impact parameters. Our results highlight both the usefulness and limitations of pseudo-Newtonian methods in modeling gravitational phenomena. Although the pseudo-Newtonian approach cannot serve as universal substitutes for general relativity, especially in strong-field regimes, it provides valuable semi-analytical insight and pedagogical simplicity. Our results indicate the usefulness of the pseudo-Newtonian approach to uncover more complicated phenomena involved with strong field gravity in possibly modification to general relativity.",
-      "date": "2026-11-06",
-      "url": "https://doi.org/10.1140/epjc/s10052-026-16547-6",
-      "authors": [
-        "Naman Goyal",
-        "Banibrata Mukhopadhyay",
-        "Ashish Kumar Meena"
-      ],
-      "venue": "The European Physical Journal C",
-      "provider": "OpenAlex",
-      "doi": "10.1140/epjc/s10052-026-16547-6",
-      "publication_type": "Journal article / research work — verify review status",
-      "category": "Physics",
-      "source_topics": [
-        "Physics and Astronomy",
-        "Relativity and Gravitational Theory",
-        "Astrophysical Phenomena and Observations",
-        "Cosmology and Gravitation Theories"
-      ],
-      "open_access": true,
-      "references": [
-        "https://openalex.org/W1634003450"
-      ],
-      "openalex_id": "https://openalex.org/W7131400377",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Physics"
-      ],
-      "category_confidence": 0.5,
-      "classification_evidence": [
-        "source:physics and astronomy"
-      ],
-      "explanation": {
-        "question": "Abstract We investigate the extent to which pseudo-Newtonian gravitational potentials can reproduce classic tests of general relativity without resorting to full general relativistic formalisms.",
-        "method": "",
-        "findings": "Our results indicate the usefulness of the pseudo-Newtonian approach to uncover more complicated phenomena involved with strong field gravity in possibly modification to general relativity.",
-        "limitations": "Our results highlight both the usefulness and limitations of pseudo-Newtonian methods in modeling gravitational phenomena.",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": true,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain"
       ],
       "evidence_label": "Publication record / review unverified",
       "has_abstract": true,
