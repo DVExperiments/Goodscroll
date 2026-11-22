@@ -582,6 +582,156 @@
       "has_citation_metadata": false
     },
     {
+      "id": "10.64898/2026.11.20.767967",
+      "title": "Unexpected Long Range Actions of AAV8",
+      "abstract": "Adeno-associated virus vectors (AAVs) have broad utility in neuroscience. A variety of features, such as titer, capsid, enhancers and promoters, coding and non-coding elements, can be utilized to pursue diverse experimental ends. The net effects of titer and capsid have been used experimentally to pursue retrograde and anterograde studies, such as through the monosynaptic spread of high-titer AAV1. The literature on AAV8 is conflicting, with evidence for and against its long-range action outside of the infected starter population. Using the mouse corticopontocerebellar tract, we report that AAV8, when used at high titers, can be associated with long range recombination outside of the starter population. This phenomenon depended upon the viral titer and was influenced by the presence of other experimental injections. Surprisingly, separate injections of high-titer AAV8 recombinase and recombinase-reporter AAV8s gave rise to recombination across long distances in populations not known to be monosynaptically connected. Given the possibility of long range and emergent effects, we suggest that investigators empirically determine titer, capsid, and injection designs that reduce false positives and/or indirect effects.",
+      "date": "2026-11-21",
+      "url": "https://doi.org/10.64898/2026.11.20.767967",
+      "authors": [
+        "Lahr JM",
+        "Ly J",
+        "Erdem E",
+        "Williams MR"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.64898/2026.11.20.767967",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Neuroscience",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Neuroscience"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:neuroscience"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.64898/2026.11.15.766608",
+      "title": "Distinct innate immune states associate with divergent serological outcomes after syphilis treatment",
+      "abstract": "The global resurgence of syphilis poses a major public health challenge, even in the era of effective antibiotic therapy. Following treatment, some patients achieve seroreversion, whereas others remain serofast with persistent nontreponemal antibody reactivity. Although nontreponemal antibody titers guide clinical follow-up, it remains unclear how closely they reflect the resolution of inflammation and recovery of immune function. We integrated single-cell transcriptomics, immunophenotyping in clinical samples, and functional assays to characterize circulating monocytes and natural killer (NK) cells across seroreversion and low- and high-titer serofast states, and further examined the impact of HIV coinfection. CD14+ monocytes retained inflammatory and CD163-associated scavenging programs after seroreversion, whereas serofast patients showed additional IFN-STAT1 activation in this subset. NK cells from serofast patients exhibited reduced JUN expression and impaired degranulation. JNK inhibition reduced the magnitude and altered the kinetics of NK cell degranulation, IFN-γ production, and amphiregulin (AREG) induction. Among low-titer serofast patients, HIV coinfection was associated with higher mitochondrial complex I gene expression and partially restored NK cell degranulation compared with patients with syphilis alone. Complex I inhibition also reduced NK cell degranulation. These findings suggest that seroreversion does not necessarily indicate immune normalization and identify post-treatment immune alterations not fully captured by conventional serological monitoring, providing a rationale for investigating cellular immune markers as complementary measures of recovery after syphilis treatment.",
+      "date": "2026-11-21",
+      "url": "https://doi.org/10.64898/2026.11.15.766608",
+      "authors": [
+        "Wei Q",
+        "Jin Y",
+        "Zhang Y",
+        "Li X",
+        "Zheng Q",
+        "Gan L",
+        "Le W",
+        "Hong A"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.64898/2026.11.15.766608",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Medicine",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Medicine",
+        "Biology"
+      ],
+      "category_confidence": 0.39,
+      "classification_evidence": [
+        "abstract:public health"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "These findings suggest that seroreversion does not necessarily indicate immune normalization and identify post-treatment immune alterations not fully captured by conventional serological monitoring, providing a rationale for investigating cellular immune markers as complementary measures of recovery after syphilis treatment.",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": true,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.21203/rs.3.rs-11377604/v1",
+      "title": "Prevalence of polyendocrine metabolic ovarian syndrome in adolescents and its association with metabolic syndrome",
+      "abstract": "Abstract INTRODUCTION: Polycystic ovarian syndrome (PCOS), currently known as polyendocrine metabolic ovarian syndrome (PMOS), is the most common endocrine problem in young women, characterized by a varied complex of metabolic and endocrine abnormalities. PMOS in adolescents is further distinguished by menstrual irregularities and hyperandrogenism which can manifest clinically and biochemically. OBJECTIVE To determine the prevalence of PMOS among adolescents in Malaysia, and to investigate its association with metabolic syndrome and other cardiometabolic risk factors. MATERIAL & METHODS This is a cross-sectional study involving adolescent girls attending public secondary schools in Peninsular Malaysia, as part of the Malaysian Health and Adolescents Longitudinal Research Study (MyHeART), using the Pediatric Endocrine Society 2015 (PES 2015) criteria, which was current at time of data collection. Data collected includes questionnaires, hirsutism self-assessment, clinical and blood parameters. RESULTS A total of 615 adolescent girls with mean age of 16.0 ± 0.2 years, and mean age of menarche 12.0 ± 1.2 years were included. The prevalence of PMOS among the sample population was 3.7% (n = 23). One in five (21.7%) adolescents with PMOS have metabolic syndrome. Adolescents with PMOS were 11 times more likely to develop metabolic syndrome compared to non-PMOS [OR 11.3 (95% CI 3.6–35.4, p",
+      "date": "2026-11-21",
+      "url": "https://doi.org/10.21203/rs.3.rs-11377604/v1",
+      "authors": [
+        "Othman E'",
+        "Sufian MSFM",
+        "Majid HA",
+        "Jalaludin MY"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.21203/rs.3.rs-11377604/v1",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Unclassified",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [],
+      "category_confidence": 0,
+      "classification_evidence": [],
+      "explanation": {
+        "question": "OBJECTIVE To determine the prevalence of PMOS among adolescents in Malaysia, and to investigate its association with metabolic syndrome and other cardiometabolic risk factors.",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
+        "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
       "id": "10.62097/417ske95",
       "title": "L(2,1)-LABELING ON SEVERAL FAMILIES OF STAR GRAPHS",
       "abstract": "This research discusses L(2,1) labeling on some families of star graphs, namely planter graphs (R_n), lilly graphs (l_n), and umbrella graphs (U_(m,n)). The L(2,1) labeling is a type of graph labeling that assigns nonnegative integer labels to each vertex of a graph such that two vertices that are one edge apart have labels that differ by at least two, and two vertices that are two edges apart have labels that differ by at least one. This study uses axiomatic descriptive methods and pattern detection in determining the minimum span value of the L(2,1) labeling, denoted as lambda_2,1(G). The results show that lambda_2,1(R_n) = n+3, lambda_2,1(l_n) = 2n+3, and lambda_2,1(U_(m,n)) = m+2. These three graphs were chosen because their L(2,1) labeling is still an open problem and has not been widely studied in previous literature. This research is expected to contribute to the development of graph labeling theory and serve as an initial reference for future researchers. A suggestion for further research is to explore the minimum value of the L(2,1) labeling range in other classes of graphs that have not yet been determined.",
@@ -18705,6 +18855,60 @@
       },
       "quality_flags": [
         "category_uncertain",
+        "findings_not_explicit_in_abstract"
+      ],
+      "evidence_label": "Publication record / review unverified",
+      "has_abstract": true,
+      "has_doi": true,
+      "has_citation_metadata": false
+    },
+    {
+      "id": "10.64898/2026.11.19.767828",
+      "title": "Genomic Characterization of a Typical Enteropathogenic Escherichia coli Isolate from an Egyptian Fruit Bat, Rousettus aegyptiacus from Coastal Kenya",
+      "abstract": "Enteropathogenic Escherichia coli (EPEC) are responsible for significant morbidity and mortality cases among young children under the age of five, particularly in low- and middle-income countries. Atypical EPEC has frequently been reported from animal hosts, however, information on the occurrence and genomic characteristics of typical EPEC in wildlife reservoirs remains limited. This study characterized an Escherichia coli isolated from an Egyptian fruit bat (Rousettus aegyptiacus) sampled in coastal Kenya using whole-genome sequencing. Oral and rectal swabs were collected from 24 bats captured in Kikambala, Kilifi County, Kenya. Bacterial isolates were cultured, sequenced on the Illumina NextSeq 1000 platform, and analyzed using a bioinformatics workflow that included in silico taxonomic classification, serotyping and multilocus sequence typing, virulence gene profiling, antimicrobial resistance gene detection, plasmid identification, and core genome phylogenetic analysis. One isolate, KIKB-471-SWR-A (O128:H6; ST15625), was classified as typical EPEC. Genomic analysis confirmed the characteristic virulence architecture of typical EPEC. Despite numerous antimicrobial resistance-associated genes being detected, the isolate remained phenotypically susceptible to all antimicrobials tested. The isolate clustered within an EPEC lineage, closely associated with a human-derived EPEC strain, and genetically distinct from both commensal and laboratory E. coli reference strains. Despite no evidence of zoonotic transmission, the findings demonstrated that wildlife can harbor E. coli lineages possessing virulence determinants associated with human pathogenic EPEC strains, underscoring the importance of genomic surveillance at wildlife?human interfaces within a One Health framework to improve the understanding of ecology, evolution, and public health significance of diarrheagenic E. coli.",
+      "date": "2026-11-20",
+      "url": "https://doi.org/10.64898/2026.11.19.767828",
+      "authors": [
+        "Kamau J",
+        "Kimemia BB",
+        "Abuom D",
+        "Agwanda B",
+        "Musila L",
+        "Odoyo E",
+        "Kivata MW",
+        "Mbae C"
+      ],
+      "venue": "",
+      "provider": "Europe PMC",
+      "doi": "10.64898/2026.11.19.767828",
+      "publication_type": "Biomedical record — verify article type and peer review",
+      "category": "Biology",
+      "source_topics": [],
+      "open_access": false,
+      "references": [],
+      "openalex_id": "",
+      "summary_basis": "abstract_metadata_only",
+      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
+      "topics": [
+        "Biology"
+      ],
+      "category_confidence": 0.59,
+      "classification_evidence": [
+        "title:genomic",
+        "abstract:genomic"
+      ],
+      "explanation": {
+        "question": "",
+        "method": "",
+        "findings": "",
+        "limitations": "",
+        "why_it_matters": "",
+        "basis": "extractive_abstract",
+        "has_explicit_findings": false,
+        "study_design_hint": "Evidence type not independently verified",
+        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
+      },
+      "quality_flags": [
         "findings_not_explicit_in_abstract"
       ],
       "evidence_label": "Publication record / review unverified",
@@ -45734,61 +45938,6 @@
         "method": "This analysis is a part of a larger ethnographic study examining vital sign monitoring in two ICUs in Vietnam, including observations, informal conversations and formal interviews with healthcare workers.",
         "findings": "",
         "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1093/jbcr/irag190",
-      "title": "Pediatric Frostbite and Cold-Weather Injuries in the United States: A Multi-Database Retrospective Analysis.",
-      "abstract": "Pediatric cold-weather injuries (frostbite and hypothermia) are uncommon but can lead to substantial morbidity, including amputation and long-term functional loss. National data on incidence, management, and outcomes are limited, particularly for fatalities outside healthcare settings. We conducted a retrospective analysis using three complementary data sources: an institutional registry at an American Burn Association-verified burn center (2018-2026), the Healthcare Cost and Utilization Project National Readmission Database (NRD 2016-2021), and the National Oceanic and Atmospheric Administration Storm Events Database (NOAA 2016-2023). Our institutional cohort included 16 patients (ages 1-17 years; 68.8% >13 years); treatments included rapid rewarming (43.8%), perfusion imaging (56.3%), thrombolytic therapy (18.8%), and hyperbaric oxygen therapy (31.3%). Two patients required amputation; both presented with hemorrhagic blisters, had delayed care, and did not receive thrombolytics. No thrombolytic-related complications were observed. Nationally, 2,155 pediatric cold weather injuries occurred; a national estimated hospitalization rate of 1.62 per 100,000. 79 pediatric frostbite admissions were identified, including 15 admissions designated as severe injury. NOAA data captured 16 pediatric deaths and 49 injuries across 30 states. Pediatric cold-weather injuries result in morbidity and mortality across diverse U.S. regions. Early aggressive management may reduce amputation and broader adoption of standardized protocols and public health prevention strategies are needed. Limitations of public health data emphasize the need for integrating diverse data sources to better understand the full impact of cold-weather injuries in the U.S.",
-      "date": "2026-11-18",
-      "url": "https://doi.org/10.1093/jbcr/irag190",
-      "authors": [
-        "Lumbard DC",
-        "Vang C",
-        "Colonna E",
-        "Tilahun R",
-        "Schmitz K",
-        "Fey R",
-        "Gayken J",
-        "Carroll J"
-      ],
-      "venue": "Journal of burn care & research : official publication of the American Burn Association",
-      "provider": "Europe PMC",
-      "doi": "10.1093/jbcr/irag190",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Medicine",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Medicine",
-        "Business"
-      ],
-      "category_confidence": 0.39,
-      "classification_evidence": [
-        "abstract:healthcare"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "We conducted a retrospective analysis using three complementary data sources: an institutional registry at an American Burn Association-verified burn center (2018-2026), the Healthcare Cost and Utilization Project National Readmission Database (NRD 2016-2021), and the National Oceanic and Atmospheric Administration Storm Events Database (NOAA 2016-2023).",
-        "findings": "",
-        "limitations": "Limitations of public health data emphasize the need for integrating diverse data sources to better understand the full impact of cold-weather injuries in the U.S.",
         "why_it_matters": "",
         "basis": "extractive_abstract",
         "has_explicit_findings": false,
@@ -82572,53 +82721,6 @@
       "has_citation_metadata": false
     },
     {
-      "id": "http://arxiv.org/abs/2611.20654v1",
-      "title": "Magnetic Power in Binaries: From Coalescing Binary Neutron Stars to Close-in Exoplanetary Systems",
-      "abstract": "A binary system containing two magnetic components (\"stars\") can be modeled as a circuit powered by the orbital motion, with the magnetic field lines linking the two stars serving as wires. When the total resistance in the binary components is small -- as found in many astrophysical systems such as binary neutron stars and extra-solar hot-Jupiter or super-Earth systems -- the connected field lines are twisted and open up in a quasi-cyclic manner, leading to quasi-periodic energy dissipation and flares. We derive analytic expressions for the average and episodic magnetic powers from such systems, providing a quantitative description on how the powers depend on the magnetic orientations of the two stars. The power can be much larger than in the case where one of the stars has a negligible magnetic field. It may manifest as pre-merger quasi-cyclic flares in coalescing neutron-star binaries and as orbit-regulated radio emissions in exoplanetary systems.",
-      "date": "2026-11-16",
-      "url": "http://arxiv.org/abs/2611.20654v1",
-      "authors": [
-        "Dong Lai",
-        "Tu Guo",
-        "Nicholas Corso"
-      ],
-      "venue": "arXiv",
-      "provider": "arXiv",
-      "doi": "",
-      "publication_type": "Preprint — peer review not established",
-      "category": "Unclassified",
-      "source_topics": [
-        "astro-ph.HE"
-      ],
-      "open_access": true,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [],
-      "category_confidence": 0,
-      "classification_evidence": [],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Preprint / not necessarily peer reviewed",
-      "has_abstract": true,
-      "has_doi": false,
-      "has_citation_metadata": false
-    },
-    {
       "id": "http://arxiv.org/abs/2611.20649v1",
       "title": "Borrowed Strength, Imported Risk: Capability Gaps and Reception Govern Heterogeneous LLM Debate",
       "abstract": "Heterogeneous LLM debate is often attributed to collective reasoning that creates capability beyond any member. In the matched panels we study, the aggregate gain is dominated by capability transfer: a peer supplies task competence and receivers absorb a measurable fraction. Across nine matched directions, honest benefit and first-exchange adversarial exposure open when the peer has a positive same-task advantage, and honest gain is closely described by the empirical decomposition $ΔA_d^{\\mathrm{hon}}\\approxκΓ_d^+ρ_d$, the product of that advantage and the receiver's reception. Two fixed-receiver directions provide held-out validation without refitting: reception remains stable within uncertainty as a larger peer advantage produces a larger gain. A matched, single-direction open-answer MuSiQue scope probe reaches the negative-gap side of the same gate. Qwen-7B trails the Gemma-3-12B receivers by 10.78 points; despite 62.50% reception, it produces only +1.17 points of controlled first-exchange gain. Reception cannot substitute for positive aggregate peer advantage. When an influential peer is assigned an adversarial role, the same influential peer slot removes the borrowed gain and can push the panel below homogeneous debate. Across all five full-reference settings, the best observed majority correctness does not exceed the influential member's best observed accuracy, despite unused complementary answers. Heterogeneous debate is therefore a measurable transfer decision with a measurable failure mode, not a benefit conferred by diversity alone.",
@@ -97182,109 +97284,6 @@
         "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
       },
       "quality_flags": [
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1186/s40364-026-01040-9",
-      "title": "Multiscale neural and endocrine control of CD8⁺ T cell fate in cancer: from systemic physiology to local immune circuits.",
-      "abstract": "CD8⁺ T cells are central cytotoxic effectors of anti-tumor immunity, but tumor-infiltrating CD8⁺ populations are functionally heterogeneous and include tumor-reactive, dysfunctional, and bystander states. Although the past decade of cancer immunology has focused largely on how local interactions within the tumor microenvironment shape these states, clinical observations linking chronic stress, sleep disruption, endocrine comorbidity, and circadian timing to immune checkpoint inhibitor (ICI) outcomes indicate that CD8⁺ T cell function is also modulated far beyond the tumor itself. In this review we adopt a whole-organism perspective to examine how autonomic and sensory neural circuits and the endocrine system act across anatomical compartments to govern CD8⁺ T cell priming, trafficking, metabolism, and exhaustion. We first analyze sympathetic, parasympathetic, and sensory neural axes as systemic effectors mediated by catecholamines, acetylcholine, neuropeptides, and brainstem-driven tone. We then examine endocrine regulation through the hypothalamic-pituitary-adrenal axis, metabolic hormones, and gonadal steroids. We integrate these axes within the tumor microenvironment, where nerve-derived signals, paracrine neuropeptides, and locally amplified glucocorticoid activity form a convergent suppressive network, and at the organismal level through stress amplification loops, sex dimorphism, gut-relayed microbial signaling, and circadian timing. Collectively, this evidence identifies neuro-endocrine signaling as an actionable, mechanistically stratified layer of systemic immune regulation and supports its evaluation as a source of biomarkers and pharmacological targets for sensitizing tumors to ICI therapy. This framework offered here is intended to bridge cancer neuroscience, endocrine oncology, and immunotherapy, and to define the criteria by which the next generation of systems-level immune sensitizers should be evaluated.",
-      "date": "2026-11-15",
-      "url": "https://doi.org/10.1186/s40364-026-01040-9",
-      "authors": [
-        "Cheng T",
-        "Li X",
-        "Yang M",
-        "Gao X",
-        "Li H",
-        "Liu C"
-      ],
-      "venue": "Biomarker research",
-      "provider": "Europe PMC",
-      "doi": "10.1186/s40364-026-01040-9",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Neuroscience",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Neuroscience"
-      ],
-      "category_confidence": 0.39,
-      "classification_evidence": [
-        "abstract:neuroscience"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
-        "findings_not_explicit_in_abstract"
-      ],
-      "evidence_label": "Publication record / review unverified",
-      "has_abstract": true,
-      "has_doi": true,
-      "has_citation_metadata": false
-    },
-    {
-      "id": "10.1523/jneurosci.0055-26.2026",
-      "title": "Heterogeneous Encoding Patterns of Dynamic Audiovisual Social Stimuli in Autism Spectrum Disorder (Heterogeneous Encoding Patterns in Autism).",
-      "abstract": "The neural basis of social difficulties in autism spectrum disorder (ASD) remains uncertain. Prior studies typically used static stimuli or reduced complex stimuli to only a few dimensions, obscuring real-world complexity. Here, we used videos with social content to engage brain networks and trained encoding models to predict brain activity from high-dimensional audio, visual, and more abstract socially relevant features (e.g., valence). We hypothesized that brain activity in autistic adults would be less accurately predicted and more heterogeneous within and across individuals than in neurotypical (NT) participants, particularly for socially relevant features. Participants [48 ASD (13 female), 90 NT (25 female)] viewed six videos (5-20 min). Brain activity was measured using fMRI. Cross-validated encoding models were assessed on prediction accuracy, variance, and pattern similarity. Brain activity was predicted significantly above chance across brain networks and videos with striking consistency between groups. Auditory and language networks were most accurately predicted. Within-participant predictions were equally variable between groups; however, autistic participants exhibited lower within-group encoding pattern similarity than NT participants and greater across-group than within-group similarity. Analyses using only socially relevant features showed the largest across-group differences in encoding pattern similarity. The novel application of encoding models to multiple videos in ASD suggests greater heterogeneity in neural representations of social information in ASD. Although group-averaged encoding accuracies were comparable across groups, ASD participants showed more heterogeneous regional encoding patterns. These idiosyncratic patterns underscore the need to incorporate individual variation in brain representations when developing translational neuroimaging approaches in autism. Significance statement Individuals with autism spectrum disorder (ASD) experience difficulties in social communication and interaction, yet the underlying neural mechanisms remain unclear. Here, we present a novel application of encoding models to neuroimaging in ASD. Neural representations of dynamic and complex social information were more heterogeneous across autistic as compared with neurotypical individuals while encoding model prediction accuracy was similar for population averages across groups. Effects were robust across six videos and spatial scales. Variability in neural representation across individuals, rather than systemic population differences, may thus be associated with atypical brain function in complex social information processing in autism. The findings highlight the importance of accounting for individual variability when studying the neurobiology of autism and developing translational neuroimaging approaches.",
-      "date": "2026-11-15",
-      "url": "https://doi.org/10.1523/jneurosci.0055-26.2026",
-      "authors": [
-        "Van De Water AL",
-        "Byrge L",
-        "Kennedy DP",
-        "Kliemann D",
-        "Traer JA"
-      ],
-      "venue": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
-      "provider": "Europe PMC",
-      "doi": "10.1523/jneurosci.0055-26.2026",
-      "publication_type": "Biomedical record — verify article type and peer review",
-      "category": "Neuroscience",
-      "source_topics": [],
-      "open_access": false,
-      "references": [],
-      "openalex_id": "",
-      "summary_basis": "abstract_metadata_only",
-      "insight": "Research discovery: this is a description from publication metadata, not an independently verified account of findings.",
-      "topics": [
-        "Neuroscience"
-      ],
-      "category_confidence": 0.39,
-      "classification_evidence": [
-        "abstract:brain activity"
-      ],
-      "explanation": {
-        "question": "",
-        "method": "Within-participant predictions were equally variable between groups; however, autistic participants exhibited lower within-group encoding pattern similarity than NT participants and greater across-group than within-group similarity.",
-        "findings": "",
-        "limitations": "",
-        "why_it_matters": "",
-        "basis": "extractive_abstract",
-        "has_explicit_findings": false,
-        "study_design_hint": "Evidence type not independently verified",
-        "extraction_note": "Passages are quotations or excerpts of the author-supplied abstract; not independently verified."
-      },
-      "quality_flags": [
-        "category_uncertain",
         "findings_not_explicit_in_abstract"
       ],
       "evidence_label": "Publication record / review unverified",
